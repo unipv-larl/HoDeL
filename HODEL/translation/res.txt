@@ -1,0 +1,112 @@
+
+
+########################################################################
+PARAMETERS: 
+	LEN_W=	0.5
+	CAPS_W=	0.3
+	PUNCT_W=	0.2
+	SCORE_MIN=	0.3
+
+########################################################################
+
+processing PARA:  BOOK=1 START=1 END=32
+======================================================================
+MILESTONES=7 GREEK SENTS=13
+
+ FRAME ITERATIONS:15
+
+processing PARA:  BOOK=1 START=33 END=67
+======================================================================
+MILESTONES=8 GREEK SENTS=18
+
+ FRAME ITERATIONS:17
+
+processing PARA:  BOOK=1 START=68 END=91
+======================================================================
+MILESTONES=6 GREEK SENTS=13
+
+ FRAME ITERATIONS:13
+
+processing PARA:  BOOK=1 START=92 END=129
+======================================================================
+MILESTONES=8 GREEK SENTS=22
+
+ FRAME ITERATIONS:31
+
+processing PARA:  BOOK=1 START=130 END=171
+======================================================================
+MILESTONES=10 GREEK SENTS=19
+
+ FRAME ITERATIONS:23
+
+processing PARA:  BOOK=1 START=172 END=205
+======================================================================
+MILESTONES=7 GREEK SENTS=22
+
+ FRAME ITERATIONS:31
+
+processing PARA:  BOOK=1 START=206 END=244
+======================================================================
+MILESTONES=8 GREEK SENTS=28
+
+ FRAME ITERATIONS:35
+
+processing PARA:  BOOK=1 START=245 END=284
+======================================================================
+MILESTONES=9 GREEK SENTS=24
+
+ FRAME ITERATIONS:23
+
+processing PARA:  BOOK=1 START=285 END=311
+======================================================================
+MILESTONES=7 GREEK SENTS=17
+
+ FRAME ITERATIONS:21
+
+processing PARA:  BOOK=1 START=312 END=344
+======================================================================
+MILESTONES=7 GREEK SENTS=19
+
+ FRAME ITERATIONS:21
+
+processing PARA:  BOOK=1 START=345 END=385
+======================================================================
+MILESTONES=9 GREEK SENTS=26
+
+ FRAME ITERATIONS:37
+
+processing PARA:  BOOK=1 START=386 END=427
+======================================================================
+MILESTONES=9 GREEK SENTS=20
+
+ FRAME ITERATIONS:19
+
+processing PARA:  BOOK=1 START=428 END=457
+======================================================================
+MILESTONES=7 GREEK SENTS=16
+
+ FRAME ITERATIONS:21
+
+processing PARA:  BOOK=1 START=458 END=492
+======================================================================
+MILESTONES=8 GREEK SENTS=17
+
+ FRAME ITERATIONS:13
+
+processing PARA:  BOOK=1 START=493 END=530
+======================================================================
+MILESTONES=8 GREEK SENTS=26
+
+ FRAME ITERATIONS:21
+
+processing PARA:  BOOK=1 START=531 END=567
+======================================================================
+MILESTONES=8 GREEK SENTS=27
+
+ FRAME ITERATIONS:29
+
+processing PARA:  BOOK=1 START=568 END=NULL
+======================================================================
+MILESTONES=9 GREEK SENTS=22
+
+ FRAME ITERATIONS:23

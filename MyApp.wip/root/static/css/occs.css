@@ -1,0 +1,19 @@
+/*
+-------------------------------------------------------------------------------*/
+/*
+.verb {
+color: #C35817;
+}
+*/
+
+.verb1.selected {
+/*color: #FF8040;
+border: #FFFF00 2px solid;
+color: #000;*/
+border: #FF8040 2px solid;
+}
+
+.argument {
+border: #00FFFF 2px solid;
+}
+

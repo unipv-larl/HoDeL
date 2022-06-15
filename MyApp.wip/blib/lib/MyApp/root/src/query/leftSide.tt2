@@ -1,0 +1,39 @@
+
+<div id="query-section" class="last">
+
+<h2 class="roundTop section-title" id="query-form-header">Query</h2>
+[% INCLUDE 'query/queryForm.tt2' %]
+
+[% INCLUDE 'query/queryConds.tt2' %]
+
+<div id="query-sum" class="roundTop roundBottom jq-box">
+    <h3 id="lemmataCount" class="loud lemma">
+        <a href="#" onclick="showCategory()">Verbal Head Lemmas: [% lemmataCount %]</a>
+    </h3>
+    <h3 id="reificationsCount" class="loud ">
+        <a href="#">Occurrences: [% reificationsCount %]</a>
+    </h3>
+</div>
+
+</div>
+
+
+<div id="gen-catNavigation" class="last catNavigation catGroup">
+[% INCLUDE 'query/categoriesIndex.tt2' %]
+</div>
+
+<div id="args-query-section"  class="last">
+<div id="args-query-sum" class="roundTop roundBottom jq-box">
+    <h3 id="args-lemmataCount" class="loud argument1">
+        <a href="#" onclick="showArgsCategory()">Args Lemmas: [% argsLemmataCount %]</a>
+    </h3>
+    <h3 id="args-reificationsCount" class="loud ">
+        <a href="#">Occurrences: [% argsReificationsCount %]</a>
+    </h3>
+</div>
+</div>
+
+<div id="args-catNavigation" class="last catNavigation catGroup">
+[% INCLUDE 'query/argumentsIndex.tt2' %]
+</div>
+

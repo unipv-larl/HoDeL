@@ -1,0 +1,58 @@
+
+<h2 class="roundTop section-title catGroupHead">Args Number</h2>
+<div class="roundBottom jq-box">
+    <ul id="num-categories">
+    [% FOREACH cc IN cardCatIndex %]
+        <li class="cat-item argsCard"><input type="radio" class="cat-selector" name="SargsCard" value="[% cc.argsCard %]"/><a href="#" onclick="showCategory({argsCard: '[% cc.argsCard %]'});"><span class="quiet">No. Args: <span class="loud">[% cc.argsCard %]</span>  ( <span class="loud">[% cc.occs %]</span> )</span></a> 
+        [% IF cc.children %]
+        <ul class='children'>
+            [% FOREACH sc IN cc.children %]
+            <li class="cat-item argsSet"><input type="radio" class="cat-selector" name="SargsSet" value="[% sc.argsSet %]"/><a href="#" onclick="showCategory({argsCard: [% cc.argsCard %], argsSet: '[% sc.argsSet %]'});"><span class="quiet">Subcat.: <span class="loud">[% sc.argsSet %]</span> ( <span class="loud">[% sc.occs %]</span> )</span></a>
+            </li>
+            [% END %]
+        </ul>
+        [% END %]
+        </li>
+    [% END %]
+    </ul>
+</div>
+
+<h2 class="roundTop section-title catGroupHead">Args Order</h2>
+<div class="roundBottom jq-box">
+    <ul id="order-categories">
+    [% FOREACH rel IN ordCatIndex %]
+        <li class="cat-item relOrderType"><input type="hidden" class="cat-selector" name="SrelOrderType" value="[% rel.relOrderType %]"/><a><span class="quiet">Relation: </span><span class="loud">[% rel.relOrderType %]</span></a> 
+        [% IF rel.children %]
+        <ul class='children'>
+            [% FOREACH oc IN rel.children %]
+            <li class="cat-item relOrderCat">
+            <input type="radio" class="cat-selector" name="SrelOrderCat[% oc.relOrderType %]" value="[% oc.relOrderCat %]"/>
+            <a href="#" onclick="showCategory({relOrderCat[% oc.relOrderType %]: '[% oc.relOrderCat %]'});">
+            <span class="quiet">Cat.: <span class="loud">[% oc.relOrderCat %]</span> ( <span class="loud">[% oc.occs %]</span> )</span>
+            </a>
+
+
+            [% IF oc.children %]
+            <ul class='children'>
+                [% FOREACH osc IN oc.children %]
+                <li class="cat-item relOrderSubCat">
+                <input type="radio" class="cat-selector" name="SrelOrderSubCat" value="[% osc.relOrderSubCat %]"/>
+                <a href="#" onclick="showCategory({relOrderCat[% oc.relOrderType %]: '[% osc.relOrderCat %]', relOrderSubCat: '[% osc.relOrderSubCat %]'});">
+                <span class="quiet">SubCat.: <span class="loud">[% osc.relOrderSubCat %]</span> ( <span class="loud">[% osc.occs %]</span> )</span>
+                </a>
+                </li>
+                [% END %]
+            </ul>
+            [% END %]
+
+
+
+            </li>
+            [% END %]
+        </ul>
+        [% END %]
+        </li>
+    [% END %]
+    </ul>
+</div>
+

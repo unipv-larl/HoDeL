@@ -1,0 +1,45 @@
+code	verb_l	verb_f	arg_l	arg_f	caso	modo
+001.1SN.DS-8QU3.AR2-AG-3.2-1.3-4	dico	dicit	vox breviata	boet.	-	-
+001.1SN.DS-8QU5.AR2-CO--.23-6.25-7	dico	dicit	vox breviata	comment.	-	-
+001.1SN.DS31QU3.AR2-RA-1.1-1.7-2	dico	dicit	propter	propter	-	-
+001.1SN.DS36QU2.AR1-CO--.25-2.25-9	dico	dicitur	non latina vox	eidos	-	-
+001.1SN.DS36QU2.AR1-CO--.25-2.25-9	sum	est	non latina vox	eidos	-	-
+001.1SN.DS36QU2.AR3-AG-2.1-5.2-5	dico	dicitur	non latina vox	eidos	-	-
+001.1SN.DS36QU2.AR3-AG-2.1-5.2-5	sum	est	non latina vox	eidos	-	-
+002.2SN.DS26QU1.AR6-CO--.17-2.22-3	sum	est	necesse	necesse	-	-
+003.3SN.DS27QU2.AR4CRA-2.6-5.8-6	sum	sunt	quot	quot	-	-
+004.4SN.DS-3QU1.AR1ACO--.12-1.16-4	contineo	continet	hic	hoc	H	-
+004.4SN.DS-6QU2.AR1ACO--.20-7.24-9	baptizo	baptizo	tu	te	H	-
+004.4SN.DS49QU2.AR7-RA-1.1-1.8-4	video	viderit	quod	quod	-	-
+005.SCG*LB1.CP-3++1.N.-2.16-6.20-1	sum	est	necesse	necesse	-	-
+005.SCG*LB1.CP-5++1.N.-5.1-2.5-3	sum	est	necesse	necesse	-	-
+005.SCG*LB1.CP-5++4.N.-2.1-1.5-1	sum	est	necesse	necesse	-	-
+005.SCG*LB2.CP-3++0.N.-8.3-1.7-5	sum	est	necesse	necesse	-	-
+005.SCG*LB2.CP-6++8.N.12.8-3.13-3	sum	sit	aut	aut	-	-
+005.SCG*LB2.CP-7++0.N.-1.1-1.7-3	sum	est	necesse	necesse	-	-
+005.SCG*LB2.CP-7++2.N.-4.27-7.31-6	sum	erit	opus	opus	-	-
+005.SCG*LB3.CP-1++0.N.-9.1-1.6-2	sum	est	necesse	necesse	-	-
+005.SCG*LB3.CP-2++2.N.-3.7-3.11-1	habeo	habentia	ubi	ubi	-	-
+005.SCG*LB3.CP-2++3.N.-5.18-2.20-3	congruo	congruit	ubi	ubi	-	-
+005.SCG*LB3.CP-4++3.N.-2.1-1.5-5	sum	est	necesse	necesse	-	-
+005.SCG*LB3.CP-5++8.N.-1.1-1.8-1	sum	est	necesse	necesse	-	-
+005.SCG*LB3.CP-9++7.N.-3.3-2.9-2	sum	est	necesse	necesse	-	-
+005.SCG*LB3.CP-9++7.N.-7.4-1.6-2	sum	est	necesse	necesse	-	-
+005.SCG*LB3.CP-9++7.N.11.6-3.9-4	sum	est	necesse	necesse	-	-
+005.SCG*LB4.CP-1++4.N.-5.4-6.7-3	sum	est	necesse	necesse	-	-
+005.SCG*LB4.CP-8++6.N.-1.6-3.9-1	vivifico	vivificans	,	,	-	-
+005.SCG*LB4.CP-8++6.N.-1.6-3.9-1	conservo	conservans	,	,	-	-
+005.SCG*LB4.CP-8++9.N.-4.31-3.33-7	sum	sit	necesse	necesse	-	-
+007.ST1.QU--++3.AR-3CO--.2-2.4-4	sum	est	necesse	necesse	-	-
+007.ST1.QU--++4.AR-3CO--.14-1.16-6	sum	est	necesse	necesse	-	-
+007.ST1.QU--++5.AR-5CO--.5-2.9-8	sum	est	necesse	necesse	-	-
+007.ST1.QU--++6.AR-3CO--.7-7.11-6	consisto	consistit	hujusmodi	huiusmodi	-	-
+007.ST1.QU--++7.AR-2CO--.13-7.22-2	sum	est	necesse	necesse	-	-
+007.ST1.QU--++7.AR-3CO--.16-1.19-3	sum	est	necesse	necesse	-	-
+007.ST1.QU-1++4.AR11CO--.43-1.47-8	sum	est	necesse	necesse	-	-
+007.ST1.QU-1++5.AR-1CO--.9-4.10-7	sum	est	necesse	necesse	-	-
+007.ST1.QU-1++5.AR-1CO--.20-1.24-10	sum	est	necesse	necesse	-	-
+007.ST1.QU-1++6.AR-2CO--.3-8.7-5	sum	est	necesse	necesse	-	-
+007.ST1.QU-3++9.AR-7AG-2.2-5.4-1	sum	est	eo eam eas^eo/is	eo	-	-
+007.ST1.QU-4++0.AR-2CO--.18-8.21-9	sum	est	necesse	necesse	-	-
+007.ST1.QU-4++5.AR-4CO--.14-1.16-5	sum	sunt	hujusmodi	huiusmodi	-	-

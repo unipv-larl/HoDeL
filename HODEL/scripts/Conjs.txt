@@ -1,0 +1,17 @@
+concat('\'',conj,'\',')
+NULL
+'quod',
+'unde',
+'quia',
+'ut',
+'sicut',
+'quin',
+'quando',
+'dum',
+'si',
+'ne',
+'cum',
+'an',
+'quare',
+'sive',
+'neque',

@@ -1,0 +1,26 @@
+
+[% INCLUDE query/listHeader.tt2 listType='List of Argument Lemmas' %]
+
+[% IF pager.previous_page %]
+<a href="#" onclick="javascript:showArgsCategoryPage([% pager.previous_page %])">Previous Page</a>
+[% END %]
+[% IF pager.next_page %]
+<a href="#" onclick="javascript:showArgsCategoryPage([% pager.next_page %])">Next Page</a>
+[% END %]
+<hr/>
+<div id="tabella" class="args-table last">
+[% rmax = lemmiArgs.size / 4 ; row = 0 %]
+    <div class="span-3">
+    [% FOREACH v IN lemmiArgs -%]
+    [% IF row >= rmax %]
+    </div>
+    <div class="span-3">
+    [% row = 1 %]
+    [% ELSE %]
+    [% row = row +1 %]
+    [% END %]
+        <a class="argument1" href="#">[% v.lemma %]</a> <span class="argument1"> ([% v.get_column('argsOccs'); %])</span><br/>
+    [% END -%]
+    </div>
+</div>
+

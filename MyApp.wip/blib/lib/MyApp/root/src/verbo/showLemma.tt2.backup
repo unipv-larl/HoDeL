@@ -1,0 +1,222 @@
+[% MACRO tokenInfo BLOCK %]
+<script type="text/javascript"> pageTokens['[% token.id %]']={lemma: '[% token.lemma %]',
+pos:[% SWITCH token.pos %]
+[%   CASE '1' %]'Nominal'
+[%   CASE '2' %]'Participial'
+[%   CASE '3' %]'Verbal'
+[%   CASE '4' %]'Invariable'
+[%   CASE %]''                       
+[% END %]
+,cat_fl: [% SWITCH token.cat_fl %]
+[%   CASE 'J' %]'I conjug'
+[%   CASE 'K' %]'II conjug'
+[%   CASE 'L' %]'III conjug'
+[%   CASE 'M' %]'IV conjug'
+[%   CASE 'N' %]'Regularly irregular  conjug'
+[%   CASE 'A' %]'I decl'
+[%   CASE 'B' %]'II decl'
+[%   CASE 'C' %]'III decl'
+[%   CASE 'D' %]'IV decl'
+[%   CASE 'E' %]'V decl'
+[%   CASE 'F' %]'Regularly irregular decl'
+[%   CASE 'G' %]'Uninflected nominal'
+[%   CASE 'O' %]'Invariable'
+[%   CASE 'S' %]'Prepositional particle'
+[%   CASE %]''                       
+[% END %]
+,modo: [% SWITCH token.modo %]
+[%   CASE 'A' %]'Active indicative'
+[%   CASE 'J' %]'Pass/Dep indicativeJ'
+[%   CASE 'B' %]'Active subjunctive'
+[%   CASE 'K' %]'Pass/Dep subjunctive'
+[%   CASE 'C' %]'Active imperative'
+[%   CASE 'L' %]'Pass/Dep imperative'
+[%   CASE 'D' %]'Active participle'
+[%   CASE 'M' %]'Pass/Dep Participle'
+[%   CASE 'E' %]'Active gerund'
+[%   CASE 'N' %]'Passive Gerund'                            
+[%   CASE 'O' %]'Pass/Dep gerundive'                        
+[%   CASE 'G' %]'Active supine'                             
+[%   CASE 'P' %]'Pass/Dep supine'                           
+[%   CASE 'H' %]'Active infinitive'                         
+[%   CASE 'Q' %]'Pass/Dep infinitive'                       
+[%   CASE %]''                       
+[% END %]
+,tempo: [% SWITCH token.tempo %]
+[%   CASE '1' %]'Present'
+[%   CASE '2' %]'Imperfect'
+[%   CASE '3' %]'Future'
+[%   CASE '4' %]'Perfect'
+[%   CASE '5' %]'Plusperfect'
+[%   CASE '6' %]'Future perfect'
+[%   CASE %]''                       
+[% END %]
+,caso: [% SWITCH token.caso %]
+[%   CASE 'A' %]'Singular Nominative'
+[%   CASE 'J' %]'Plural Nominative'
+[%   CASE 'B' %]'Singular Genitive' 
+[%   CASE 'K' %]'Plural Genitive'                           
+[%   CASE 'C' %]'Singular Dative'                           
+[%   CASE 'L' %]'Plural Dative'
+[%   CASE 'D' %]'Singular Accusative'                       
+[%   CASE 'M' %]'Plural Accusative'                         
+[%   CASE 'E' %]'Singular Vocative'                
+[%   CASE 'N' %]'Plural Vocative'                  
+[%   CASE 'F' %]'Singular Ablative'                
+[%   CASE 'O' %]'Plural Ablative'                  
+[%   CASE 'G' %]'Adverbial'                        
+[%   CASE 'H' %]'Casus plurimus'                 
+[%   CASE %]''                       
+[% END %]
+,gen_num: [% SWITCH token.gen_num %]
+[%   CASE '1' %]'Masculine'
+[%   CASE '2' %]'Feminine'
+[%   CASE '3' %]'Neuter'
+[%   CASE '4' %]'I singular'
+[%   CASE '5' %]'II singular'
+[%   CASE '6' %]'III singular'
+[%   CASE '7' %]'I plural'
+[%   CASE '8' %]'II plural'
+[%   CASE '9' %]'III plural'
+[%   CASE %]''                       
+[% END %]
+, grado_nom: [% SWITCH token.grado_nom %]
+[%   CASE '1' %]'Positive'
+[%   CASE '2' %]'Comparative'
+[%   CASE '3' %]'Superlative'
+[%   CASE '4' %]'Not stable composition'
+[%   CASE %]''                       
+[% END %]
+,grado_part: [% SWITCH token.grado_part %]
+[%   CASE '1' %]'Positive'
+[%   CASE '2' %]'Comparative'
+[%   CASE '3' %]'Superlative'
+[%   CASE %]''                       
+[% END %]
+};</script>
+[% END %]
+
+<h3 class="alt">Occurrences of 
+[% IF lemma -%]
+lemma: <span class="loud">[% lemma -%]</span> - 
+[% END -%]
+[% IF cardinality || cardinality == 0 -%]
+No. Arguments: <span class="loud">[% cardinality -%]</span>
+[% END -%]
+[% IF set -%]
+Subcategory: <span class="loud">[% set -%]</span>
+[% END -%]
+
+[% IF orderRel -%]
+Partial Order: <span class="loud">[% orderRel -%]</span>
+[% END -%]
+[% IF order -%]
+Order: <span class="loud">[% order -%]</span>
+[% END -%]
+
+[% IF catType=='args' -%]
+[% IF argLemma -%]
+Argument Lemma: <span class="loud">[% argLemma -%]</span>
+[% END -%]
+[% IF argAfun -%]
+Argument Releation: <span class="loud">[% argAfun -%]</span>
+[% END -%]
+[% END -%]
+[% IF argCase -%]
+Argument [% IF argCase != "CLAUSE" -%]Case[% END -%]: <span class="loud">[% argCase -%]</span>
+[% END -%]
+</h3>
+[% IF pager.previous_page %]
+<a href="#" onclick="javascript:showLemmaPage([% pager.previous_page %])">Previous Page</a>
+[% END %]
+[% IF pager.next_page %]
+<a href="#" onclick="javascript:showLemmaPage([% pager.next_page %])">Next Page</a>
+[% END %]
+    <hr/>
+
+[% IF cardinality!=0 -%]
+    [% curFrase='' %]
+<script type="text/javascript"> var pageTokens={};</script>
+    [% FOREACH t IN tokensVerbali -%]
+        [% s=t.get_column('sentence') -%]
+        [% f=t.get_column('forma') -%]
+
+        [% IF s != curFrase -%]
+           [% IF curFrase != '' -%]</p>
+           [% FOREACH st IN sentTree -%]
+              [% IF st.get_column('sentence') == curFrase %]
+                 [% iname = '/src/verbo/trees/' _ st.get_column('root') _ '.png' %]
+                 <img src="[% c.uri_for(iname) %]">        
+                 <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>     
+              [% END -%]
+           [% END -%]
+           <hr>
+           [% END -%]
+           <h6 class="quiet">[% s -%]</h6>
+           <p>
+           [% curFrase=s -%]
+        [% END -%]
+
+        [% tokenInfo( token = t ) %]
+        <span id='[% t.id %]' class="fraseTok [% IF t.pos=='2' || t.pos=='3'%]verb[% END %]">[% f %]</span>
+    [% END -%]
+
+    [% IF curFrase != '' -%]</p>
+       [% FOREACH st IN sentTree -%]
+          [% IF st.get_column('sentence') == curFrase %]
+            [% iname = '/src/verbo/trees/' _ st.get_column('root') _ '.png' %]
+            <img src="[% c.uri_for(iname) %]">
+            <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>        
+          [% END -%]
+       [% END -%]
+    [% END -%]
+[% ELSE -%]
+    [% curFrase='' %]
+    [% FOREACH t IN tokensVerbali -%]
+      [% s=t.get_column('sentence') -%]
+      [% f=t.get_column('forma') -%]
+      [% IF s != curFrase -%]
+      [% IF curFrase != '' -%]</p>
+      <hr>
+      [% END -%]
+      <h6 class="quiet">[% s -%]</h6>
+      <p>
+      [% curFrase=s -%]
+      [% END -%]
+[% tokenInfo( token = t ) %]
+      <span id='[% t.id %]' class="fraseTok [% IF t.pos=='2' || t.pos=='3'%]verb[% END %]">[% f %]</span>
+    [% END -%]
+
+      [% IF curFrase != '' -%]</p>
+      [% END -%]
+
+       [% FOREACH st IN sentTree -%]
+            <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>        
+       [% END -%]
+
+[% END -%]
+
+<!---->
+<script type="text/javascript"> 
+$(".fraseTok").tooltip({ 
+    bodyHandler: function() { 
+        return '<b>' + pageTokens[$(this).attr('id')].pos + '</b> inflection' + 
+               '<br/>of lemma <b>' + pageTokens[$(this).attr('id')].lemma + '</b>' + 
+               '<br/><b>'  + pageTokens[$(this).attr('id')].cat_fl + '</b>' + 
+               ((pageTokens[$(this).attr('id')].modo != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].modo + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].tempo != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].tempo + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].caso != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].caso + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].gen_num != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].gen_num + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].grado_nom != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].grado_nom + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].grado_part != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].grado_part + '</b>':'');
+    }, 
+    showURL: false 
+});
+
+[% FOREACH a IN arguments -%]
+$("#" + "[% a.get_column('arg_id') %]").addClass("argument")
+[% END %]
+
+
+</script>
+<!---->

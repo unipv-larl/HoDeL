@@ -1,0 +1,44 @@
+
+<h2 class="roundTop section-title catGroupHead">Arguments</h2>
+<div class="roundBottom jq-box">
+    <ul id="arguments-categories">
+    <li class="cat-item"><a><span class="quiet">Args By Relation</span></a> 
+
+    <ul id="argsByRelation" class='children'>
+    [% FOREACH relRow IN tALbyRelation %]
+        [% rel=relRow.get_column('relation') %]
+        <li class="cat-item">
+        <input type="radio" class="cat-selector" name="ScurArgRel" value="[% rel %]"/>
+        <a href="#" onclick="showArgsCategory({curArgRel: '[% rel %]'});">
+        <span class="loud">[% rel %]  ( [% relRow.get_column('argsOccs')%] )</span>
+        </a> 
+        </li>
+    [% END %]
+    </ul>
+
+    </li>
+
+    <li class="cat-item"><a><span class="quiet">Args By Case/Mood</span></a> 
+
+    <ul id="argsByCase" class='children'>
+[% FOREACH key IN CaseMoodO.nsort %]
+    [% FOREACH cazRow IN tALbyCase %]
+        [% caso=cazRow.get_column('caso') %]
+[% NEXT IF caso != key %]    
+        <li class="cat-item">
+        <input type="radio" class="cat-selector" name="ScurArgCas" value="[% IF caso %][% caso %][% ELSE  %]NULL[% END %]"/>
+        <a href="#" onclick="showArgsCategory({curArgCas: '[% IF caso %][% caso %][% ELSE  %]NULL[% END %]'});">
+        <span class="quiet">[% CaseMoodT.$caso %]</span>
+        <span class="loud">[% IF caso %][% CaseMoodV.$caso %][% ELSE  %]INV./UNINFL.[% END %]  ( [% cazRow.get_column('argsOccs')%] )</span>
+        </a> 
+        </li>
+        [% LAST %]
+    [% END %]
+[% END %]
+    </ul>
+
+    </li>
+
+    </ul>
+</div>
+

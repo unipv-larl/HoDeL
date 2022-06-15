@@ -1,0 +1,35 @@
+
+
+
+<h3 class="alt">List of Lemmata
+[% IF argsCard || argsCard == 0 -%]
+ - No. Arguments: <span class="loud">[% argsCard -%]</span>
+[% END -%]
+[% IF argsSet -%]
+Subcategory: <span class="loud">[% argsSet -%]</span>
+[% END -%]
+</h3>
+[% IF pager.previous_page %]
+<a href="#" onclick="javascript:showCategoryPage([% pager.previous_page %])">Previous Page</a>
+[% END %]
+[% IF pager.next_page %]
+<a href="#" onclick="javascript:showCategoryPage([% pager.next_page %])">Next Page</a>
+[% END %]
+<hr/>
+
+<div id="tabella" class="span-16 last">
+[% rmax = lemmiVerbali.size / 5 ; row = 0 %]
+    <div class="span-3">
+    [% FOREACH v IN lemmiVerbali -%]
+    [% IF row > rmax %]
+    </div>
+    <div class="span-3">
+    [% row = 1 %]
+    [% ELSE %]
+    [% row = row +1 %]
+    [% END %]
+        <a class="lemmaLink" href="#">[% v.lemma %]</a> <span> ([% v.get_column('num'); %])</span><br/>
+    [% END -%]
+    </div>
+</div>
+

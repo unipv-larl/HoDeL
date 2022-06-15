@@ -1,0 +1,2485 @@
+diff out/alignment_res_ILIAD_10_.txt ../add_translation/out/alignment_res_ILIAD_10_.txt
+2341c2341
+<  START=540 END=579
+---
+>  START=540 END=NULL
+2436c2436
+< from line 555 to line 559
+---
+> from line 555 to line 557
+2439d2438
+< ἵπποι δ̓ οἵδε γεραιὲ νεήλυδες οὓς ἐρεείνεις Θρηΐκιοι·[558,559]
+2450c2449
+< from line 559 to line 563
+---
+> from line 558 to line 563
+2451a2451
+> ἵπποι δ̓ οἵδε γεραιὲ νεήλυδες οὓς ἐρεείνεις Θρηΐκιοι·[558,559]
+2480c2480
+< from line 570 to line 571
+---
+> from line 570 to line 576
+2483,2494d2482
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 570 to MILESTONE 579
+< ======================================================================
+<   But for themselves they entered the sea and washed away the abundant sweat from shins and necks and thighs.  And when the wave of the sea had washed the abundant sweat [575] from their skin, and their hearts were refreshed, they went into polished baths and bathed.
+< ----------------------------------------------------------------------
+< from line 572 to line 576
+< ----------------------------------------------------------------------
+2503c2491
+< from MILESTONE 575 to MILESTONE 579
+---
+> from MILESTONE 570 to MILESTONE 575
+2505,2506c2493
+<   But when the twain had bathed and anointed them richly with oil, they sate them down at supper, and from the full mixing-bowl they drew off honey-sweet wine and made libation to Athene.
+< 
+---
+>   But for themselves they entered the sea and washed away the abundant sweat from shins and necks and thighs.  And when the wave of the sea had washed the abundant sweat 
+diff out/alignment_res_ILIAD_11_.txt ../add_translation/out/alignment_res_ILIAD_11_.txt
+3084c3084
+<  START=822 END=848
+---
+>  START=822 END=NULL
+3139a3140
+> ὃ δ̓ ἐν πεδίῳ Τρώων μένει ὀξὺν Ἄρηα.[836,836]
+3151c3152
+< from line 836 to line 836
+---
+> from line 837 to line 837
+3153c3154
+< ὃ δ̓ ἐν πεδίῳ Τρώων μένει ὀξὺν Ἄρηα.[836,836]
+---
+> τὸν δ̓ αὖτε προσέειπε Μενοιτίου ἄλκιμος υἱός·[837,837]
+3164c3165
+< from line 837 to line 837
+---
+> from line 838 to line 838
+3166c3167
+< τὸν δ̓ αὖτε προσέειπε Μενοιτίου ἄλκιμος υἱός·[837,837]
+---
+> πῶς τὰρ ἔοι τάδε ἔργα;[838,838]
+3179d3179
+< πῶς τὰρ ἔοι τάδε ἔργα;[838,838]
+3194c3194
+< from line 842 to line 843
+---
+> from line 842 to line 848
+3196a3197,3198
+> θεράπων δὲ ἰδὼν ὑπέχευε βοείας.[843,843]
+> ἔνθά μιν ἐκτανύσας ἐκ μηροῦ τάμνε μαχαίρῃ ὀξὺ βέλος περιπευκές, ἀπ̓ αὐτοῦ δ̓ αἷμα κελαινὸν νίζ̓ ὕδατι λιαρῷ, ἐπὶ δὲ ῥίζαν βάλε πικρὴν χερσὶ διατρίψας ὀδυνήφατον, ἥ οἱ ἁπάσας ἔσχ̓ ὀδύνας·[844,848]
+3203c3205
+< from MILESTONE 840 to MILESTONE 848
+---
+> from MILESTONE 840 to MILESTONE 845
+3205c3207
+<   There Patroclus made him lie at length, [845] and with a knife cut from his thigh the sharp-piercing arrow, and from the wound washed the black blood with warm water, and upon it cast a bitter root, when he had rubbed it between his hands, a root that slayeth pain, which stayed all his pangs; and the wound waxed dry, and the blood ceased.[848]
+---
+>   There Patroclus made him lie at length, 
+3207c3209
+< from line 843 to line 848
+---
+> from line 848 to line 848
+3209,3210d3210
+< θεράπων δὲ ἰδὼν ὑπέχευε βοείας.[843,843]
+< ἔνθά μιν ἐκτανύσας ἐκ μηροῦ τάμνε μαχαίρῃ ὀξὺ βέλος περιπευκές, ἀπ̓ αὐτοῦ δ̓ αἷμα κελαινὸν νίζ̓ ὕδατι λιαρῷ, ἐπὶ δὲ ῥίζαν βάλε πικρὴν χερσὶ διατρίψας ὀδυνήφατον, ἥ οἱ ἁπάσας ἔσχ̓ ὀδύνας·[844,848]
+diff out/alignment_res_ILIAD_12_.txt ../add_translation/out/alignment_res_ILIAD_12_.txt
+1384c1384
+<  START=442 END=471
+---
+>  START=442 END=NULL
+1427c1427
+< from line 457 to line 462
+---
+> from line 457 to line 463
+1430a1431
+> ὃ δ̓ ἄῤ ἔσθορε φαίδιμος Ἕκτωρ νυκτὶ θοῇ ἀτάλαντος ὑπώπια·[462,463]
+1441c1442
+< from line 462 to line 466
+---
+> from line 463 to line 466
+1443d1443
+< ὃ δ̓ ἄῤ ἔσθορε φαίδιμος Ἕκτωρ νυκτὶ θοῇ ἀτάλαντος ὑπώπια·[462,463]
+1456c1456
+< from line 466 to line 466
+---
+> from line 466 to line 468
+1458a1459,1460
+> κέκλετο δὲ Τρώεσσιν ἑλιξάμενος καθ̓ ὅμιλον τεῖχος ὑπερβαίνειν·[467,468]
+> τοὶ δ̓ ὀτρύνοντι πίθοντο.[468,468]
+1469c1471
+< from line 467 to line 468
+---
+> from line 469 to line 470
+1471,1472c1473
+< κέκλετο δὲ Τρώεσσιν ἑλιξάμενος καθ̓ ὅμιλον τεῖχος ὑπερβαίνειν·[467,468]
+< τοὶ δ̓ ὀτρύνοντι πίθοντο.[468,468]
+---
+> αὐτίκα δ̓ οἳ μὲν τεῖχος ὑπέρβασαν, οἳ δὲ κατ̓ αὐτὰς ποιητὰς ἐσέχυντο πύλας·[469,470]
+1479c1480
+< from MILESTONE 465 to MILESTONE 471
+---
+> from MILESTONE 465 to MILESTONE 470
+1481c1482
+<   Forthwith some clomb over the wall, and others poured in [470] by the strong-built gate, and the Danaans were driven in rout among the hollow ships, and a ceaseless din arose.[471]
+---
+>   Forthwith some clomb over the wall, and others poured in 
+1483c1484
+< from line 469 to line 471
+---
+> from line 470 to line 471
+1485d1485
+< αὐτίκα δ̓ οἳ μὲν τεῖχος ὑπέρβασαν, οἳ δὲ κατ̓ αὐτὰς ποιητὰς ἐσέχυντο πύλας·[469,470]
+diff out/alignment_res_ILIAD_13_.txt ../add_translation/out/alignment_res_ILIAD_13_.txt
+2960c2960
+<  START=821 END=837
+---
+>  START=821 END=NULL
+2996c2996
+< from MILESTONE 821 to MILESTONE 837
+---
+> from MILESTONE 821 to MILESTONE 830
+2998c2998
+<  [825] I would that I mine own self were all my days as surely the son of Zeus, that beareth the aegis, and my mother were the queenly Hera, and that I were honoured even as are Athene and Apollo, as verily this day beareth evil for the Argives, one and all; and among them shalt thou too be slain, if thou have the heart [830] to abide my long spear, that shall rend thy lily-like skin; and thou shalt glut with thy fat and thy flesh the dogs and birds of the Trojans, when thou art fallen amid the ships of the Achaeans."
+---
+>  [825] I would that I mine own self were all my days as surely the son of Zeus, that beareth the aegis, and my mother were the queenly Hera, and that I were honoured even as are Athene and Apollo, as verily this day beareth evil for the Argives, one and all; and among them shalt thou too be slain, if thou have the heart [830]
+3000c3000
+< from line 825 to line 833
+---
+> from line 825 to line 837
+3005,3017d3004
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 830 to MILESTONE 837
+< ======================================================================
+< 
+< So spake he, and led the way; and they followed after with a wondrous din, and the host shouted behind. 
+< ----------------------------------------------------------------------
+< from line 833 to line 837
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_14_.txt ../add_translation/out/alignment_res_ILIAD_14_.txt
+2079c2079
+<  START=506 END=522
+---
+>  START=506 END=NULL
+2117c2117
+<  He smote Hyrtius, the son of Gyrtius, leader of the Mysians stalwart of heart; and Antilochus stripped the spoils from Phalces and Mermerus, and Meriones slew Morys and Hippotion, [515] and Teucer laid low Prothoön and Periphetes,; thereafter Atreus' son smote with a thrust in the flank Hyperenor, shepherd of the host, and the bronze let forth the bowels, as it clove through, and his soul sped hastening through the stricken wound, and darkness enfolded his eyes.
+---
+>  He smote Hyrtius, the son of Gyrtius, leader of the Mysians stalwart of heart; and Antilochus stripped the spoils from Phalces and Mermerus, and Meriones slew Morys and Hippotion, [515] and Teucer laid low Prothoön and Periphetes,; thereafter Atreus' son smote with a thrust in the flank Hyperenor, shepherd of the host, and the bronze let forth the bowels, as it clove through, and his soul sped hastening through the stricken wound, and darkness enfolded his eyes. [520]
+2119c2119
+< from line 513 to line 520
+---
+> from line 513 to line 522
+2126,2137d2125
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 515 to MILESTONE 522
+< ======================================================================
+<  [520] But most men did Aias slay, the swift son of Oïleus; for there was none other like him to pursue with speed of foot amid the rout of men, when Zeus turned them to flight.[522]
+< ----------------------------------------------------------------------
+< from line 521 to line 522
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_15_.txt ../add_translation/out/alignment_res_ILIAD_15_.txt
+2560c2560
+<  START=696 END=746
+---
+>  START=696 END=NULL
+2668d2667
+< So spake he, and they leapt the more upon the Argives.
+2681a2681,2694
+> 
+> So spake he, and they leapt the more upon the Argives.
+> ----------------------------------------------------------------------
+> from line 727 to line 727
+> ----------------------------------------------------------------------
+> Αἴας δ̓ οὐκέτ̓ ἔμιμνε·[727,727]
+> 
+> ########################################################################
+> 
+> 
+> 
+> ======================================================================
+> from MILESTONE 725 to MILESTONE 730
+> ======================================================================
+2686d2698
+< Αἴας δ̓ οὐκέτ̓ ἔμιμνε·[727,727]
+2737c2749
+<  In no wise is there hard at hand a city fenced with walls, whereby we might defend ourselves, having a host to turn the tide of battle; nay, it is in the plain of the mail-clad Trojans [740] that we are set, with naught to support us but the sea, and far from our native land. Therefore in the might of our hands is the light of deliverance, and not in slackness in fight."
+---
+>  In no wise is there hard at hand a city fenced with walls, whereby we might defend ourselves, having a host to turn the tide of battle; nay, it is in the plain of the mail-clad Trojans [740] that we are set, with naught to support us but the sea, and far from our native land.
+2752,2753c2764
+< 
+< He spake, and kept driving furiously at the foe with his sharp spear.
+---
+>  Therefore in the might of our hands is the light of deliverance, and not in slackness in fight."
+2764c2775
+< from MILESTONE 740 to MILESTONE 746
+---
+> from MILESTONE 740 to MILESTONE 745
+2766c2777,2778
+<  And whoso of the Trojans would rush upon the hollow ships with blazing fire, doing pleasure to Hector at his bidding, [745] for him would Aias wait, and wound him with a thrust of his long spear; and twelve men did he wound in close fight in front of the ships.[746]
+---
+> 
+> He spake, and kept driving furiously at the foe with his sharp spear. And whoso of the Trojans would rush upon the hollow ships with blazing fire, doing pleasure to Hector at his bidding, 
+diff out/alignment_res_ILIAD_16_.txt ../add_translation/out/alignment_res_ILIAD_16_.txt
+3082c3082
+<  START=818 END=867
+---
+>  START=818 END=NULL
+3152a3153
+> σὲ δέ τ̓ ἐνθάδε γῦπες ἔδονται.[836,836]
+3163c3164
+< from line 836 to line 841
+---
+> from line 837 to line 842
+3165d3165
+< σὲ δέ τ̓ ἐνθάδε γῦπες ἔδονται.[836,836]
+3168,3179d3167
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 840 to MILESTONE 845
+< ======================================================================
+<  So, I ween, spake he to thee, and persuaded thy wits in thy witlessness."
+< ----------------------------------------------------------------------
+< from line 842 to line 842
+< ----------------------------------------------------------------------
+3189,3190c3177
+< 
+< Then, thy strength all spent, didst thou answer him, knight Patroclus:
+---
+>  So, I ween, spake he to thee, and persuaded thy wits in thy witlessness."
+3203c3190,3191
+<  "For this time, Hector, boast thou mightily; for to thee have [845] Zeus, the son of Cronos, and Apollo, vouchsafed victory, they that subdued me full easily, for of themselves they took the harness from my shoulders.
+---
+> 
+> Then, thy strength all spent, didst thou answer him, knight Patroclus: "For this time, Hector, boast thou mightily; for to thee have [845] Zeus, the son of Cronos, and Apollo, vouchsafed victory, they that subdued me full easily, for of themselves they took the harness from my shoulders.
+3205c3193
+< from line 844 to line 846
+---
+> from line 844 to line 848
+3209a3198
+> τοιοῦτοι δ̓ εἴ πέρ μοι ἐείκοσιν ἀντεβόλησαν, πάντές κ̓ αὐτόθ̓ ὄλοντο ἐμῷ ὑπὸ δουρὶ δαμέντες.[847,848]
+3220c3209
+< from line 847 to line 848
+---
+> from line 849 to line 850
+3222c3211
+< τοιοῦτοι δ̓ εἴ πέρ μοι ἐείκοσιν ἀντεβόλησαν, πάντές κ̓ αὐτόθ̓ ὄλοντο ἐμῷ ὑπὸ δουρὶ δαμέντες.[847,848]
+---
+> ἀλλά με μοῖῤ ὀλοὴ καὶ Λητοῦς ἔκτανεν υἱός, ἀνδρῶν δ̓ Εὔφορβος·[849,850]
+3231c3220
+<  Nay, it was baneful Fate and the son of Leto that slew me, [850] and of men Euphorbus, while thou art the third in my slaying. And another thing will I tell thee, and do thou lay it to heart:
+---
+>  Nay, it was baneful Fate and the son of Leto that slew me, [850] and of men Euphorbus, while thou art the third in my slaying.
+3233c3222
+< from line 849 to line 851
+---
+> from line 850 to line 851
+3235d3223
+< ἀλλά με μοῖῤ ὀλοὴ καὶ Λητοῦς ἔκτανεν υἱός, ἀνδρῶν δ̓ Εὔφορβος·[849,850]
+3246c3234
+<  verily thou shalt not thyself be long in life, but even now doth death stand hard by thee, and mighty fate, that thou be slain beneath the hands of Achilles, the peerless son of Aeacus."
+---
+>  And another thing will I tell thee, and do thou lay it to heart: verily thou shalt not thyself be long in life, but even now doth death stand hard by thee, and mighty fate, that thou be slain beneath the hands of Achilles, the peerless son of Aeacus."
+3263c3251
+< from line 856 to line 857
+---
+> from line 856 to line 858
+3266,3277d3253
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 855 to MILESTONE 860
+< ======================================================================
+<  And to him even in his death spake glorious Hector:
+< ----------------------------------------------------------------------
+< from line 858 to line 858
+< ----------------------------------------------------------------------
+3287c3263
+< 
+---
+>  And to him even in his death spake glorious Hector:
+3303c3279
+< from line 860 to line 861
+---
+> from line 860 to line 863
+3305a3282
+> ὣς ἄρα φωνήσας δόρυ χάλκεον ἐξ ὠτειλῆς εἴρυσε λὰξ προσβάς, τὸν δ̓ ὕπτιον ὦσ̓ ἀπὸ δουρός.[862,863]
+3317c3294
+< from line 862 to line 863
+---
+> from line 864 to line 865
+3319c3296
+< ὣς ἄρα φωνήσας δόρυ χάλκεον ἐξ ὠτειλῆς εἴρυσε λὰξ προσβάς, τὸν δ̓ ὕπτιον ὦσ̓ ἀπὸ δουρός.[862,863]
+---
+> αὐτίκα δὲ ξὺν δουρὶ μετ̓ Αὐτομέδοντα βεβήκει ἀντίθεον θεράποντα ποδώκεος Αἰακίδαο·[864,865]
+3326c3303
+< from MILESTONE 860 to MILESTONE 867
+---
+> from MILESTONE 860 to MILESTONE 865
+3328c3305
+<  And forthwith he was gone with his spear after Automedon, the god-like squire of the swift-footed son of Aeacus, [865] for he was fain to smite him; but his swift horses bare him away, the immortal horses that the gods gave as glorious gifts to Peleus.[867]
+---
+>  And forthwith he was gone with his spear after Automedon, the god-like squire of the swift-footed son of Aeacus, 
+3330c3307
+< from line 864 to line 867
+---
+> from line 866 to line 867
+3332d3308
+< αὐτίκα δὲ ξὺν δουρὶ μετ̓ Αὐτομέδοντα βεβήκει ἀντίθεον θεράποντα ποδώκεος Αἰακίδαο·[864,865]
+diff out/alignment_res_ILIAD_17_.txt ../add_translation/out/alignment_res_ILIAD_17_.txt
+2823c2823
+<  START=735 END=761
+---
+>  START=735 END=NULL
+2880c2880
+<  [755] And as flieth a cloud of starlings or of daws, shrieking cries of doom, when they see coming upon them a falcon that beareth death unto small birds; so before Aeneas and Hector fled the youths of the Achaeans, shrieking cries of doom, and forgat all fighting.
+---
+>  [755] And as flieth a cloud of starlings or of daws, shrieking cries of doom, when they see coming upon them a falcon that beareth death unto small birds; so before Aeneas and Hector fled the youths of the Achaeans, shrieking cries of doom, and forgat all fighting. [760]
+2882c2882
+< from line 755 to line 759
+---
+> from line 755 to line 761
+2885,2896d2884
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 755 to MILESTONE 761
+< ======================================================================
+<  [760] And fair arms full many fell around and about the trench as the Danaans fled; but there was no ceasing from war.[761]
+< ----------------------------------------------------------------------
+< from line 760 to line 761
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_18_.txt ../add_translation/out/alignment_res_ILIAD_18_.txt
+2737c2737
+<  START=590 END=617
+---
+>  START=590 END=NULL
+2829c2829
+< from MILESTONE 610 to MILESTONE 617
+---
+> from MILESTONE 610 to MILESTONE 615
+2832c2832
+< But when the glorious god of the two strong arms had fashioned all the armour, [615] he took and laid it before the mother of Achilles. And like a falcon she sprang down from snowy Olympus, bearing the flashing armour from Hephaestus.[617]
+---
+> But when the glorious god of the two strong arms had fashioned all the armour, 
+diff out/alignment_res_ILIAD_19_.txt ../add_translation/out/alignment_res_ILIAD_19_.txt
+1654c1654
+<  START=387 END=424
+---
+>  START=387 END=NULL
+1723c1723
+< from line 404 to line 406
+---
+> from line 404 to line 407
+1726a1727
+> αὐδήεντα δ̓ ἔθηκε θεὰ λευκώλενος Ἥρη·[407,407]
+1737c1738
+< from line 407 to line 414
+---
+> from line 408 to line 414
+1739d1739
+< αὐδήεντα δ̓ ἔθηκε θεὰ λευκώλενος Ἥρη·[407,407]
+1781a1782
+>  
+1783c1784
+< from line 419 to line 420
+---
+> from line 419 to line 424
+1788,1800d1788
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 415 to MILESTONE 424
+< ======================================================================
+< 
+<  [420] "Xanthus, why dost thou prophesy my death? Thou needest not at all.
+< ----------------------------------------------------------------------
+< from line 421 to line 422
+< ----------------------------------------------------------------------
+1802,1813d1789
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 420 to MILESTONE 424
+< ======================================================================
+<  Well know I even of myself that it is my fate to perish here, far from my father dear, and my mother; howbeit even so will I not cease, until I have driven the Trojans to surfeit of war."
+< ----------------------------------------------------------------------
+< from line 422 to line 423
+< ----------------------------------------------------------------------
+1815,1827d1790
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 420 to MILESTONE 424
+< ======================================================================
+< 
+< He spake, and with a cry drave amid the foremost his single-hooved horses.
+< ----------------------------------------------------------------------
+< from line 424 to line 424
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_1_.txt ../add_translation/out/alignment_res_ILIAD_1_.txt
+2825c2825
+<  START=568 END=611
+---
+>  START=568 END=NULL
+2892c2892
+< from line 581 to line 582
+---
+> from line 581 to line 581
+2895d2894
+< ἀλλὰ σὺ τὸν ἐπέεσσι καθάπτεσθαι μαλακοῖσιν·[582,582]
+2906c2905
+< from line 583 to line 583
+---
+> from line 582 to line 583
+2907a2907
+> ἀλλὰ σὺ τὸν ἐπέεσσι καθάπτεσθαι μαλακοῖσιν·[582,582]
+2959c2959
+< So he spoke, and the goddess, white-armed Hera, smiled, [595] and smiling took in her hand the cup from her son.
+---
+> So he spoke, and the goddess, white-armed Hera, smiled, [595] and smiling took in her hand the cup from her son.  Then he poured wine for all the other gods from left to right, drawing forth sweet nectar from the bowl.
+2973,2985d2972
+<   Then he poured wine for all the other gods from left to right, drawing forth sweet nectar from the bowl.
+< ----------------------------------------------------------------------
+< from line 597 to line 598
+< ----------------------------------------------------------------------
+< αὐτὰρ ὃ τοῖς ἄλλοισι θεοῖς ἐνδέξια πᾶσιν οἰνοχόει γλυκὺ νέκταρ ἀπὸ κρητῆρος ἀφύσσων·[597,598]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 595 to MILESTONE 600
+< ======================================================================
+2988c2975
+< from line 599 to line 600
+---
+> from line 597 to line 600
+2989a2977
+> αὐτὰρ ὃ τοῖς ἄλλοισι θεοῖς ἐνδέξια πᾶσιν οἰνοχόει γλυκὺ νέκταρ ἀπὸ κρητῆρος ἀφύσσων·[597,598]
+3001c2989
+< But when the bright light of the sun was set, [605] they went each to his own house to take their rest, where for each one a palace had been built with cunning skill by the famed Hephaestus, the limping god; and Zeus, the Olympian, lord of the lightning, went to his couch, where of old he took his rest, whenever sweet sleep came upon him.
+---
+> But when the bright light of the sun was set, [605] they went each to his own house to take their rest, where for each one a palace had been built with cunning skill by the famed Hephaestus, the limping god; and Zeus, the Olympian, lord of the lightning, went to his couch, where of old he took his rest, whenever sweet sleep came upon him. [610]
+3003c2991
+< from line 601 to line 610
+---
+> from line 601 to line 611
+3008,3019d2995
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 605 to MILESTONE 611
+< ======================================================================
+<  [610] There went he up and slept, and beside him lay Hera of the golden throne.[611]
+< ----------------------------------------------------------------------
+< from line 611 to line 611
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_20_.txt ../add_translation/out/alignment_res_ILIAD_20_.txt
+2098c2098
+<  START=490 END=503
+---
+>  START=490 END=NULL
+2120c2120
+< from MILESTONE 490 to MILESTONE 503
+---
+> from MILESTONE 490 to MILESTONE 500
+2122c2122
+<  [495] And as a man yoketh bulls broad of brow to tread white barley in a well-ordered threshing-floor, and quickly is the grain trodden out beneath the feet of the loud-bellowing bulls; even so beneath great-souled Achilles his single-hooved horses trampled alike on the dead and on the shields; and with blood [500] was all the axle sprinkled beneath, and the rims round about the car, for drops smote upon them from the horses" hooves and from the tires.
+---
+>  [495] And as a man yoketh bulls broad of brow to tread white barley in a well-ordered threshing-floor, and quickly is the grain trodden out beneath the feet of the loud-bellowing bulls; even so beneath great-souled Achilles his single-hooved horses trampled alike on the dead and on the shields; and with blood [500]
+2124c2124
+< from line 495 to line 502
+---
+> from line 495 to line 503
+2128,2139d2127
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 500 to MILESTONE 503
+< ======================================================================
+<  But the son of Peleus pressed on to win him glory, and with gore were his invincible hands bespattered.
+< ----------------------------------------------------------------------
+< from line 502 to line 503
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_21_.txt ../add_translation/out/alignment_res_ILIAD_21_.txt
+2451c2451
+<  START=571 END=611
+---
+>  START=571 END=NULL
+2539c2539
+< from line 600 to line 601
+---
+> from line 600 to line 604
+2541a2542
+> εἷος ὃ τὸν πεδίοιο διώκετο πυροφόροιο τρέψας πὰρ ποταμὸν βαθυδινήεντα Σκάμανδρον τυτθὸν ὑπεκπροθέοντα·[602,604]
+2552c2553
+< from line 602 to line 607
+---
+> from line 604 to line 610
+2554d2554
+< εἷος ὃ τὸν πεδίοιο διώκετο πυροφόροιο τρέψας πὰρ ποταμὸν βαθυδινήεντα Σκάμανδρον τυτθὸν ὑπεκπροθέοντα·[602,604]
+2556a2557
+> οὐ δ̓ ἄρα τοί γ̓ ἔτλαν πόλιος καὶ τείχεος ἐκτὸς μεῖναι ἔτ̓ ἀλλήλους, καὶ γνώμεναι ὅς τε πεφεύγοι ὅς τ̓ ἔθαν̓ ἐν πολέμῳ·[608,610]
+2563c2564
+< from MILESTONE 605 to MILESTONE 611
+---
+> from MILESTONE 605 to MILESTONE 610
+2565c2566
+<  Neither dared they longer to await one another outside the city and wall, and to know who perchance was escaped and [610] who had been slain in the fight; but with eager haste they poured into the city, whomsoever of them his feet and knees might save.[611]
+---
+>  Neither dared they longer to await one another outside the city and wall, and to know who perchance was escaped and 
+2567c2568
+< from line 608 to line 611
+---
+> from line 610 to line 611
+2569d2569
+< οὐ δ̓ ἄρα τοί γ̓ ἔτλαν πόλιος καὶ τείχεος ἐκτὸς μεῖναι ἔτ̓ ἀλλήλους, καὶ γνώμεναι ὅς τε πεφεύγοι ὅς τ̓ ἔθαν̓ ἐν πολέμῳ·[608,610]
+diff out/alignment_res_ILIAD_22_.txt ../add_translation/out/alignment_res_ILIAD_22_.txt
+1945c1945
+<  START=473 END=515
+---
+>  START=473 END=NULL
+diff out/alignment_res_ILIAD_23_.txt ../add_translation/out/alignment_res_ILIAD_23_.txt
+3818c3818
+<  START=859 END=897
+---
+>  START=859 END=NULL
+3975a3976
+>  
+3977c3978
+< from line 894 to line 895
+---
+> from line 894 to line 897
+3981,3993d3981
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 890 to MILESTONE 897
+< ======================================================================
+< 
+<  [895] So spake he, and the king of men, Agamemnon, failed not to hearken.
+< ----------------------------------------------------------------------
+< from line 896 to line 896
+< ----------------------------------------------------------------------
+3995,4006d3982
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 895 to MILESTONE 897
+< ======================================================================
+<  Then to Meriones he gave the spear of bronze, but the warrior handed to the herald Talthybius the beauteous prize.
+< ----------------------------------------------------------------------
+< from line 896 to line 897
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_24_.txt ../add_translation/out/alignment_res_ILIAD_24_.txt
+3301c3301
+<  START=776 END=804
+---
+>  START=776 END=NULL
+3409c3409
+< from line 795 to line 798
+---
+> from line 795 to line 796
+3412d3411
+< αἶψα δ̓ ἄῤ ἐς κοίλην κάπετον θέσαν, αὐτὰρ ὕπερθε πυκνοῖσιν λάεσσι κατεστόρεσαν μεγάλοισι·[797,798]
+3419c3418
+< from MILESTONE 795 to MILESTONE 804
+---
+> from MILESTONE 795 to MILESTONE 800
+3421c3420
+<  Then with speed heaped they the mound, and round about were watchers set on every side, [800] lest the well-greaved Achaeans should set upon them before the time.
+---
+>  Then with speed heaped they the mound, and round about were watchers set on every side, 
+3423c3422
+< from line 799 to line 801
+---
+> from line 797 to line 804
+3424a3424
+> αἶψα δ̓ ἄῤ ἐς κοίλην κάπετον θέσαν, αὐτὰρ ὕπερθε πυκνοῖσιν λάεσσι κατεστόρεσαν μεγάλοισι·[797,798]
+3427,3438d3426
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 800 to MILESTONE 804
+< ======================================================================
+<  And when they had piled the barrow they went back, and gathering together duly feasted a glorious feast in the palace of Priam, the king fostered of Zeus.
+< ----------------------------------------------------------------------
+< from line 801 to line 803
+< ----------------------------------------------------------------------
+3440,3452d3427
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 800 to MILESTONE 804
+< ======================================================================
+< 
+< On this wise held they funeral for horse-taming Hector.
+< ----------------------------------------------------------------------
+< from line 804 to line 804
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_2_.txt ../add_translation/out/alignment_res_ILIAD_2_.txt
+2693c2693
+<  START=858 END=877
+---
+>  START=858 END=NULL
+diff out/alignment_res_ILIAD_3_.txt ../add_translation/out/alignment_res_ILIAD_3_.txt
+1746c1746
+<  START=421 END=461
+---
+>  START=421 END=NULL
+1827c1827
+< from line 437 to line 437
+---
+> from line 437 to line 440
+1830,1841d1829
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 435 to MILESTONE 440
+< ======================================================================
+< Chide not my heart, lady, with hard words of reviling.
+< ----------------------------------------------------------------------
+< from line 438 to line 438
+< ----------------------------------------------------------------------
+1842a1831
+> νῦν μὲν γὰρ Μενέλαος ἐνίκησεν σὺν Ἀθήνῃ, κεῖνον δ̓ αὖτις ἐγώ·[439,440]
+1851c1840
+<   For this present hath Menelaus vanquished me with Athene's aid, [440] but another time shall I vanquish him; on our side too there be gods. But come, let us take our joy, couched together in love; for never yet hath desire so encompassed my soul—nay, not when at the first I snatched thee from lovely Lacedaemon and sailed with thee on my seafaring ships, [445] and on the isle of Cranae had dalliance with thee on the couch of love—as now I love thee, and sweet desire layeth hold of me."
+---
+> Chide not my heart, lady, with hard words of reviling.  For this present hath Menelaus vanquished me with Athene's aid, [440] but another time shall I vanquish him; on our side too there be gods. But come, let us take our joy, couched together in love; for never yet hath desire so encompassed my soul—nay, not when at the first I snatched thee from lovely Lacedaemon and sailed with thee on my seafaring ships, [445] and on the isle of Cranae had dalliance with thee on the couch of love—as now I love thee, and sweet desire layeth hold of me."
+1853c1842
+< from line 439 to line 446
+---
+> from line 440 to line 447
+1855d1843
+< νῦν μὲν γὰρ Μενέλαος ἐνίκησεν σὺν Ἀθήνῃ, κεῖνον δ̓ αὖτις ἐγώ·[439,440]
+1858a1847,1848
+> ἦ ῥα, καὶ ἄρχε λέχος δὲ κιών·[447,447]
+> ἅμα δ̓ εἵπετ̓ ἄκοιτις.[447,447]
+1865c1855
+< from MILESTONE 445 to MILESTONE 450
+---
+> from MILESTONE 445 to MILESTONE 455
+1868a1859
+> Thus the twain were couched upon the corded bed; but the son of Atreus ranged through the throng like a wild beast, [450] if anywhere he might have sight of godlike Alexander.
+1870c1861
+< from line 447 to line 447
+---
+> from line 448 to line 452
+1872,1873c1863,1864
+< ἦ ῥα, καὶ ἄρχε λέχος δὲ κιών·[447,447]
+< ἅμα δ̓ εἵπετ̓ ἄκοιτις.[447,447]
+---
+> τὼ μὲν ἄῤ ἐν τρητοῖσι κατεύνασθεν λεχέεσσιν, Ἀτρεΐδης δ̓ ἀν̓ ὅμιλον ἐφοίτα θηρὶ ἐοικὼς εἴ που ἐσαθρήσειεν Ἀλέξανδρον θεοειδέα.[448,450]
+> ἀλλ̓ οὔ τις δύνατο Τρώων κλειτῶν τ̓ ἐπικούρων δεῖξαι Ἀλέξανδρον τότ̓ ἀρηϊφίλῳ Μενελάῳ·[451,452]
+1880c1871
+< from MILESTONE 445 to MILESTONE 455
+---
+> from MILESTONE 450 to MILESTONE 455
+1882,1883c1873
+< 
+< Thus the twain were couched upon the corded bed; but the son of Atreus ranged through the throng like a wild beast, [450] if anywhere he might have sight of godlike Alexander.  But none of the Trojans or their famed allies could then discover Alexander to Menelaus, dear to Ares.
+---
+>   But none of the Trojans or their famed allies could then discover Alexander to Menelaus, dear to Ares.
+1885c1875
+< from line 448 to line 452
+---
+> from line 453 to line 454
+1887,1888c1877,1878
+< τὼ μὲν ἄῤ ἐν τρητοῖσι κατεύνασθεν λεχέεσσιν, Ἀτρεΐδης δ̓ ἀν̓ ὅμιλον ἐφοίτα θηρὶ ἐοικὼς εἴ που ἐσαθρήσειεν Ἀλέξανδρον θεοειδέα.[448,450]
+< ἀλλ̓ οὔ τις δύνατο Τρώων κλειτῶν τ̓ ἐπικούρων δεῖξαι Ἀλέξανδρον τότ̓ ἀρηϊφίλῳ Μενελάῳ·[451,452]
+---
+> οὐ μὲν γὰρ φιλότητί γ̓ ἐκεύθανον εἴ τις ἴδοιτο·[453,453]
+> ἶσον γάρ σφιν πᾶσιν ἀπήχθετο κηρὶ μελαίνῃ.[454,454]
+1899c1889
+< from line 453 to line 456
+---
+> from line 455 to line 456
+1901,1902d1890
+< οὐ μὲν γὰρ φιλότητί γ̓ ἐκεύθανον εἴ τις ἴδοιτο·[453,453]
+< ἶσον γάρ σφιν πᾶσιν ἀπήχθετο κηρὶ μελαίνῃ.[454,454]
+1911c1899
+< from MILESTONE 455 to MILESTONE 461
+---
+> from MILESTONE 455 to MILESTONE 460
+1913,1914c1901
+<   Victory is now of a surety seen to rest with Menelaus, dear to Ares; do ye therefore give up Argive Helen and the treasure with her, and pay ye in requital such recompense as beseemeth, [460] even such as shall abide in the minds of men that are yet to be."
+< So spake the son of Atreus, and all the Achaeans shouted assent.[461]
+---
+>   Victory is now of a surety seen to rest with Menelaus, dear to Ares; do ye therefore give up Argive Helen and the treasure with her, and pay ye in requital such recompense as beseemeth, 
+diff out/alignment_res_ILIAD_4_.txt ../add_translation/out/alignment_res_ILIAD_4_.txt
+2278c2278
+<  START=517 END=544
+---
+>  START=517 END=NULL
+2341a2342
+> πολλοὶ δὲ περὶ κτείνοντο καὶ ἄλλοι.[538,538]
+2348c2349
+< from MILESTONE 535 to MILESTONE 544
+---
+> from MILESTONE 535 to MILESTONE 540
+2351c2352
+< Then could no man any more enter into the battle and make light thereof, [540] whoso still unwounded by missile or by thrust of sharp bronze, might move throughout the midst, being led of Pallas Athene by the hand, and by her guarded from the onrush of missiles:
+---
+> Then could no man any more enter into the battle and make light thereof, 
+2353c2354
+< from line 538 to line 542
+---
+> from line 539 to line 544
+2355d2355
+< πολλοὶ δὲ περὶ κτείνοντο καὶ ἄλλοι.[538,538]
+2357,2368d2356
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 540 to MILESTONE 544
+< ======================================================================
+<  for multitudes of Trojans and Achaeans alike were that day stretched one by the other's side with faces in the dust.
+< ----------------------------------------------------------------------
+< from line 543 to line 544
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_5_.txt ../add_translation/out/alignment_res_ILIAD_5_.txt
+3686c3686
+<  START=899 END=909
+---
+>  START=899 END=NULL
+3711c3711
+<   Even as the juice of the fig speedily maketh to grow thick the white milk that is liquid, but is quickly curdled as a man stirreth it, even so swiftly healed he furious Ares.
+---
+>   Even as the juice of the fig speedily maketh to grow thick the white milk that is liquid, but is quickly curdled as a man stirreth it, even so swiftly healed he furious Ares. 
+3713c3713
+< from line 902 to line 905
+---
+> from line 902 to line 909
+3717,3728d3716
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 900 to MILESTONE 909
+< ======================================================================
+<  [905] And Hebe bathed him, and clad him in beautiful raiment, and he sate him down by the side of Zeus, son of Cronos, exulting in his glory.
+< ----------------------------------------------------------------------
+< from line 906 to line 906
+< ----------------------------------------------------------------------
+3730,3742d3717
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 905 to MILESTONE 909
+< ======================================================================
+< 
+< Then back to the palace of great Zeus fared Argive Hera and Alalcomenean Athene, when they had made Ares, the bane of mortals, to cease from his man-slaying.
+< ----------------------------------------------------------------------
+< from line 907 to line 909
+< ----------------------------------------------------------------------
+diff out/alignment_res_ILIAD_6_.txt ../add_translation/out/alignment_res_ILIAD_6_.txt
+1997c1997
+<  START=503 END=529
+---
+>  START=503 END=NULL
+2048c2048
+< from MILESTONE 515 to MILESTONE 525
+---
+> from MILESTONE 515 to MILESTONE 520
+2051d2050
+<  [520] Then in answer to him spake Hector of the flashing helm:"
+2053c2052
+< from line 518 to line 522
+---
+> from line 518 to line 520
+2057d2055
+< δαιμόνἰ οὐκ ἄν τίς τοι ἀνὴρ ὃς ἐναίσιμος εἴη ἔργον ἀτιμήσειε μάχης, ἐπεὶ ἄλκιμός ἐσσι·[521,522]
+2064c2062
+< from MILESTONE 520 to MILESTONE 529
+---
+> from MILESTONE 515 to MILESTONE 525
+2066c2064,2065
+< Strange man, no one that is rightminded could make light of thy work in battle, for thou art valiant; but of thine own will art thou slack, and hast no care; and thereat my heart is grieved within me, whenso I hear regarding thee words of shame [525] from the lips of the Trojans, who because of thee have grievous toil.
+---
+> 
+>  [520] Then in answer to him spake Hector of the flashing helm:"
+2068c2067
+< from line 523 to line 526
+---
+> from line 521 to line 525
+2069a2069
+> δαιμόνἰ οὐκ ἄν τίς τοι ἀνὴρ ὃς ἐναίσιμος εἴη ἔργον ἀτιμήσειε μάχης, ἐπεὶ ἄλκιμός ἐσσι·[521,522]
+2072d2071
+< ἀλλ̓ ἴομεν·[526,526]
+2079c2078
+< from MILESTONE 525 to MILESTONE 529
+---
+> from MILESTONE 520 to MILESTONE 525
+2081c2080
+<   But let us go our way; these things we will make good hereafter, if so be Zeus shall grant us to set for the heavenly gods that are for ever a bowl of deliverance in our halls, when we have driven forth from the land of Troy the well-greaved Achaeans."
+---
+> Strange man, no one that is rightminded could make light of thy work in battle, for thou art valiant; but of thine own will art thou slack, and hast no care; and thereat my heart is grieved within me, whenso I hear regarding thee words of shame 
+2084a2084
+> ἀλλ̓ ἴομεν·[526,526]
+diff out/alignment_res_ILIAD_7_.txt ../add_translation/out/alignment_res_ILIAD_7_.txt
+1902c1902
+<  START=442 END=482
+---
+>  START=442 END=NULL
+2026c2026
+< from line 470 to line 471
+---
+> from line 470 to line 475
+2028a2029
+> ἔνθεν οἰνίζοντο κάρη κομόωντες Ἀχαιοί, ἄλλοι μὲν χαλκῷ, ἄλλοι δ̓ αἴθωνι σιδήρῳ, ἄλλοι δὲ ῥινοῖς, ἄλλοι δ̓ αὐτῇσι βόεσσιν, ἄλλοι δ̓ ἀνδραπόδεσσι·[472,475]
+2037c2038
+<   From these ships the long-haired Achaeans bought them wine, some for bronze, some for gleaming iron, some for hides, some for whole cattle, [475] and some for slaves; and they made them a rich feast.  So the whole night through the long-haired Achaeans feasted, and the Trojans likewise in the city, and their allies; and all night long Zeus, the counsellor, devised them evil, thundering in terrible wise.
+---
+>   From these ships the long-haired Achaeans bought them wine, some for bronze, some for gleaming iron, some for hides, some for whole cattle, [475] and some for slaves; and they made them a rich feast.
+2039c2040
+< from line 472 to line 479
+---
+> from line 475 to line 477
+2041d2041
+< ἔνθεν οἰνίζοντο κάρη κομόωντες Ἀχαιοί, ἄλλοι μὲν χαλκῷ, ἄλλοι δ̓ αἴθωνι σιδήρῳ, ἄλλοι δὲ ῥινοῖς, ἄλλοι δ̓ αὐτῇσι βόεσσιν, ἄλλοι δ̓ ἀνδραπόδεσσι·[472,475]
+2044d2043
+< παννύχιος δέ σφιν κακὰ μήδετο μητίετα Ζεὺς σμερδαλέα κτυπέων·[478,479]
+2051c2050
+< from MILESTONE 475 to MILESTONE 482
+---
+> from MILESTONE 475 to MILESTONE 480
+2053c2052
+<   Then pale fear gat hold of them, [480] and they let the wine flow from their cups upon the ground, neither durst any man drink until he had made a drink-offering to the son of Cronos, supreme in might.
+---
+>   So the whole night through the long-haired Achaeans feasted, and the Trojans likewise in the city, and their allies; and all night long Zeus, the counsellor, devised them evil, thundering in terrible wise.
+2055c2054
+< from line 479 to line 481
+---
+> from line 478 to line 481
+2056a2056
+> παννύχιος δέ σφιν κακὰ μήδετο μητίετα Ζεὺς σμερδαλέα κτυπέων·[478,479]
+2065c2065
+< from MILESTONE 480 to MILESTONE 482
+---
+> from MILESTONE 475 to MILESTONE 480
+2067c2067
+<   Then they laid them down, and took the gift of sleep.
+---
+>   Then pale fear gat hold of them, 
+diff out/alignment_res_ILIAD_8_.txt ../add_translation/out/alignment_res_ILIAD_8_.txt
+2257c2257
+<  START=553 END=565
+---
+>  START=553 END=NULL
+diff out/alignment_res_ILIAD_9_.txt ../add_translation/out/alignment_res_ILIAD_9_.txt
+2653c2653
+<  START=669 END=713
+---
+>  START=669 END=NULL
+2721c2721
+< from line 682 to line 687
+---
+> from line 682 to line 688
+2725a2726
+> ὣς ἔφατ̓·[688,688]
+2738d2738
+< ὣς ἔφατ̓·[688,688]
+2750c2750
+< from line 690 to line 692
+---
+> from line 690 to line 694
+2753a2754
+> ὣς ἔφαθ̓, οἳ δ̓ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ μῦθον ἀγασσάμενοι·[693,694]
+2765c2766
+< from line 693 to line 695
+---
+> from line 694 to line 695
+2767d2767
+< ὣς ἔφαθ̓, οἳ δ̓ ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ μῦθον ἀγασσάμενοι·[693,694]
+2780c2780
+< from line 696 to line 696
+---
+> from line 696 to line 699
+2782a2783
+> Ἀτρεΐδη κύδιστε ἄναξ ἀνδρῶν Ἀγάμεμνον μὴ ὄφελες λίσσεσθαι ἀμύμονα Πηλεΐωνα μυρία δῶρα διδούς·[697,699]
+2793c2794
+< from line 697 to line 702
+---
+> from line 699 to line 703
+2795d2795
+< Ἀτρεΐδη κύδιστε ἄναξ ἀνδρῶν Ἀγάμεμνον μὴ ὄφελες λίσσεσθαι ἀμύμονα Πηλεΐωνα μυρία δῶρα διδούς·[697,699]
+2799,2810d2798
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 700 to MILESTONE 705
+< ======================================================================
+<   But verily we will let him be; he may depart or he may tarry; hereafter will he fight when the heart in his breast shall bid him, and a god arouse him.
+< ----------------------------------------------------------------------
+< from line 702 to line 703
+< ----------------------------------------------------------------------
+2820c2808
+<   But come, even as I shall bid, let us all obey.
+---
+>   But verily we will let him be; he may depart or he may tarry; hereafter will he fight when the heart in his breast shall bid him, and a god arouse him.  But come, even as I shall bid, let us all obey.
+2833a2822
+>  [710]
+2835c2824
+< from line 705 to line 709
+---
+> from line 705 to line 713
+2840,2852d2828
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 705 to MILESTONE 713
+< ======================================================================
+< 
+<  [710] So spake he, and all the kings assented thereto, marvelling at the words of Diomedes, tamer of horses.
+< ----------------------------------------------------------------------
+< from line 710 to line 711
+< ----------------------------------------------------------------------
+2854,2865d2829
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 710 to MILESTONE 713
+< ======================================================================
+<  Then they made libation, and went every man to his hut, and there laid them down and took the gift of sleep.
+< ----------------------------------------------------------------------
+< from line 712 to line 713
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_10_.txt ../add_translation/out/alignment_res_ODYSSEY_10_.txt
+2533c2533
+<  START=546 END=574
+---
+>  START=546 END=NULL
+2544c2544
+< from line 546 to line 549
+---
+> from line 546 to line 547
+2547d2546
+< " μηκέτι νῦν εὕδοντες ἀωτεῖτε γλυκὺν ὕπνον, ἀλλ̓ ἴομεν·[548,549]
+2559c2558
+< from line 549 to line 549
+---
+> from line 548 to line 549
+2561c2560
+< δὴ γάρ μοι ἐπέφραδε πότνια Κίρκη.[549,549]
+---
+> " μηκέτι νῦν εὕδοντες ἀωτεῖτε γλυκὺν ὕπνον, ἀλλ̓ ἴομεν·[548,549]
+2568c2567
+< from MILESTONE 546 to MILESTONE 555
+---
+> from MILESTONE 546 to MILESTONE 550
+2570,2571c2569
+<  queenly Circe has told me all.’
+<  [550] “So I spoke, and their proud hearts consented.
+---
+>  queenly Circe has told me all.
+2573c2571
+< from line 550 to line 551
+---
+> from line 549 to line 549
+2575,2576c2573
+< ̓" ὣς ἐφάμην, τοῖσιν δ̓ ἐπεπείθετο θυμὸς ἀγήνωρ.[550,550]
+< οὐ δὲ μὲν οὐ δ̓ ἔνθεν περ ἀπήμονας ἦγον ἑταίρους.[551,551]
+---
+> δὴ γάρ μοι ἐπέφραδε πότνια Κίρκη.[549,549]
+2583c2580
+< from MILESTONE 550 to MILESTONE 560
+---
+> from MILESTONE 546 to MILESTONE 555
+2585c2582,2583
+<  But not even from thence could I lead my men unscathed. There was one, Elpenor, the youngest of all, not over valiant in war nor sound of understanding, who had laid him down apart from his comrades in the sacred house of Circe, [555] seeking the cool air, for he was heavy with wine.
+---
+> ’
+>  [550] “So I spoke, and their proud hearts consented. But not even from thence could I lead my men unscathed.
+2587c2585
+< from line 552 to line 559
+---
+> from line 550 to line 551
+2589,2591c2587,2588
+< Ἐλπήνωρ δέ τις ἔσκε νεώτατος, οὔ τε τι λίην ἄλκιμος ἐν πολέμῳ οὔ τε φρεσὶν ᾗσιν ἀρηρώς·[552,553]
+< ὅς μοι ἄνευθ̓ ἑτάρων ἱεροῖς ἐν δώμασι Κίρκης, ψύχεος ἱμείρων, κατελέξατο οἰνοβαρείων.[554,555]
+< κινυμένων δ̓ ἑτάρων ὅμαδον καὶ δοῦπον ἀκούσας ἐξαπίνης ἀνόρουσε καὶ ἐκλάθετο φρεσὶν ᾗσιν ἄψορρον καταβῆναι ἰὼν ἐς κλίμακα μακρήν, ἀλλὰ καταντικρὺ τέγεος πέσεν·[556,559]
+---
+> ̓" ὣς ἐφάμην, τοῖσιν δ̓ ἐπεπείθετο θυμὸς ἀγήνωρ.[550,550]
+> οὐ δὲ μὲν οὐ δ̓ ἔνθεν περ ἀπήμονας ἦγον ἑταίρους.[551,551]
+2598c2595
+< from MILESTONE 555 to MILESTONE 565
+---
+> from MILESTONE 550 to MILESTONE 565
+2600c2597,2598
+<  He heard the noise and the bustle of his comrades as they moved about, and suddenly sprang up, and forgot to go to the long ladder that he might come down again, but fell headlong from the roof, and his neck [560] was broken away from the spine, and his spirit went down to the house of Hades.
+---
+>  There was one, Elpenor, the youngest of all, not over valiant in war nor sound of understanding, who had laid him down apart from his comrades in the sacred house of Circe, [555] seeking the cool air, for he was heavy with wine. He heard the noise and the bustle of his comrades as they moved about, and suddenly sprang up, and forgot to go to the long ladder that he might come down again, but fell headlong from the roof, and his neck [560] was broken away from the spine, and his spirit went down to the house of Hades.
+> “But as my men were going on their way I spoke among them, saying:
+2602c2600
+< from line 559 to line 561
+---
+> from line 552 to line 561
+2603a2602,2604
+> Ἐλπήνωρ δέ τις ἔσκε νεώτατος, οὔ τε τι λίην ἄλκιμος ἐν πολέμῳ οὔ τε φρεσὶν ᾗσιν ἀρηρώς·[552,553]
+> ὅς μοι ἄνευθ̓ ἑτάρων ἱεροῖς ἐν δώμασι Κίρκης, ψύχεος ἱμείρων, κατελέξατο οἰνοβαρείων.[554,555]
+> κινυμένων δ̓ ἑτάρων ὅμαδον καὶ δοῦπον ἀκούσας ἐξαπίνης ἀνόρουσε καὶ ἐκλάθετο φρεσὶν ᾗσιν ἄψορρον καταβῆναι ἰὼν ἐς κλίμακα μακρήν, ἀλλὰ καταντικρὺ τέγεος πέσεν·[556,559]
+2612,2625d2612
+< from MILESTONE 560 to MILESTONE 565
+< ======================================================================
+< 
+< “But as my men were going on their way I spoke among them, saying:
+< ----------------------------------------------------------------------
+< from line 562 to line 563
+< ----------------------------------------------------------------------
+< ̓ φάσθε νύ που οἶκόνδε φίλην ἐς πατρίδα γαῖαν ἔρχεσθ̓·[562,563]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+2628c2615,2616
+<  ‘Ye think, forsooth, that ye are going to your dear native land; but Circe has pointed out for us another journey, even to the house of Hades and dread Persephone, [565] to consult the spirit of Theban Teiresias.
+---
+>  ‘Ye think, forsooth, that ye are going to your dear native land; but Circe has pointed out for us another journey, even to the house of Hades and dread Persephone, [565] to consult the spirit of Theban Teiresias.’
+> “So I spoke, and their spirit was broken within them, and sitting down right where they were, they wept and tore their hair. But no good came of their lamenting.
+2630c2618
+< from line 563 to line 567
+---
+> from line 562 to line 567
+2631a2620
+> ̓ φάσθε νύ που οἶκόνδε φίλην ἐς πατρίδα γαῖαν ἔρχεσθ̓·[562,563]
+2640c2629
+< from MILESTONE 565 to MILESTONE 574
+---
+> from MILESTONE 565 to MILESTONE 570
+2642,2644c2631,2632
+< ’
+< “So I spoke, and their spirit was broken within them, and sitting down right where they were, they wept and tore their hair. But no good came of their lamenting.
+< “But when we were on our way to the swift ship and the shore of the sea, [570] sorrowing and shedding big tears, meanwhile Circe had gone forth and made fast beside the black ship a ram and a black ewe, for easily had she passed us by.
+---
+> 
+> “But when we were on our way to the swift ship and the shore of the sea, 
+2646c2634
+< from line 568 to line 573
+---
+> from line 568 to line 574
+2650,2661d2637
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 570 to MILESTONE 574
+< ======================================================================
+<  Who with his eyes could behold a god against his will, whether going to or fro?
+< ----------------------------------------------------------------------
+< from line 573 to line 574
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_11_.txt ../add_translation/out/alignment_res_ODYSSEY_11_.txt
+2493c2493
+<  START=601 END=640
+---
+>  START=601 END=NULL
+diff out/alignment_res_ODYSSEY_12_.txt ../add_translation/out/alignment_res_ODYSSEY_12_.txt
+1615c1615
+<  START=426 END=453
+---
+>  START=426 END=NULL
+1731c1731
+< from MILESTONE 445 to MILESTONE 453
+---
+> from MILESTONE 445 to MILESTONE 450
+1734c1734
+< “Thence for nine days was I borne, and on the tenth night the gods brought me to Ogygia, where the fair-tressed Calypso dwells, dread goddess of human speech, [450] who gave me welcome and tendance. But why should I tell thee this tale? For it was but yesterday that I told it in thy hall to thyself and to thy noble wife.
+---
+> “Thence for nine days was I borne, and on the tenth night the gods brought me to Ogygia, where the fair-tressed Calypso dwells, dread goddess of human speech, 
+1736c1736
+< from line 447 to line 452
+---
+> from line 447 to line 453
+1741,1752d1740
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 450 to MILESTONE 453
+< ======================================================================
+<  It is an irksome thing, meseems, to tell again a plain-told tale.”
+< ----------------------------------------------------------------------
+< from line 452 to line 453
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_13_.txt ../add_translation/out/alignment_res_ODYSSEY_13_.txt
+1878c1878
+<  START=416 END=440
+---
+>  START=416 END=NULL
+diff out/alignment_res_ODYSSEY_14_.txt ../add_translation/out/alignment_res_ODYSSEY_14_.txt
+2160c2160
+<  START=494 END=533
+---
+>  START=494 END=NULL
+2214c2214
+<  Would that I were young as then, and my strength as firm; then would one of the swineherds in the farmstead give me a cloak [505] both from kindness and from respect for a brave warrior. But as it is they scorn me, since I have foul raiment about me.
+---
+>  Would that I were young as then, and my strength as firm; then would one of the swineherds in the farmstead give me a cloak [505] both from kindness and from respect for a brave warrior.
+2229,2230c2229
+< ”
+< To him then, swineherd Eumaeus, didst thou make answer, and say:
+---
+>  But as it is they scorn me, since I have foul raiment about me.
+2243c2242,2243
+<  “Old man, the tale thou hast told is a good one, nor hast thou thus far spoken aught amiss or unprofitably.
+---
+> ”
+> To him then, swineherd Eumaeus, didst thou make answer, and say: “Old man, the tale thou hast told is a good one, nor hast thou thus far spoken aught amiss or unprofitably.
+2285c2285
+< from line 515 to line 517
+---
+> from line 515 to line 519
+2287a2288
+> " ὣς εἰπὼν ἀνόρουσε, τίθει δ̓ ἄρα οἱ πυρὸς ἐγγὺς εὐνήν, ἐν δ̓ ὀΐων τε καὶ αἰγῶν δέρματ̓ ἔβαλλεν.[518,519]
+2299c2300
+< from line 518 to line 520
+---
+> from line 520 to line 520
+2301d2301
+< " ὣς εἰπὼν ἀνόρουσε, τίθει δ̓ ἄρα οἱ πυρὸς ἐγγὺς εὐνήν, ἐν δ̓ ὀΐων τε καὶ αἰγῶν δέρματ̓ ἔβαλλεν.[518,519]
+2309c2309
+< from MILESTONE 515 to MILESTONE 525
+---
+> from MILESTONE 515 to MILESTONE 530
+2311a2312
+> So there Odysseus slept, and beside him slept the young men. But the swineherd [525] liked not a bed in that place, that he should lay him down away from the boars; so he made ready to go outside.
+2313c2314
+< from line 520 to line 522
+---
+> from line 520 to line 527
+2315a2317,2319
+> " ὣς ὁ μὲν ἔνθ̓ Ὀδυσεὺς κοιμήσατο, τοὶ δὲ παῤ αὐτὸν ἄνδρες κοιμήσαντο νεηνίαι·[523,524]
+> οὐ δὲ συβώτῃ ἥνδανεν αὐτόθι κοῖτος, ὑῶν ἄπο κοιμηθῆναι, ἀλλ̓ ὅ γ̓ ἄῤ ἔξω ἰὼν ὡπλίζετο·[524,526]
+> χαῖρε δ̓ Ὀδυσσεύς, ὅττι ῥά οἱ βιότου περικήδετο νόσφιν ἐόντος.[526,527]
+2322c2326
+< from MILESTONE 520 to MILESTONE 530
+---
+> from MILESTONE 525 to MILESTONE 530
+2324,2325c2328
+< 
+< So there Odysseus slept, and beside him slept the young men. But the swineherd [525] liked not a bed in that place, that he should lay him down away from the boars; so he made ready to go outside.
+---
+>  And Odysseus was glad that he took such care of his master's substance while he was afar.
+2327c2330
+< from line 523 to line 526
+---
+> from line 528 to line 531
+2329,2330c2332
+< " ὣς ὁ μὲν ἔνθ̓ Ὀδυσεὺς κοιμήσατο, τοὶ δὲ παῤ αὐτὸν ἄνδρες κοιμήσαντο νεηνίαι·[523,524]
+< οὐ δὲ συβώτῃ ἥνδανεν αὐτόθι κοῖτος, ὑῶν ἄπο κοιμηθῆναι, ἀλλ̓ ὅ γ̓ ἄῤ ἔξω ἰὼν ὡπλίζετο·[524,526]
+---
+> πρῶτον μὲν ξίφος ὀξὺ περὶ στιβαροῖς βάλετ̓ ὤμοις, ἀμφὶ δὲ χλαῖναν ἑέσσατ̓ ἀλεξάνεμον, μάλα πυκνήν, ἂν δὲ νάκην ἕλετ̓ αἰγὸς ἐϋτρεφέος μεγάλοιο, εἵλετο δ̓ ὀξὺν ἄκοντα, κυνῶν ἀλκτῆρα καὶ ἀνδρῶν.[528,531]
+2337c2339
+< from MILESTONE 525 to MILESTONE 533
+---
+> from MILESTONE 525 to MILESTONE 530
+2339c2341
+<  And Odysseus was glad that he took such care of his master's substance while he was afar. First Eumaeus flung his sharp sword over his strong shoulders, and then put about him a cloak, very thick, to keep off the wind; [530] and he picked up the fleece of a large, well-fatted goat, took a sharp javelin to ward off dogs and men, and went forth to lie down to sleep where the white-tusked boars slept beneath a hollow rock, in a place sheltered from the North Wind.[533]
+---
+>  First Eumaeus flung his sharp sword over his strong shoulders, and then put about him a cloak, very thick, to keep off the wind; 
+2341c2343
+< from line 526 to line 533
+---
+> from line 532 to line 533
+2343,2344d2344
+< χαῖρε δ̓ Ὀδυσσεύς, ὅττι ῥά οἱ βιότου περικήδετο νόσφιν ἐόντος.[526,527]
+< πρῶτον μὲν ξίφος ὀξὺ περὶ στιβαροῖς βάλετ̓ ὤμοις, ἀμφὶ δὲ χλαῖναν ἑέσσατ̓ ἀλεξάνεμον, μάλα πυκνήν, ἂν δὲ νάκην ἕλετ̓ αἰγὸς ἐϋτρεφέος μεγάλοιο, εἵλετο δ̓ ὀξὺν ἄκοντα, κυνῶν ἀλκτῆρα καὶ ἀνδρῶν.[528,531]
+diff out/alignment_res_ODYSSEY_15_.txt ../add_translation/out/alignment_res_ODYSSEY_15_.txt
+2535c2535
+<  START=525 END=557
+---
+>  START=525 END=NULL
+2600c2600
+<  [535] Then wise Telemachus answered him again: “Ah, stranger, I would that this word of thine might be fulfilled.
+---
+>  [535] Then wise Telemachus answered him again:
+2614c2614
+<  Then shouldest thou straightway know of kindness and many a gift from me, so that one that met thee would call thee blessed.
+---
+>  “Ah, stranger, I would that this word of thine might be fulfilled.
+2625,2638d2624
+< from MILESTONE 535 to MILESTONE 540
+< ======================================================================
+< ”
+< Therewith he spoke to Peiraeus, his trusty comrade:
+< ----------------------------------------------------------------------
+< from line 539 to line 539
+< ----------------------------------------------------------------------
+< ἦ καὶ Πείραιον προσεφώνεε, πιστὸν ἑταῖρον·[539,539]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+2641c2627,2628
+<  [540]  “Peiraeus, son of Clytius, it is thou that in other matters art wont to hearken to me above all my comrades, who went with me to Pylos; so now do thou, I pray thee, take this stranger and give him kindly welcome in thy house, and show him honor until I come.
+---
+>  Then shouldest thou straightway know of kindness and many a gift from me, so that one that met thee would call thee blessed.”
+> Therewith he spoke to Peiraeus, his trusty comrade: [540]  “Peiraeus, son of Clytius, it is thou that in other matters art wont to hearken to me above all my comrades, who went with me to Pylos; so now do thou, I pray thee, take this stranger and give him kindly welcome in thy house, and show him honor until I come.
+2643c2630
+< from line 540 to line 543
+---
+> from line 539 to line 541
+2644a2632
+> ἦ καὶ Πείραιον προσεφώνεε, πιστὸν ἑταῖρον·[539,539]
+2646d2633
+< καὶ νῦν μοι τὸν ξεῖνον ἄγων ἐν δώμασι σοῖσιν ἐνδυκέως φιλέειν καὶ τιέμεν, εἰς ὅ κεν ἔλθω."[542,543]
+2656c2643
+<  [545] Then Peiraeus, the famous spearman, answered him: “Telemachus, though thou shouldest stay here long, I will entertain him, and he shall have no lack of what is due to strangers.
+---
+>  [545] Then Peiraeus, the famous spearman, answered him:
+2658c2645
+< from line 544 to line 546
+---
+> from line 542 to line 546
+2659a2647
+> καὶ νῦν μοι τὸν ξεῖνον ἄγων ἐν δώμασι σοῖσιν ἐνδυκέως φιλέειν καὶ τιέμεν, εἰς ὅ κεν ἔλθω."[542,543]
+2670,2671c2658
+< ” 
+< So saying, he went on board the ship, and bade his comrades themselves to embark and to loose the stern cables.
+---
+>  “Telemachus, though thou shouldest stay here long, I will entertain him, and he shall have no lack of what is due to strangers.
+2682,2694d2668
+< from MILESTONE 545 to MILESTONE 550
+< ======================================================================
+<  So they went on board straightway, and sat down upon the benches.
+< ----------------------------------------------------------------------
+< from line 549 to line 549
+< ----------------------------------------------------------------------
+< οἱ δ̓ αἶψ̓ εἴσβαινον καὶ ἐπὶ κληῗσι καθῖζον.[549,549]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+2697c2671,2672
+<  [550] But Telemachus bound beneath his feet his fair sandals, and took his mighty spear, tipped with sharp bronze, from the deck of the ship.
+---
+> ” 
+> So saying, he went on board the ship, and bade his comrades themselves to embark and to loose the stern cables. So they went on board straightway, and sat down upon the benches. [550] But Telemachus bound beneath his feet his fair sandals, and took his mighty spear, tipped with sharp bronze, from the deck of the ship.
+2699c2674
+< from line 550 to line 552
+---
+> from line 549 to line 554
+2700a2676
+> οἱ δ̓ αἶψ̓ εἴσβαινον καὶ ἐπὶ κληῗσι καθῖζον.[549,549]
+2702,2713d2677
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 550 to MILESTONE 555
+< ======================================================================
+<  Then the men loosed the stern cables, and thrusting off, sailed to the city, as Telemachus bade, the dear son of divine Odysseus.
+< ----------------------------------------------------------------------
+< from line 552 to line 554
+< ----------------------------------------------------------------------
+2722c2686
+< from MILESTONE 550 to MILESTONE 557
+---
+> from MILESTONE 550 to MILESTONE 555
+2724c2688
+<  [555] But his feet bore him swiftly on, as he strode forward, until he reached the farmstead where were his countless swine, among whom slept the worthy swineherd with a heart loyal to his masters.[557]
+---
+>  Then the men loosed the stern cables, and thrusting off, sailed to the city, as Telemachus bade, the dear son of divine Odysseus. 
+diff out/alignment_res_ODYSSEY_16_.txt ../add_translation/out/alignment_res_ODYSSEY_16_.txt
+1884c1884
+<  START=434 END=481
+---
+>  START=434 END=NULL
+2119c2119
+< And when they had ceased from their labour and had made ready the meal, they fell to feasting, nor did their hearts lack aught of the equal feast.
+---
+> And when they had ceased from their labour and had made ready the meal, they fell to feasting, nor did their hearts lack aught of the equal feast. 
+2121c2121
+< from line 478 to line 479
+---
+> from line 478 to line 481
+2124,2135d2123
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 475 to MILESTONE 481
+< ======================================================================
+<  [480] But when they had put from them the desire of food and drink, they bethought them of rest, and took the gift of sleep.[481]
+< ----------------------------------------------------------------------
+< from line 480 to line 481
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_17_.txt ../add_translation/out/alignment_res_ODYSSEY_17_.txt
+2801c2801
+<  START=560 END=606
+---
+>  START=560 END=NULL
+2884d2883
+< “Thou dost not bring him, Eumaeus.
+2897,2901d2895
+<  What does the wanderer mean by this?
+< ----------------------------------------------------------------------
+< from line 576 to line 576
+< ----------------------------------------------------------------------
+< τί τοῦτ̓ ἐνόησεν ἀλήτης;[576,576]
+2903,2910c2897
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 575 to MILESTONE 580
+< ======================================================================
+<  Does he fear some one beyond measure, or does he idly feel ashamed in the house?
+---
+> “Thou dost not bring him, Eumaeus.
+2912c2899
+< from line 577 to line 578
+---
+> from line 576 to line 578
+2913a2901
+> τί τοῦτ̓ ἐνόησεν ἀλήτης;[576,576]
+2915,2926d2902
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 575 to MILESTONE 580
+< ======================================================================
+<  'Tis ill for a beggar to feel shame.
+< ----------------------------------------------------------------------
+< from line 578 to line 578
+< ----------------------------------------------------------------------
+2936c2912
+< ”
+---
+>  What does the wanderer mean by this? Does he fear some one beyond measure, or does he idly feel ashamed in the house? 'Tis ill for a beggar to feel shame.”
+2965c2941
+< from line 582 to line 582
+---
+> from line 582 to line 584
+2968,2979d2943
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 580 to MILESTONE 585
+< ======================================================================
+<  And for thyself, too, it is far more seemly, O queen, to speak to the stranger alone, and to hear his words.
+< ----------------------------------------------------------------------
+< from line 583 to line 584
+< ----------------------------------------------------------------------
+2989c2953
+< ”
+---
+>  And for thyself, too, it is far more seemly, O queen, to speak to the stranger alone, and to hear his words.”
+2992c2956
+< from line 585 to line 586
+---
+> from line 585 to line 588
+2996,3007d2959
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 585 to MILESTONE 590
+< ======================================================================
+<  There are no mortal men, methinks, who in wantonness devise such wicked folly as these.
+< ----------------------------------------------------------------------
+< from line 586 to line 588
+< ----------------------------------------------------------------------
+3018,3019c2970,2971
+< ”
+< So she spoke, and the goodly swineherd departed [590] into the throng of the wooers when he had told her all. And straightway he spoke winged words to Telemachus, holding his head close to him that the others might not hear:
+---
+>  There are no mortal men, methinks, who in wantonness devise such wicked folly as these.”
+> So she spoke, and the goodly swineherd departed [590] into the throng of the wooers when he had told her all.
+3033,3034c2985
+< 
+< “Friend, I am going forth to guard the swine and all things there, thy livelihood and mine; but have thou charge of all things here.
+---
+>  And straightway he spoke winged words to Telemachus, holding his head close to him that the others might not hear:
+3039d2989
+< σοὶ δ̓ ἐνθάδε πάντα μελόντων.[594,594]
+3048c2998,2999
+<  [595] Thine own self do thou keep safe first of all, and let thy mind beware lest some ill befall thee, for many of the Achaeans are devising evil, whom may Zeus utterly destroy before harm fall on us.
+---
+> 
+> “Friend, I am going forth to guard the swine and all things there, thy livelihood and mine; but have thou charge of all things here. [595] Thine own self do thou keep safe first of all, and let thy mind beware lest some ill befall thee, for many of the Achaeans are devising evil, whom may Zeus utterly destroy before harm fall on us.
+3050c3001
+< from line 595 to line 597
+---
+> from line 594 to line 599
+3051a3003
+> σοὶ δ̓ ἐνθάδε πάντα μελόντων.[594,594]
+3054,3066d3005
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 595 to MILESTONE 600
+< ======================================================================
+< ”
+< Then wise Telemachus answered him:
+< ----------------------------------------------------------------------
+< from line 598 to line 598
+< ----------------------------------------------------------------------
+3068,3079d3006
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 595 to MILESTONE 600
+< ======================================================================
+<  “So shall it be, father; go thy way when thou hast supped.
+< ----------------------------------------------------------------------
+< from line 599 to line 600
+< ----------------------------------------------------------------------
+3082d3008
+< ἠῶθεν δ̓ ἰέναι καὶ ἄγειν ἱερήϊα καλά·[600,600]
+3091,3103d3016
+<  [600] And in the morning do thou come and bring goodly victims. But all matters here shall be a care to me and to the immortals.
+< ----------------------------------------------------------------------
+< from line 601 to line 601
+< ----------------------------------------------------------------------
+< αὐτὰρ ἐμοὶ τάδε πάντα καὶ ἀθανάτοισι μελήσει."[601,601]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 600 to MILESTONE 606
+< ======================================================================
+3105c3018,3019
+< So he spoke, and the swineherd sat down again on the polished chair. But when he had satisfied his heart with meat and drink, he went his way to the swine, and left the courts and the hall [605] full of banqueters.
+---
+> Then wise Telemachus answered him: “So shall it be, father; go thy way when thou hast supped. [600] And in the morning do thou come and bring goodly victims. But all matters here shall be a care to me and to the immortals.”
+> So he spoke, and the swineherd sat down again on the polished chair.
+3107c3021
+< from line 602 to line 606
+---
+> from line 600 to line 605
+3108a3023,3024
+> ἠῶθεν δ̓ ἰέναι καὶ ἄγειν ἱερήϊα καλά·[600,600]
+> αὐτὰρ ἐμοὶ τάδε πάντα καὶ ἀθανάτοισι μελήσει."[601,601]
+3110d3025
+< οἱ δ̓ ὀρχηστυῖ καὶ ἀοιδῇ τέρποντ̓·[605,606]
+3117c3032
+< from MILESTONE 605 to MILESTONE 606
+---
+> from MILESTONE 600 to MILESTONE 605
+3119c3034
+<  And they were making merry with dance and song, for evening had now come on.
+---
+>  But when he had satisfied his heart with meat and drink, he went his way to the swine, and left the courts and the hall 
+3121c3036
+< from line 606 to line 606
+---
+> from line 605 to line 606
+3122a3038
+> οἱ δ̓ ὀρχηστυῖ καὶ ἀοιδῇ τέρποντ̓·[605,606]
+diff out/alignment_res_ODYSSEY_18_.txt ../add_translation/out/alignment_res_ODYSSEY_18_.txt
+1965c1965
+<  START=394 END=428
+---
+>  START=394 END=NULL
+2096a2097
+> τοῦ γὰρ φίλον ἵκετο δῶμα."[421,421]
+2108c2109
+< from line 421 to line 422
+---
+> from line 422 to line 422
+2110d2110
+< τοῦ γὰρ φίλον ἵκετο δῶμα."[421,421]
+2120c2120
+<  Then a bowl was mixed for them by the lord Mulius, a herald from Dulichium, who was squire to Amphinomus.
+---
+>  Then a bowl was mixed for them by the lord Mulius, a herald from Dulichium, who was squire to Amphinomus. 
+2122c2122
+< from line 423 to line 425
+---
+> from line 423 to line 428
+2127,2138d2126
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 420 to MILESTONE 428
+< ======================================================================
+<  [425] And he served out to all, coming up to each in turn; and they made libations to the blessed gods, and drank the honey-sweet wine.
+< ----------------------------------------------------------------------
+< from line 425 to line 426
+< ----------------------------------------------------------------------
+2140,2151d2127
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 425 to MILESTONE 428
+< ======================================================================
+<  Then when they had made libations and had drunk to their heart's content, they went their way, each man to his own house, to take their rest.
+< ----------------------------------------------------------------------
+< from line 427 to line 428
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_19_.txt ../add_translation/out/alignment_res_ODYSSEY_19_.txt
+2648c2648
+<  START=576 END=604
+---
+>  START=576 END=NULL
+2732c2732
+< from line 598 to line 598
+---
+> from line 598 to line 599
+2734a2735
+> σὺ δὲ λέξεο τῷδ̓ ἐνὶ οἴκῳ, ἢ χαμάδις στορέσας ἤ τοι κατὰ δέμνια θέντων."[598,599]
+2741c2742
+< from MILESTONE 595 to MILESTONE 604
+---
+> from MILESTONE 595 to MILESTONE 600
+2744c2745
+<  [600] So saying, she went up to her bright upper chamber, not alone, for with her went her handmaids as well.
+---
+>  
+2746c2747
+< from line 598 to line 601
+---
+> from line 600 to line 604
+2748d2748
+< σὺ δὲ λέξεο τῷδ̓ ἐνὶ οἴκῳ, ἢ χαμάδις στορέσας ἤ τοι κατὰ δέμνια θέντων."[598,599]
+2750,2761d2749
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 600 to MILESTONE 604
+< ======================================================================
+<  And when she had gone up to her upper chamber with her handmaids, she then bewailed Odysseus, her dear husband, until flashing-eyed Athena cast sweet sleep upon her eyelids.
+< ----------------------------------------------------------------------
+< from line 602 to line 604
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_1_.txt ../add_translation/out/alignment_res_ODYSSEY_1_.txt
+1869c1869
+<  START=421 END=444
+---
+>  START=421 END=NULL
+1922c1922
+< from line 434 to line 437
+---
+> from line 434 to line 438
+1926,1937d1925
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 435 to MILESTONE 444
+< ======================================================================
+<  And she folded and smoothed the tunic [440] and hung it on a peg beside the corded bedstead, and then went forth from the chamber, drawing the door to by its silver handle, and driving the bolt home with the thong.
+< ----------------------------------------------------------------------
+< from line 438 to line 442
+< ----------------------------------------------------------------------
+1939d1926
+< ἡ μὲν τὸν πτύξασα καὶ ἀσκήσασα χιτῶνα, πασσάλῳ ἀγκρεμάσασα παρὰ τρητοῖσι λέχεσσι βῆ ῥ̓ ἴμεν ἐκ θαλάμοιο, θύρην δ̓ ἐπέρυσσε κορώνῃ ἀργυρέῃ, ἐπὶ δὲ κληῖδ̓ ἐτάνυσσεν ἱμάντι.[439,442]
+1946c1933
+< from MILESTONE 440 to MILESTONE 444
+---
+> from MILESTONE 435 to MILESTONE 440
+1948c1935
+<  So there, the night through, wrapped in a fleece of wool, he pondered in his mind upon the journey which Athena had shewn him.
+---
+>  And she folded and smoothed the tunic 
+1950c1937
+< from line 443 to line 444
+---
+> from line 439 to line 444
+1951a1939
+> ἡ μὲν τὸν πτύξασα καὶ ἀσκήσασα χιτῶνα, πασσάλῳ ἀγκρεμάσασα παρὰ τρητοῖσι λέχεσσι βῆ ῥ̓ ἴμεν ἐκ θαλάμοιο, θύρην δ̓ ἐπέρυσσε κορώνῃ ἀργυρέῃ, ἐπὶ δὲ κληῖδ̓ ἐτάνυσσεν ἱμάντι.[439,442]
+diff out/alignment_res_ODYSSEY_20_.txt ../add_translation/out/alignment_res_ODYSSEY_20_.txt
+1524c1524
+<  START=345 END=394
+---
+>  START=345 END=NULL
+1786c1786
+< But the daughter of Icarius, wise Penelope, had set her beautiful chair over against them, and heard the words of each man in the hall.
+---
+> But the daughter of Icarius, wise Penelope, had set her beautiful chair over against them, and heard the words of each man in the hall. 
+1788c1788
+< from line 387 to line 389
+---
+> from line 387 to line 394
+1791,1802d1790
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 385 to MILESTONE 394
+< ======================================================================
+<  [390] For they had made ready their meal in the midst of their laughing, a sweet meal, and one to satisfy the heart, for they had slain many beasts.
+< ----------------------------------------------------------------------
+< from line 390 to line 391
+< ----------------------------------------------------------------------
+1804,1815d1791
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 390 to MILESTONE 394
+< ======================================================================
+<  But never could meal have been more graceless than a supper such as a goddess and a mighty man were soon to set before them.
+< ----------------------------------------------------------------------
+< from line 392 to line 394
+< ----------------------------------------------------------------------
+1817,1828d1792
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 390 to MILESTONE 394
+< ======================================================================
+<  For unprovoked they were contriving deeds of shame.
+< ----------------------------------------------------------------------
+< from line 394 to line 394
+< ----------------------------------------------------------------------
+diff out/alignment_res_ODYSSEY_21_.txt ../add_translation/out/alignment_res_ODYSSEY_21_.txt
+1744c1744
+<  START=401 END=434
+---
+>  START=401 END=NULL
+1778c1778
+< from MILESTONE 401 to MILESTONE 410
+---
+> from MILESTONE 401 to MILESTONE 415
+1781c1781
+< So spoke the wooers, but Odysseus of many wiles, [405] as soon as he had lifted the great bow and scanned it on every side—even as when a man well-skilled in the lyre and in song easily stretches the string about a new peg, making fast at either end the twisted sheep-gut—so without effort did Odysseus string the great bow.
+---
+> So spoke the wooers, but Odysseus of many wiles, [405] as soon as he had lifted the great bow and scanned it on every side—even as when a man well-skilled in the lyre and in song easily stretches the string about a new peg, making fast at either end the twisted sheep-gut—so without effort did Odysseus string the great bow. [410] And he held it in his right hand, and tried the string, which sang sweetly beneath his touch, like to a swallow in tone.
+1783c1783
+< from line 404 to line 410
+---
+> from line 404 to line 414
+1788,1799d1787
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 405 to MILESTONE 415
+< ======================================================================
+<  [410] And he held it in his right hand, and tried the string, which sang sweetly beneath his touch, like to a swallow in tone.
+< ----------------------------------------------------------------------
+< from line 411 to line 411
+< ----------------------------------------------------------------------
+1801,1812d1788
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 410 to MILESTONE 415
+< ======================================================================
+<  But upon the wooers came great grief, and the faces of them changed color, and Zeus thundered loud, shewing forth his signs.
+< ----------------------------------------------------------------------
+< from line 412 to line 413
+< ----------------------------------------------------------------------
+1814,1825d1789
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 410 to MILESTONE 420
+< ======================================================================
+<  Then glad at heart was the much-enduring, goodly Odysseus [415] that the son of crooked-counselling Cronos sent him an omen, and he took up a swift arrow, which lay by him on the table, bare, but the others were stored within the hollow quiver, even those of which the Achaeans were soon to taste.
+< ----------------------------------------------------------------------
+< from line 413 to line 417
+< ----------------------------------------------------------------------
+1828,1829d1791
+< ὅττι ῥά οἱ τέρας ἧκε Κρόνου πάϊς ἀγκυλομήτεω·[415,415]
+< εἵλετο δ̓ ὠκὺν ὀϊστόν, ὅ οἱ παρέκειτο τραπέζῃ γυμνός·[416,417]
+1836c1798
+< from MILESTONE 415 to MILESTONE 425
+---
+> from MILESTONE 410 to MILESTONE 430
+1838c1800,1801
+<  This he took, and laid upon the bridge of the bow, and drew the bow-string and the notched arrow [420] even from the chair where he sat, and let fly the shaft with sure aim, and did not miss the end of the handle of one of the axes, but clean through and out at the end passed the arrow weighted with bronze. But he spoke to Telemachus, saying:
+---
+>  But upon the wooers came great grief, and the faces of them changed color, and Zeus thundered loud, shewing forth his signs. Then glad at heart was the much-enduring, goodly Odysseus [415] that the son of crooked-counselling Cronos sent him an omen, and he took up a swift arrow, which lay by him on the table, bare, but the others were stored within the hollow quiver, even those of which the Achaeans were soon to taste. This he took, and laid upon the bridge of the bow, and drew the bow-string and the notched arrow [420] even from the chair where he sat, and let fly the shaft with sure aim, and did not miss the end of the handle of one of the axes, but clean through and out at the end passed the arrow weighted with bronze. But he spoke to Telemachus, saying:
+> “Telemachus, the stranger [425] that sits in thy halls brings no shame upon thee, nor in any wise did I miss the mark, or labour long in stringing the bow; still is my strength unbroken—not as the wooers scornfully taunt me.
+1840c1803
+< from line 417 to line 423
+---
+> from line 415 to line 431
+1841a1805,1806
+> ὅττι ῥά οἱ τέρας ἧκε Κρόνου πάϊς ἀγκυλομήτεω·[415,415]
+> εἵλετο δ̓ ὠκὺν ὀϊστόν, ὅ οἱ παρέκειτο τραπέζῃ γυμνός·[416,417]
+1844,1856d1808
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 420 to MILESTONE 430
+< ======================================================================
+< 
+< “Telemachus, the stranger [425] that sits in thy halls brings no shame upon thee, nor in any wise did I miss the mark, or labour long in stringing the bow; still is my strength unbroken—not as the wooers scornfully taunt me.
+< ----------------------------------------------------------------------
+< from line 423 to line 427
+< ----------------------------------------------------------------------
+1860,1871d1811
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 425 to MILESTONE 434
+< ======================================================================
+<  But now it is time that supper too be made ready for the Achaeans, while yet there is light, and thereafter must yet other sport be made [430] with song and with the lyre; for these things are the accompaniments of a feast.
+< ----------------------------------------------------------------------
+< from line 428 to line 431
+< ----------------------------------------------------------------------
+1881c1821
+< from MILESTONE 430 to MILESTONE 434
+---
+> from MILESTONE 425 to MILESTONE 430
+1883,1884c1823
+< ”
+< He spoke, and made a sign with his brows, and Telemachus, the dear son of divine Odysseus, girt about him his sharp sword, and took his spear in his grasp, and stood by the chair at his father's side, armed with gleaming bronze.
+---
+>  But now it is time that supper too be made ready for the Achaeans, while yet there is light, and thereafter must yet other sport be made 
+diff out/alignment_res_ODYSSEY_22_.txt ../add_translation/out/alignment_res_ODYSSEY_22_.txt
+2010c2010
+<  START=465 END=501
+---
+>  START=465 END=NULL
+2049c2049
+< from MILESTONE 475 to MILESTONE 485
+---
+> from MILESTONE 475 to MILESTONE 480
+2052c2052
+< Thereafter they washed their hands and feet, and went into the house to Odysseus, and the work was done. [480] But Odysseus said to the dear nurse Eurycleia:
+---
+> Thereafter they washed their hands and feet, and went into the house to Odysseus, and the work was done.
+2054c2054
+< from line 480 to line 482
+---
+> from line 480 to line 480
+2057d2056
+< " οἶσε θέειον, γρηΰ, κακῶν ἄκος, οἶσε δέ μοι πῦρ, ὄφρα θεειώσω μέγαρον·[481,482]
+2064c2063
+< from MILESTONE 480 to MILESTONE 485
+---
+> from MILESTONE 475 to MILESTONE 485
+2066c2065
+<  “Bring sulphur, old dame, to cleanse from pollution, and bring me fire, that I may purge the hall; and do thou bid Penelope come hither with her handmaidens, and order all the women in the house to come.
+---
+>  [480] But Odysseus said to the dear nurse Eurycleia: “Bring sulphur, old dame, to cleanse from pollution, and bring me fire, that I may purge the hall; and do thou bid Penelope come hither with her handmaidens, and order all the women in the house to come.
+2068c2067
+< from line 482 to line 484
+---
+> from line 481 to line 484
+2069a2069
+> " οἶσε θέειον, γρηΰ, κακῶν ἄκος, οἶσε δέ μοι πῦρ, ὄφρα θεειώσω μέγαρον·[481,482]
+2081c2081
+<  [485] Then the dear nurse Eurycleia answered him:
+---
+>  [485] Then the dear nurse Eurycleia answered him: “Yea, all this, my child, hast thou spoken aright.
+2092a2093,2105
+> from MILESTONE 485 to MILESTONE 490
+> ======================================================================
+>  But come, let me bring thee a cloak and a tunic for raiment, and do not thou stand thus in the halls with thy broad shoulders wrapped in rags; that were a cause for blame.
+> ----------------------------------------------------------------------
+> from line 487 to line 489
+> ----------------------------------------------------------------------
+> ἀλλ̓ ἄγε τοι χλαῖνάν τε χιτῶνά τε εἵματ̓ ἐνείκω, μη δ̓ οὕτω ῥάκεσιν πεπυκασμένος εὐρέας ὤμους ἕσταθ̓ ἐνὶ μεγάροισι·[487,489]
+> 
+> ########################################################################
+> 
+> 
+> 
+> ======================================================================
+2095c2108
+<  “Yea, all this, my child, hast thou spoken aright. But come, let me bring thee a cloak and a tunic for raiment, and do not thou stand thus in the halls with thy broad shoulders wrapped in rags; that were a cause for blame.”
+---
+> ”
+2098c2111
+< from line 487 to line 491
+---
+> from line 489 to line 491
+2100d2112
+< ἀλλ̓ ἄγε τοι χλαῖνάν τε χιτῶνά τε εἵματ̓ ἐνείκω, μη δ̓ οὕτω ῥάκεσιν πεπυκασμένος εὐρέας ὤμους ἕσταθ̓ ἐνὶ μεγάροισι·[487,489]
+2130c2142
+< from line 495 to line 497
+---
+> from line 495 to line 496
+2133d2144
+< αἱ δ̓ ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι.[497,497]
+2140c2151
+< from MILESTONE 495 to MILESTONE 501
+---
+> from MILESTONE 495 to MILESTONE 500
+2142c2153
+<  They thronged about Odysseus and embraced him, and clasped and kissed his head and shoulders [500] and his hands in loving welcome; and a sweet longing seized him to weep and wail, for in his heart he knew them all.[501]
+---
+>  They thronged about Odysseus and embraced him, and clasped and kissed his head and shoulders 
+2144c2155
+< from line 498 to line 501
+---
+> from line 497 to line 501
+2145a2157
+> αἱ δ̓ ἴσαν ἐκ μεγάροιο δάος μετὰ χερσὶν ἔχουσαι.[497,497]
+diff out/alignment_res_ODYSSEY_23_.txt ../add_translation/out/alignment_res_ODYSSEY_23_.txt
+1433c1433
+<  START=344 END=372
+---
+>  START=344 END=NULL
+1501,1502c1501
+<  Therefore go thou up to thy upper chamber with thy handmaids, [365] and abide there. Look thou on no man, nor ask a question.”
+< He spoke, and girt about his shoulders his beautiful armour, and roused Telemachus and the neatherd and the swineherd, and bade them all take weapons of war in their hands.
+---
+>  Therefore go thou up to thy upper chamber with thy handmaids, [365] and abide there. Look thou on no man, nor ask a question.
+1514c1513
+< from MILESTONE 365 to MILESTONE 372
+---
+> from MILESTONE 365 to MILESTONE 370
+1516c1515,1516
+<  They did not disobey, but clad themselves in bronze, [370] and opened the doors, and went forth, and Odysseus led the way. By now there was light over the earth, but Athena hid them in night, and swiftly led them forth from the city.[372]
+---
+> ”
+> He spoke, and girt about his shoulders his beautiful armour, and roused Telemachus and the neatherd and the swineherd, and bade them all take weapons of war in their hands. They did not disobey, but clad themselves in bronze, 
+diff out/alignment_res_ODYSSEY_24_.txt ../add_translation/out/alignment_res_ODYSSEY_24_.txt
+2202c2202
+<  START=496 END=548
+---
+>  START=496 END=NULL
+2260c2260
+< from line 510 to line 512
+---
+> from line 510 to line 513
+2263a2264
+> ὣς φάτο, Λαέρτης δ̓ ἐχάρη καὶ μῦθον ἔειπε·[513,513]
+2275c2276
+< from line 513 to line 513
+---
+> from line 514 to line 514
+2277c2278,2279
+< ὣς φάτο, Λαέρτης δ̓ ἐχάρη καὶ μῦθον ἔειπε·[513,513]
+---
+> " τίς νύ μοι ἡμέρη ἥδε, θεοὶ φίλοι;[514,514]
+> ἦ μάλα χαίρω·[514,514]
+2284c2286
+< from MILESTONE 510 to MILESTONE 520
+---
+> from MILESTONE 510 to MILESTONE 515
+2286,2287c2288
+<  “What a day is this for me, kind gods! [515] Verily right glad am I: my son and my son's son are vying with one another in valor.”
+< Then flashing-eyed Athena came near him and said:
+---
+>  “What a day is this for me, kind gods!
+2289c2290
+< from line 514 to line 516
+---
+> from line 515 to line 515
+2291,2292d2291
+< " τίς νύ μοι ἡμέρη ἥδε, θεοὶ φίλοι;[514,514]
+< ἦ μάλα χαίρω·[514,514]
+2293a2293,2304
+> 
+> ########################################################################
+> 
+> 
+> 
+> ======================================================================
+> from MILESTONE 510 to MILESTONE 520
+> ======================================================================
+>  [515] Verily right glad am I: my son and my son's son are vying with one another in valor.
+> ----------------------------------------------------------------------
+> from line 516 to line 516
+> ----------------------------------------------------------------------
+2303,2304c2314,2316
+<  “Son of Arceisius, far the dearest of all my friends, make a prayer to the flashing-eyed maiden and to father Zeus, and then straightway raise aloft thy long spear, and hurl it.”
+<  [520] So spoke Pallas Athena, and breathed into him great might. Then he prayed to the daughter of great Zeus, and straightway raised aloft his long spear, and hurled it, and smote Eupeithes through the helmet with cheek-piece of bronze.
+---
+> ”
+> Then flashing-eyed Athena came near him and said: “Son of Arceisius, far the dearest of all my friends, make a prayer to the flashing-eyed maiden and to father Zeus, and then straightway raise aloft thy long spear, and hurl it.”
+>  [520] So spoke Pallas Athena, and breathed into him great might.
+2318c2330
+<  This stayed not the spear, but the bronze passed through, [525] and he fell with a thud, and his armour clanged about him. Then on the foremost fighters fell Odysseus and his glorious son, and thrust at them with swords and double-pointed spears.
+---
+>  Then he prayed to the daughter of great Zeus, and straightway raised aloft his long spear, and hurled it, and smote Eupeithes through the helmet with cheek-piece of bronze. This stayed not the spear, but the bronze passed through, [525] and he fell with a thud, and his armour clanged about him.
+2332,2333c2344
+<  And now would they have slain them all, and cut them off from returning, had not Athena, daughter of Zeus, who bears the aegis, [530] shouted aloud, and checked all the host, saying:
+< “Refrain, men of Ithaca, from grievous war, that with all speed you may part, and that without bloodshed.
+---
+>  Then on the foremost fighters fell Odysseus and his glorious son, and thrust at them with swords and double-pointed spears. And now would they have slain them all, and cut them off from returning, had not Athena, daughter of Zeus, who bears the aegis, [530] shouted aloud, and checked all the host, saying:
+2345,2358d2355
+< from MILESTONE 530 to MILESTONE 535
+< ======================================================================
+< ”
+< So spoke Athena, and pale fear seized them.
+< ----------------------------------------------------------------------
+< from line 533 to line 533
+< ----------------------------------------------------------------------
+< ὣς φάτ̓ Ἀθηναίη, τοὺς δὲ χλωρὸν δέος εἷλεν·[533,533]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+2361c2358,2360
+<  Then in their terror the arms flew from their hands [535] and fell one and all to the ground, as the goddess uttered her voice, and they turned toward the city, eager to save their lives.
+---
+> 
+> “Refrain, men of Ithaca, from grievous war, that with all speed you may part, and that without bloodshed.”
+> So spoke Athena, and pale fear seized them. Then in their terror the arms flew from their hands [535] and fell one and all to the ground, as the goddess uttered her voice, and they turned toward the city, eager to save their lives.
+2363c2362
+< from line 534 to line 536
+---
+> from line 533 to line 538
+2364a2364
+> ὣς φάτ̓ Ἀθηναίη, τοὺς δὲ χλωρὸν δέος εἷλεν·[533,533]
+2366a2367
+> σμερδαλέον δ̓ ἐβόησε πολύτλας δῖος Ὀδυσσεύς, οἴμησεν δὲ ἀλεὶς ὥς τ̓ αἰετὸς ὑψιπετήεις.[537,538]
+2375c2376
+<  Terribly then shouted the much-enduring, goodly Odysseus, and gathering himself together he swooped upon them like an eagle of lofty flight, and at that moment the son of Cronos cast a flaming thunderbolt, [540] and down it fell before the flashing-eyed daughter of the mighty sire.
+---
+>  Terribly then shouted the much-enduring, goodly Odysseus, and gathering himself together he swooped upon them like an eagle of lofty flight, and at that moment the son of Cronos cast a flaming thunderbolt, [540] and down it fell before the flashing-eyed daughter of the mighty sire. Then flashing-eyed Athena spoke to Odysseus saying:
+2377c2378
+< from line 537 to line 541
+---
+> from line 539 to line 544
+2379d2379
+< σμερδαλέον δ̓ ἐβόησε πολύτλας δῖος Ὀδυσσεύς, οἴμησεν δὲ ἀλεὶς ὥς τ̓ αἰετὸς ὑψιπετήεις.[537,538]
+2381a2382
+> " διογενὲς Λαερτιάδη, πολυμήχαν̓ Ὀδυσσεῦ, ἴσχεο, παῦε δὲ νεῖκος ὁμοιΐου πολέμοιο, μή πως τοι Κρονίδης κεχολώσεται εὐρύοπα Ζεύς."[542,544]
+2390,2398d2390
+<  Then flashing-eyed Athena spoke to Odysseus saying:
+< “Son of Laertes, sprung from Zeus, Odysseus of many devices, stay thy hand, and make the strife of equal war to cease, lest haply the son of Cronos be wroth with thee, even Zeus, whose voice is borne afar.
+< ----------------------------------------------------------------------
+< from line 542 to line 544
+< ----------------------------------------------------------------------
+< " διογενὲς Λαερτιάδη, πολυμήχαν̓ Ὀδυσσεῦ, ἴσχεο, παῦε δὲ νεῖκος ὁμοιΐου πολέμοιο, μή πως τοι Κρονίδης κεχολώσεται εὐρύοπα Ζεύς."[542,544]
+< 
+< ########################################################################
+< 
+2400,2405c2392,2393
+< 
+< ======================================================================
+< from MILESTONE 540 to MILESTONE 548
+< ======================================================================
+< ”
+<  [545] So spoke Athena, and he obeyed, and was glad at heart. Then for all time to come a solemn covenant betwixt the twain was made by Pallas Athena, daughter of Zeus, who bears the aegis, in the likeness of Mentor both in form and in voice.[548]
+---
+> “Son of Laertes, sprung from Zeus, Odysseus of many devices, stay thy hand, and make the strife of equal war to cease, lest haply the son of Cronos be wroth with thee, even Zeus, whose voice is borne afar.”
+>  
+diff out/alignment_res_ODYSSEY_2_.txt ../add_translation/out/alignment_res_ODYSSEY_2_.txt
+1753c1753
+<  START=388 END=434
+---
+>  START=388 END=NULL
+1891c1891
+<  My mother knows naught hereof, nor the handmaids either: one only heard my word.
+---
+>  My mother knows naught hereof, nor the handmaids either:
+1904,1905c1904
+< ”
+< Thus saying, he led the way, and they went along with him.
+---
+>  one only heard my word.
+1918c1917,1918
+<  So they brought and [415] stowed everything in the well-benched ship, as the dear son of Odysseus bade. Then on board the ship stepped Telemachus, and Athena went before him and sat down in the stern of the ship, and near her sat Telemachus, while the men loosed the stern cables and themselves stepped on board, and sat down upon the benches.
+---
+> ”
+> Thus saying, he led the way, and they went along with him. So they brought and [415] stowed everything in the well-benched ship, as the dear son of Odysseus bade.
+1920c1920
+< from line 414 to line 419
+---
+> from line 414 to line 417
+1924,1925d1923
+< ἄγχι δ̓ ἄῤ αὐτῆς ἕζετο Τηλέμαχος.[417,418]
+< τοὶ δὲ πρυμνήσἰ ἔλυσαν, ἂν δὲ καὶ αὐτοὶ βάντες ἐπὶ κληῖσι καθῖζον.[418,419]
+1934c1932
+<  [420] And flashing-eyed Athena sent them a favorable wind, a strong-blowing West wind that sang over the wine-dark sea.
+---
+>  Then on board the ship stepped Telemachus, and Athena went before him and sat down in the stern of the ship, and near her sat Telemachus, while the men loosed the stern cables and themselves stepped on board, and sat down upon the benches. [420] And flashing-eyed Athena sent them a favorable wind, a strong-blowing West wind that sang over the wine-dark sea.
+1936c1934
+< from line 420 to line 421
+---
+> from line 417 to line 423
+1937a1936,1937
+> ἄγχι δ̓ ἄῤ αὐτῆς ἕζετο Τηλέμαχος.[417,418]
+> τοὶ δὲ πρυμνήσἰ ἔλυσαν, ἂν δὲ καὶ αὐτοὶ βάντες ἐπὶ κληῖσι καθῖζον.[418,419]
+1939,1950d1938
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 420 to MILESTONE 425
+< ======================================================================
+<  And Telemachus called to his men, and bade them lay hold of the tackling, and they hearkened to his call.
+< ----------------------------------------------------------------------
+< from line 422 to line 423
+< ----------------------------------------------------------------------
+1960c1948
+<  The mast of fir [425] they raised and set in the hollow socket, and made it fast with fore-stays, and hauled up the white sail with twisted thongs of ox-hide.
+---
+>  And Telemachus called to his men, and bade them lay hold of the tackling, and they hearkened to his call. The mast of fir [425] they raised and set in the hollow socket, and made it fast with fore-stays, and hauled up the white sail with twisted thongs of ox-hide.
+1962c1950
+< from line 423 to line 426
+---
+> from line 423 to line 433
+1966,1977d1953
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 425 to MILESTONE 430
+< ======================================================================
+<  So the wind filled the belly of the sail, and the dark wave sang loudly about the stem of the ship as she went, and she sped over the wave accomplishing her way.
+< ----------------------------------------------------------------------
+< from line 427 to line 429
+< ----------------------------------------------------------------------
+1980,1991d1955
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 425 to MILESTONE 434
+< ======================================================================
+<  [430] Then, when they had made the tackling fast in the swift black ship, they set forth bowls brim full of wine, and poured libations to the immortal gods that are forever, and chiefest of all to the flashing-eyed daughter of Zeus.
+< ----------------------------------------------------------------------
+< from line 430 to line 433
+< ----------------------------------------------------------------------
+1999c1963
+< from MILESTONE 430 to MILESTONE 434
+---
+> from MILESTONE 425 to MILESTONE 430
+2001c1965
+<  So all night long and through the dawn the ship cleft her way.
+---
+>  So the wind filled the belly of the sail, and the dark wave sang loudly about the stem of the ship as she went, and she sped over the wave accomplishing her way. 
+diff out/alignment_res_ODYSSEY_3_.txt ../add_translation/out/alignment_res_ODYSSEY_3_.txt
+1859c1859
+<  START=447 END=497
+---
+>  START=447 END=NULL
+1900c1900
+<  Then the old man burned them on billets of wood, and poured over them sparkling wine, [460] and beside him the young men held in their hands the five-pronged forks. But when the thigh-pieces were wholly burned, and they had tasted the inner parts, they cut up the rest and spitted and roasted it, holding the pointed spits in their hands.
+---
+>  Then the old man burned them on billets of wood, and poured over them sparkling wine, [460] and beside him the young men held in their hands the five-pronged forks.
+1914c1914
+< 
+---
+>  But when the thigh-pieces were wholly burned, and they had tasted the inner parts, they cut up the rest and spitted and roasted it, holding the pointed spits in their hands.
+1973c1973
+< from line 475 to line 476
+---
+> from line 475 to line 478
+1976,1988d1975
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 475 to MILESTONE 480
+< ======================================================================
+< ”
+< So he spoke, and they readily hearkened and obeyed; and quickly they yoked beneath the car the swift horses.
+< ----------------------------------------------------------------------
+< from line 477 to line 478
+< ----------------------------------------------------------------------
+1998c1985,1986
+<  And the housewife placed in the car bread and wine [480] and dainties, such as kings, fostered of Zeus, are wont to eat.
+---
+> ”
+> So he spoke, and they readily hearkened and obeyed; and quickly they yoked beneath the car the swift horses. And the housewife placed in the car bread and wine [480] and dainties, such as kings, fostered of Zeus, are wont to eat.
+2012,2013c2000
+<  Then Telemachus mounted the beautiful car, and Peisistratus, son of Nestor, a leader of men, mounted beside him, and took the reins in his hands. He touched the horses with the whip to start them, and nothing loath the pair sped on [485] to the plain, and left the steep citadel of Pylos. So all day long they shook the yoke which they bore about their necks.
+< Now the sun set and all the ways grew dark.
+---
+>  Then Telemachus mounted the beautiful car, and Peisistratus, son of Nestor, a leader of men, mounted beside him, and took the reins in his hands. He touched the horses with the whip to start them, and nothing loath the pair sped on [485] to the plain, and left the steep citadel of Pylos.
+2027c2014,2015
+<  And they came to Pherae, to the house of Diocles, son of Ortilochus, whom Alpheus begot.
+---
+>  So all day long they shook the yoke which they bore about their necks.
+> Now the sun set and all the ways grew dark.
+2029c2017
+< from line 487 to line 490
+---
+> from line 487 to line 489
+2032d2019
+< ἔνθα δὲ νύκτ̓ ἄεσαν, ὁ δὲ τοῖς πὰρ ξείνια θῆκεν.[490,490]
+2041,2042c2028
+<  [490]  There they spent the night, and before them he set the entertainment due to strangers.
+< So soon as early Dawn appeared, the rosy-fingered, they yoked the horses and mounted the inlaid car, and drove forth from the gateway and the echoing portico.
+---
+>  And they came to Pherae, to the house of Diocles, son of Ortilochus, whom Alpheus begot. [490]  There they spent the night, and before them he set the entertainment due to strangers.
+2044c2030
+< from line 491 to line 492
+---
+> from line 490 to line 492
+2045a2032
+> ἔνθα δὲ νύκτ̓ ἄεσαν, ὁ δὲ τοῖς πὰρ ξείνια θῆκεν.[490,490]
+2055c2042,2043
+<  Then Peisistratus touched the horses with the whip to start them, and nothing loath the pair sped onward.
+---
+> 
+> So soon as early Dawn appeared, the rosy-fingered, they yoked the horses and mounted the inlaid car, and drove forth from the gateway and the echoing portico.
+2057c2045
+< from line 493 to line 494
+---
+> from line 493 to line 496
+2061,2072d2048
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 490 to MILESTONE 497
+< ======================================================================
+<  [495] So they came to the wheat-bearing plain, and thereafter pressed on toward their journey's end, so well did their swift horses bear them on.
+< ----------------------------------------------------------------------
+< from line 495 to line 496
+< ----------------------------------------------------------------------
+2074d2049
+< τοῖον γὰρ ὑπέκφερον ὠκέες ἵπποι.[496,496]
+2081c2056
+< from MILESTONE 495 to MILESTONE 497
+---
+> from MILESTONE 490 to MILESTONE 495
+2083c2058
+<  And the sun set and all the ways grew dark.
+---
+>  Then Peisistratus touched the horses with the whip to start them, and nothing loath the pair sped onward. 
+2085c2060
+< from line 497 to line 497
+---
+> from line 496 to line 497
+2086a2062
+> τοῖον γὰρ ὑπέκφερον ὠκέες ἵπποι.[496,496]
+diff out/alignment_res_ODYSSEY_4_.txt ../add_translation/out/alignment_res_ODYSSEY_4_.txt
+1063c1063
+<  START=795 END=846
+---
+>  START=795 END=NULL
+1070c1070
+< from MILESTONE 795 to MILESTONE 846
+---
+> from MILESTONE 795 to MILESTONE 845
+1080c1080
+< But the wooers embarked, and sailed over the watery ways, pondering in their hearts utter murder for Telemachus. There is a rocky isle in the midst of the sea, [845] midway between Ithaca and rugged Samos, Asteris, of no great size, but therein is a harbor where ships may lie, with an entrance on either side. There it was that the Achaeans tarried, lying in wait for Telemachus.[846]
+---
+> But the wooers embarked, and sailed over the watery ways, pondering in their hearts utter murder for Telemachus. There is a rocky isle in the midst of the sea, [845]
+diff out/alignment_res_ODYSSEY_5_.txt ../add_translation/out/alignment_res_ODYSSEY_5_.txt
+1994c1994
+<  START=451 END=492
+---
+>  START=451 END=NULL
+2059c2059
+< from line 458 to line 462
+---
+> from line 458 to line 463
+2062a2063
+> ὁ δ̓ ἐκ ποταμοῖο λιασθεὶς σχοίνῳ ὑπεκλίνθη, κύσε δὲ ζείδωρον ἄρουραν.[462,463]
+2073c2074
+< from line 462 to line 465
+---
+> from line 464 to line 465
+2075d2075
+< ὁ δ̓ ἐκ ποταμοῖο λιασθεὶς σχοίνῳ ὑπεκλίνθη, κύσε δὲ ζείδωρον ἄρουραν.[462,463]
+2114c2114
+< from MILESTONE 470 to MILESTONE 475
+---
+> from MILESTONE 470 to MILESTONE 485
+2117c2117
+< Then, as he pondered, this thing seemed to him the better:
+---
+> Then, as he pondered, this thing seemed to him the better: [475] he went his way to the wood and found it near the water in a clear space; and he crept beneath two bushes that grew from the same spot, one of thorn and one of olive. Through these the strength of the wet winds could never blow, nor the rays of the bright sun beat, [480] nor could the rain pierce through them, so closely did they grow, intertwining one with the other.
+2119c2119
+< from line 475 to line 475
+---
+> from line 475 to line 483
+2122,2133d2121
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 470 to MILESTONE 480
+< ======================================================================
+<  [475] he went his way to the wood and found it near the water in a clear space; and he crept beneath two bushes that grew from the same spot, one of thorn and one of olive.
+< ----------------------------------------------------------------------
+< from line 475 to line 477
+< ----------------------------------------------------------------------
+2136a2125,2128
+> τοὺς μὲν ἄῤ οὔ τ̓ ἀνέμων διάη μένος ὑγρὸν ἀέντων, οὔ τε ποτ̓ ἠέλιος φαέθων ἀκτῖσιν ἔβαλλεν, οὔ τ̓ ὄμβρος περάασκε διαμπερές·[478,480]
+> ὣς ἄρα πυκνοὶ ἀλλήλοισιν ἔφυν ἐπαμοιβαδίς·[480,481]
+> οὓς ὑπ̓ Ὀδυσσεὺς δύσετ̓.[481,482]
+> ἄφαρ δ̓ εὐνὴν ἐπαμήσατο χερσὶ φίλῃσιν εὐρεῖαν·[482,483]
+2143c2135
+< from MILESTONE 475 to MILESTONE 485
+---
+> from MILESTONE 480 to MILESTONE 490
+2145c2137
+<  Through these the strength of the wet winds could never blow, nor the rays of the bright sun beat, [480] nor could the rain pierce through them, so closely did they grow, intertwining one with the other.
+---
+>  Beneath these Odysseus crept and straightway gathered with his hands a broad bed, for fallen leaves were there in plenty, enough to shelter two men or three [485] in winter-time, however bitter the weather.
+2147c2139
+< from line 478 to line 482
+---
+> from line 483 to line 487
+2149,2151c2141,2142
+< τοὺς μὲν ἄῤ οὔ τ̓ ἀνέμων διάη μένος ὑγρὸν ἀέντων, οὔ τε ποτ̓ ἠέλιος φαέθων ἀκτῖσιν ἔβαλλεν, οὔ τ̓ ὄμβρος περάασκε διαμπερές·[478,480]
+< ὣς ἄρα πυκνοὶ ἀλλήλοισιν ἔφυν ἐπαμοιβαδίς·[480,481]
+< οὓς ὑπ̓ Ὀδυσσεὺς δύσετ̓.[481,482]
+---
+> φύλλων γὰρ ἔην χύσις ἤλιθα πολλή, ὅσσον τ̓ ἠὲ δύω ἠὲ τρεῖς ἄνδρας ἔρυσθαι ὥρῃ χειμερίῃ, εἰ καὶ μάλα περ χαλεπαίνοι.[483,485]
+> τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς, ἐν δ̓ ἄρα μέσσῃ λέκτο, χύσιν δ̓ ἐπεχεύατο φύλλων.[486,487]
+2158c2149
+< from MILESTONE 480 to MILESTONE 492
+---
+> from MILESTONE 485 to MILESTONE 490
+2160c2151
+<  Beneath these Odysseus crept and straightway gathered with his hands a broad bed, for fallen leaves were there in plenty, enough to shelter two men or three [485] in winter-time, however bitter the weather. And the much-enduring goodly Odysseus saw it, and was glad, and he lay down in the midst, and heaped over him the fallen leaves. And as a man hides a brand beneath the dark embers in an outlying farm, a man who has no neighbors, [490] and so saves a seed of fire, that he may not have to kindle it from some other source, so Odysseus covered himself with leaves.
+---
+>  And the much-enduring goodly Odysseus saw it, and was glad, and he lay down in the midst, and heaped over him the fallen leaves.
+2162c2153
+< from line 482 to line 491
+---
+> from line 488 to line 491
+2164,2166d2154
+< ἄφαρ δ̓ εὐνὴν ἐπαμήσατο χερσὶ φίλῃσιν εὐρεῖαν·[482,483]
+< φύλλων γὰρ ἔην χύσις ἤλιθα πολλή, ὅσσον τ̓ ἠὲ δύω ἠὲ τρεῖς ἄνδρας ἔρυσθαι ὥρῃ χειμερίῃ, εἰ καὶ μάλα περ χαλεπαίνοι.[483,485]
+< τὴν μὲν ἰδὼν γήθησε πολύτλας δῖος Ὀδυσσεύς, ἐν δ̓ ἄρα μέσσῃ λέκτο, χύσιν δ̓ ἐπεχεύατο φύλλων.[486,487]
+2174c2162
+< from MILESTONE 490 to MILESTONE 492
+---
+> from MILESTONE 485 to MILESTONE 490
+2176c2164
+<  And Athena shed sleep upon his eyes, that it might enfold his lids and speedily free him from toilsome weariness.
+---
+>  And as a man hides a brand beneath the dark embers in an outlying farm, a man who has no neighbors, 
+diff out/alignment_res_ODYSSEY_6_.txt ../add_translation/out/alignment_res_ODYSSEY_6_.txt
+1197c1197
+<  START=288 END=631
+---
+>  START=288 END=NULL
+diff out/alignment_res_ODYSSEY_7_.txt ../add_translation/out/alignment_res_ODYSSEY_7_.txt
+1212c1212
+<  START=317 END=347
+---
+>  START=317 END=NULL
+1317c1317
+<  [340] But when they had busily spread the stout-built bedstead, they came to Odysseus, and called to him, and said:
+---
+>  [340] But when they had busily spread the stout-built bedstead, they came to Odysseus, and called to him, and said: “Rouse thee now, stranger, to go to thy rest; thy bed is made.
+1330,1342d1329
+<  “Rouse thee now, stranger, to go to thy rest; thy bed is made.
+< ----------------------------------------------------------------------
+< from line 342 to line 342
+< ----------------------------------------------------------------------
+< " ὄρσο κέων, ὦ ξεῖνε·[342,342]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 340 to MILESTONE 345
+< ======================================================================
+1346c1333
+< from line 342 to line 343
+---
+> from line 342 to line 345
+1347a1335
+> " ὄρσο κέων, ὦ ξεῖνε·[342,342]
+1349a1338
+> ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεὺς τρητοῖς ἐν λεχέεσσιν ὑπ̓ αἰθούσῃ ἐριδούπῳ·[344,345]
+1356c1345
+< from MILESTONE 340 to MILESTONE 347
+---
+> from MILESTONE 340 to MILESTONE 345
+1358c1347
+<  So there he slept, the much-enduring goodly Odysseus, [345] on the corded bedstead under the echoing portico. But Alcinous lay down in the inmost chamber of the lofty house, and beside him lay the lady his wife, who had strewn the couch.[347]
+---
+>  So there he slept, the much-enduring goodly Odysseus, 
+1360c1349
+< from line 344 to line 347
+---
+> from line 346 to line 347
+1362d1350
+< ὣς ὁ μὲν ἔνθα καθεῦδε πολύτλας δῖος Ὀδυσσεὺς τρητοῖς ἐν λεχέεσσιν ὑπ̓ αἰθούσῃ ἐριδούπῳ·[344,345]
+diff out/alignment_res_ODYSSEY_8_.txt ../add_translation/out/alignment_res_ODYSSEY_8_.txt
+2502c2502
+<  START=550 END=586
+---
+>  START=550 END=NULL
+2623c2623
+< from line 579 to line 583
+---
+> from line 579 to line 585
+2626a2627
+> ἦ τίς που καὶ ἑταῖρος ἀνὴρ κεχαρισμένα εἰδώς, ἐσθλός;[584,585]
+2633c2634
+< from MILESTONE 580 to MILESTONE 586
+---
+> from MILESTONE 580 to MILESTONE 585
+2635c2636
+<  Or was it haply some comrade dear to thy heart, [585] some good, true man? For no whit worse than a brother is a comrade who has an understanding heart.”[586]
+---
+>  Or was it haply some comrade dear to thy heart, 
+2637c2638
+< from line 584 to line 586
+---
+> from line 585 to line 586
+2639d2639
+< ἦ τίς που καὶ ἑταῖρος ἀνὴρ κεχαρισμένα εἰδώς, ἐσθλός;[584,585]
+diff out/alignment_res_ODYSSEY_9_.txt ../add_translation/out/alignment_res_ODYSSEY_9_.txt
+2376c2376
+<  START=536 END=566
+---
+>  START=536 END=NULL
+2461c2461
+< from line 560 to line 562
+---
+> from line 560 to line 564
+2463a2464
+> οἱ δ̓ αἶψ̓ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον, ἑξῆς δ̓ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς.[563,564]
+2473,2486c2474
+< ----------------------------------------------------------------------
+< from line 563 to line 564
+< ----------------------------------------------------------------------
+< οἱ δ̓ αἶψ̓ εἴσβαινον καὶ ἐπὶ κληῖσι καθῖζον, ἑξῆς δ̓ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρετμοῖς.[563,564]
+< 
+< ########################################################################
+< 
+< 
+< 
+< ======================================================================
+< from MILESTONE 560 to MILESTONE 566
+< ======================================================================
+< 
+<  [565] “Thence we sailed on, grieved at heart, glad to have escaped death, though we had lost our dear comrades.[566]
+---
+>  

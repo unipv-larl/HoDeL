@@ -1,0 +1,38 @@
+
+<div id="leftSide" class="span-7 colborder">
+
+<div id="lemma-catNavigation" class="span-7 last catNavigation catGroup">
+</div>
+
+<div id="gen-catNavigation" class="span-7 last catNavigation catGroup">
+[% INCLUDE 'verbo/categoriesIndex.tt2' %]
+</div>
+
+</div>
+
+<div id="center-toolbar" class="span-16 last">
+	<div class="span-12 prepend-4 last">
+		<div class="span-7">
+			<span>Order By :</span>
+			<span>[&and;]</span><a id="lemma" class="orderby asc">lemma</a>
+			<span>[&nbsp;]</span><a id="lRetr" class="orderby">rev. lemma</a>
+			<span>[&nbsp;]</span><a id="frq" class="orderby">frequency</a>
+		<hr/>
+		</div>
+		<div class="span-5 last">
+			<span>Filter :</span>
+			<input type="text" id="filter" class="mytf" name="filter"
+                        title="Use: &#145;_&#146; for a single character, &#145;%&#146; for 0 or more"/>
+		</div>
+	</div>
+</div>
+
+
+<div id="center" class="span-16 last">
+
+
+[% INCLUDE 'verbo/tabella.tt2' %]
+
+</div>
+
+

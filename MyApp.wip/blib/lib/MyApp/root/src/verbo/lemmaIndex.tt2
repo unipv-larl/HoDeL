@@ -1,0 +1,80 @@
+
+<h3 id="sel-lemma"><a> Lemma <span class="strong">[% lemma %],
+[% SWITCH lemmaInfo.cat_fl %]
+[%   CASE 'J' %]I conjug
+[%   CASE 'K' %]II conjug
+[%   CASE 'L' %]III conjug
+[%   CASE 'M' %]IV conjug
+[%   CASE 'N' %]Regularly irregular  conjug
+[%   CASE %]???
+[% END %]
+([% lemmaCount %])
+</span>
+</a></h3>
+
+<h2 class="roundTop section-title catGroupHead">Args Number</h2>
+<div class="roundBottom jq-box">
+    <ul id="lemma-categories">
+    [% FOREACH cc IN cardCatIndex %]
+        <li class="cat-item"><a href="#" onclick="showLemma({argsCard: '[% cc.argsCard %]'});"><span class="quiet">No. Args: <span class="loud">[% cc.argsCard %]</span>  ( <span class="loud">[% cc.occs %]</span> )</span></a> 
+        [% IF cc.children %]
+        <ul class='children'>
+            [% FOREACH sc IN cc.children %]
+            <li class="cat-item"><a href="#" onclick="showLemma({argsCard: [% cc.argsCard %], argsSet: '[% sc.argsSet %]'});"><span class="quiet">Subcat.: <span class="loud">[% sc.argsSet %]</span> ( <span class="loud">[% sc.occs %]</span> )</span></a>
+            [% IF sc.children %]
+            <ul class='children'>
+                [% FOREACH diat IN sc.children %]
+                <li class="cat-item"><a href="#" onclick="showLemma({argsCard: [% cc.argsCard %], argsSet: '[% sc.argsSet %]', diatesi: '[% diat.diatesi %]'});"><span class="quiet">[% SWITCH diat.diatesi %][% CASE 'A' %]Active [% CASE 'P' %]Passive [% CASE 'M' %]Middle [% CASE 'E' %]Medio-Passive [% END %]Voice ( <span class="loud">[% diat.occs %]</span> )</span></a>
+
+                [% IF diat.children %]
+                <ul class='children'>
+                    [% FOREACH caso IN diat.children %]
+                    <li class="cat-item"><a href="#" onclick="showLemma({argsCard: [% cc.argsCard %], argsSet: '[% sc.argsSet %]', diatesi: '[% diat.diatesi %]', argsCase: '[% caso.caso %]'});"><span class="quiet">[% IF caso.caso !='CLAUSE' %]case: [% END %]<span class="loud">[% caso.caso %]</span> ( <span class="loud">[% caso.occs %]</span> occs in <span class="loud">[% caso.t_occs %]</span> sub trees)</span></a>
+                    </li>
+                    [% END %]
+                </ul>
+                [% END %]
+
+                </li>
+                [% END %]
+            </ul>
+            [% END %]
+            </li>
+            [% END %]
+        </ul>
+        [% END %]
+        </li>
+    [% END %]
+    </ul>
+</div>
+
+
+<h2 class="roundTop section-title catGroupHead">Fillers</h2>
+<div class="roundBottom jq-box">
+    <ul id="lemma-fillers">
+    [% FOREACH lf IN lemmaFillers %]
+        <li class="cat-item"><a href="#" onclick="showLemma({filler: '[% lf.filler %]'});"><span class="quiet">lemma: <span class="loud">[% lf.filler %]</span>  ( <span class="loud">[% lf.occs %]</span> )</span></a> 
+        [% IF lf.children %]
+        <ul class='children'>
+            [% FOREACH rel IN lf.children %]
+            <li class="cat-item"><a href="#" onclick="showLemma({filler: '[% lf.filler %]', fillerRel: '[% rel.relation %]'});"><span class="quiet">rel.: <span class="loud">[% rel.relation %]</span> ( <span class="loud">[% rel.occs %]</span> )</span></a>
+            [% IF sc.children %]
+            <ul class='children'>
+                [% FOREACH caso IN rel.children %]
+                <li class="cat-item"><a href="#" onclick="showLemma({filler: '[% lf.filler %]', fillerRel: '[% rel.relation %]', argsCase: '[% caso.caso %]'});"><span class="quiet">[% IF caso.caso !='CLAUSE' %]case: [% END %]<span class="loud">[% caso.caso %]</span> ( <span class="loud">[% caso.occs %]</span> )</a>
+                </li>
+                [% END %]
+            </ul>
+            [% END %]
+            </li>
+            [% END %]
+        </ul>
+        [% END %]
+        </li>
+    [% END %]
+    </ul>
+</div>
+
+<!--
+</div>
+-->

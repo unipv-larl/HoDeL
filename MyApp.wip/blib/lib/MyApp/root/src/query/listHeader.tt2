@@ -1,0 +1,58 @@
+
+<h3 class="meta-info">[% listType %] 
+<br/>
+[% IF browseFilter.lemma -%]
+- Lemma: <span class="loud lemma">[% browseFilter.lemma -%]</span>
+[% END -%]
+
+[% IF browseFilter.diatesi -%]
+- [% SWITCH browseFilter.diatesi %][% CASE 'A' %]Active [% CASE 'P' %]Passive [% CASE 'M' %]Middle [% CASE 'E' %]Medio-Passive [% END %]Voice
+[% END -%]
+
+[% IF browseFilter.argsCard || browseFilter.argsCard == 0 -%]
+- No. Arguments: <span class="loud">[% browseFilter.argsCard -%]</span>
+[% END -%]
+
+[% IF browseFilter.argsSet -%]
+- Subcategory: <span class="loud">[% browseFilter.argsSet -%]</span>
+[% END -%]
+
+[% RELS=['Sb', 'Obj', 'Pnom', 'OComp'] %]
+
+[% FOREACH rel IN RELS %]
+
+[% relOrderCat = "relOrderCat$rel" %]
+[% IF browseFilter.$relOrderCat -%]
+- Partial Order ( [% rel -%] ): <span class="loud">[% browseFilter.$relOrderCat -%]</span>
+[% END -%]
+
+[% END %]
+
+
+[% IF browseFilter.relOrderSubCat -%]
+- Order: <span class="loud">[% browseFilter.relOrderSubCat -%]</span>
+[% END -%]
+
+[% IF browseFilter.curArgLem || browseFilter.curArgLem || browseFilter.curArgCas -%]
+<br/>
+[% END -%]
+
+[% IF browseFilter.curArgLem -%]
+- Argument Lemma: <span class="loud argument1">[% browseFilter.curArgLem -%]</span>
+[% END -%]
+
+[% IF browseFilter.curArgRel -%]
+- Argument Relation: <span class="loud">[% browseFilter.curArgRel -%]</span>
+[% END -%]
+
+[% IF browseFilter.curArgCas -%]
+[% cm = browseFilter.curArgCas%]
+[% IF cm=='NULL' %]
+- Argument : <span class="loud">INV./UNINFL.</span>
+[% ELSE %]
+- Argument [% CaseMoodT.$cm -%]: <span class="loud">[% CaseMoodV.$cm -%]</span>
+[% END -%]
+[% END -%]
+
+</h3>
+

@@ -1,0 +1,364 @@
+
+processing PARA:  BOOK=1 START=1 END=32
+==================================================
+ NO_ENG_SENTS=10 NO_GREEK_SENTS=13
+==================================================
+int(0)
+
+==================================================
+Greek Sent:
+μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί̓ Ἀχαιοῖς ἄλγἐ ἔθηκε, πολλὰς δ̓ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ̓ ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς.
+ START=1 END=7 LENGTH=225
+----------------------------------------------------
+Candidate Translation:
+ 
+ [1] The wrath sing,  goddess, of Peleus' son, Achilles, that destructive wrath which brought countless woes upon the Achaeans, and sent forth to Hades many valiant souls of heroes, and made them themselves spoil for dogs and every bird; thus the plan of Zeus came to fulfillment, [5] from the time when first they parted in strife Atreus' son, king of men, and brilliant Achilles.
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.95486589360902
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(1)
+
+==================================================
+Greek Sent:
+τίς τ̓ ἄρ σφωε θεῶν ἔριδι ξυνέηκε μάχεσθαι;
+ START=8 END=8 LENGTH=35
+----------------------------------------------------
+Candidate Translation:
+
+Who then of the gods was it that brought these two together to contend?
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.64587637738483
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(2)
+
+==================================================
+Greek Sent:
+Λητοῦς καὶ Διὸς υἱός·
+ START=9 END=9 LENGTH=17
+----------------------------------------------------
+Candidate Translation:
+  The son of Leto and Zeus; for he in anger against the king roused throughout the host an evil pestilence, and the people began to perish, [10] because upon the priest Chryses the son of Atreus had wrought dishonour.
+----------------------------------------------------
+
+	 - milestone check: NOK! - OFFENDING MILESTONE: [10]
+	----------------------------------------------------
+	CANDIDATE CUT:
+	 <<<  The son of Leto and Zeus; for he in anger against the king roused throughout the host an evil pestilence, and the people began to perish,>>>
+	<<< [10] because upon the priest Chryses the son of Atreus had wrought dishonour.>>>
+	 - No Capital Letters check: OK
+	 - Length check: NOK - PROB=0.016433232857064
+Searching for candidate cuts...
+	----------------------------------------------------
+	CANDIDATE CUT <<<  The son of Leto and Zeus; for he in anger against the king roused throughout the host an evil pestilence,>>>
+	<<< and the people began to perish,>>>
+	 - No Capital Letters check: OK
+	 - Length check: NOK - PROB=0.052018653303041
+	----------------------------------------------------
+	CANDIDATE CUT <<<  The son of Leto and Zeus;>>>
+	<<< for he in anger against the king roused throughout the host an evil pestilence,>>>
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.81557162660343
+++++++STORED CUTS:
+array(0) {
+}
+****** moving FORWARD *********
+int(3)
+
+==================================================
+Greek Sent:
+ὃ γὰρ βασιλῆϊ χολωθεὶς νοῦσον ἀνὰ στρατὸν ὄρσε κακήν, ὀλέκοντο δὲ λαοί, οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα Ἀτρεΐδης·
+ START=9 END=12 LENGTH=96
+----------------------------------------------------
+Candidate Translation:
+ for he in anger against the king roused throughout the host an evil pestilence, and the people began to perish, [10] because upon the priest Chryses the son of Atreus had wrought dishonour.
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.58846775252978
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(4)
+
+==================================================
+Greek Sent:
+ὃ γὰρ ἦλθε θοὰς ἐπὶ νῆας Ἀχαιῶν λυσόμενός τε θύγατρα φέρων τ̓ ἀπερείσἰ ἄποινα, στέμματ̓ ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος χρυσέῳ ἀνὰ σκήπτρῳ, καὶ λίσσετο πάντας Ἀχαιούς, Ἀτρεΐδα δὲ μάλιστα δύω, κοσμήτορε λαῶν·
+ START=12 END=16 LENGTH=173
+----------------------------------------------------
+Candidate Translation:
+ For he had come to the swift ships of the Achaeans to free his daughter, bearing ransom past counting; and in his hands he held the wreaths of Apollo who strikes from afar, on a staff of gold; and he implored all the Achaeans, [15] but most of all the two sons of Atreus, the marshallers of the people:
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.88094455883372
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(5)
+
+==================================================
+Greek Sent:
+Ἀτρεΐδαι τε καὶ ἄλλοι ἐϋκνήμιδες Ἀχαιοί, ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματ̓ ἔχοντες ἐκπέρσαι Πριάμοιο πόλιν, εὖ δ̓ οἴκαδ̓ ἱκέσθαι·
+ START=17 END=19 LENGTH=108
+----------------------------------------------------
+Candidate Translation:
+ "Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes; but my dear child release to me, and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar."
+----------------------------------------------------
+
+	 - milestone check: NOK! - OFFENDING MILESTONE: [20]
+	----------------------------------------------------
+	CANDIDATE CUT:
+	 <<< "Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes; but my dear child release to me,>>>
+	<<< and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar.">>>
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.69406507286762
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(6)
+
+==================================================
+Greek Sent:
+παῖδα δ̓ ἐμοὶ λύσαιτε φίλην, τὰ δ̓ ἄποινα δέχεσθαι, ἁζόμενοι Διὸς υἱὸν ἑκηβόλον Ἀπόλλωνα.
+ START=20 END=21 LENGTH=73
+----------------------------------------------------
+Candidate Translation:
+ and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar."
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: NOK - PROB=0.42893373719686
+Searching for candidate cuts...
+	----------------------------------------------------
+	CANDIDATE CUT <<< and accept the ransom [20] out of reverence for the son of Zeus,>>>
+	<<< Apollo who strikes from afar.">>>
+	 - No Capital Letters check: NOK! - ENG CAPS: 1 - Greek CAPS: 2
+	 - Length check: NOK - PROB=0.047026100476448
+	----------------------------------------------------
+	NO MORE CANDIDATE CUT! GIVING UP...
+array(6) {
+  'greekSentIndex' =>
+  int(5)
+  'candidate' =>
+  string(201) " "Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes; but my dear child release to me,"
+  'residual' =>
+  string(96) " and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar.""
+  'isAfterFS' =>
+  int(1)
+  'engSentIndex' =>
+  int(4)
+  'candidates_weak_p_cut' =>
+  NULL
+}
+NULL
+****** moving BACKWARD *********
+int(5)
+
+==================================================
+Greek Sent:
+Ἀτρεΐδαι τε καὶ ἄλλοι ἐϋκνήμιδες Ἀχαιοί, ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματ̓ ἔχοντες ἐκπέρσαι Πριάμοιο πόλιν, εὖ δ̓ οἴκαδ̓ ἱκέσθαι·
+ START=17 END=19 LENGTH=108
+----------------------------------------------------
+Candidate Translation:
+ "Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes; but my dear child release to me,
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.69406507286762
+Searching for candidate cuts...
+	----------------------------------------------------
+	CANDIDATE CUT <<< "Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes;>>>
+	<<< but my dear child release to me,>>>
+++++++STORED CUTS:
+array(3) {
+  [0] =>
+  array(2) {
+    [0] =>
+    string(1) ","
+    [1] =>
+    int(16)
+  }
+  [1] =>
+  array(2) {
+    [0] =>
+    string(1) ","
+    [1] =>
+    int(49)
+  }
+  [2] =>
+  array(2) {
+    [0] =>
+    string(1) ","
+    [1] =>
+    int(136)
+  }
+}
+****** moving FORWARD *********
+int(6)
+
+==================================================
+Greek Sent:
+παῖδα δ̓ ἐμοὶ λύσαιτε φίλην, τὰ δ̓ ἄποινα δέχεσθαι, ἁζόμενοι Διὸς υἱὸν ἑκηβόλον Ἀπόλλωνα.
+ START=20 END=21 LENGTH=73
+----------------------------------------------------
+Candidate Translation:
+ but my dear child release to me, and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar."
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.95320920700154
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(7)
+
+==================================================
+Greek Sent:
+ἔνθ̓ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ αἰδεῖσθαί θ̓ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα·
+ START=22 END=23 LENGTH=71
+----------------------------------------------------
+Candidate Translation:
+
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom, yet the thing did not please the heart of Agamemnon, son of Atreus, but he sent him away harshly, and laid upon him a stern command:
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: NOK! - ENG CAPS: 4 - Greek CAPS: 1
+	 - Length check: NOK - PROB=0.039713077487856
+Searching for candidate cuts...
+	----------------------------------------------------
+	CANDIDATE CUT <<<
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom, yet the thing did not please the heart of Agamemnon, son of Atreus, but he sent him away harshly,>>>
+	<<< and laid upon him a stern command:>>>
+	 - No Capital Letters check: NOK! - ENG CAPS: 4 - Greek CAPS: 1
+	 - Length check: NOK - PROB=0.108018078505
+	----------------------------------------------------
+	CANDIDATE CUT <<<
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom, yet the thing did not please the heart of Agamemnon, son of Atreus,>>>
+	<<< but he sent him away harshly,>>>
+	 - No Capital Letters check: NOK! - ENG CAPS: 4 - Greek CAPS: 1
+	 - Length check: NOK - PROB=0.24197221222773
+	----------------------------------------------------
+	CANDIDATE CUT <<<
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom, yet the thing did not please the heart of Agamemnon,>>>
+	<<< son of Atreus,>>>
+	 - No Capital Letters check: NOK! - ENG CAPS: 3 - Greek CAPS: 1
+	 - Length check: NOK - PROB=0.34838002811613
+	----------------------------------------------------
+	CANDIDATE CUT <<<
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom,>>>
+	<<< yet the thing did not please the heart of Agamemnon,>>>
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.86690480970722
+++++++STORED CUTS:
+array(1) {
+  [0] =>
+  array(2) {
+    [0] =>
+    string(1) ","
+    [1] =>
+    int(49)
+  }
+}
+****** moving FORWARD *********
+int(8)
+
+==================================================
+Greek Sent:
+ἀλλ̓ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ, ἀλλὰ κακῶς ἀφίει, κρατερὸν δ̓ ἐπὶ μῦθον ἔτελλε·
+ START=24 END=25 LENGTH=72
+----------------------------------------------------
+Candidate Translation:
+ yet the thing did not please the heart of Agamemnon, son of Atreus, but he sent him away harshly, and laid upon him a stern command:
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.76861732176122
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(9)
+
+==================================================
+Greek Sent:
+μή σε γέρον κοίλῃσιν ἐγὼ παρὰ νηυσὶ κιχείω ἢ νῦν δηθύνοντ̓ ἢ ὕστερον αὖτις ἰόντα, μή νύ τοι οὐ χραίσμῃ σκῆπτρον καὶ στέμμα θεοῖο·
+ START=26 END=28 LENGTH=104
+----------------------------------------------------
+Candidate Translation:
+ [25] "Let me not find you, old man, by the hollow ships, either tarrying now or coming back later, lest your staff and the wreath of the god not protect you.
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.60369924143228
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(10)
+
+==================================================
+Greek Sent:
+τὴν δ̓ ἐγὼ οὐ λύσω·
+ START=29 END=29 LENGTH=14
+----------------------------------------------------
+Candidate Translation:
+ Her I will not set free.
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.9572107265048
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(11)
+
+==================================================
+Greek Sent:
+πρίν μιν καὶ γῆρας ἔπεισιν ἡμετέρῳ ἐνὶ οἴκῳ ἐν Ἄργεϊ τηλόθι πάτρης ἱστὸν ἐποιχομένην καὶ ἐμὸν λέχος ἀντιόωσαν·
+ START=29 END=31 LENGTH=92
+----------------------------------------------------
+Candidate Translation:
+ Sooner shall old age come upon her in our house, in Argos, far from her native land, [30] as she walks to and fro before the loom and serves my bed.
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.74409147027544
+++++++STORED CUTS:
+NULL
+****** moving FORWARD *********
+int(12)
+
+==================================================
+Greek Sent:
+ἀλλ̓ ἴθι μή μ̓ ἐρέθιζε σαώτερος ὥς κε νέηαι.
+ START=32 END=32 LENGTH=35
+----------------------------------------------------
+Candidate Translation:
+  But go, do not anger me, that you may return the safer."
+----------------------------------------------------
+
+	 - milestone check: OK
+	 - No Capital Letters check: OK
+	 - Length check: OK - PROB=0.90291188302085
+++++++STORED CUTS:
+NULL
+!!!!!!!!! STOP: no more greek sentences !!!!!!!!!!!!
+########################## PARA ALIGNED ########################

@@ -1,0 +1,11 @@
+ISSUES
+
+lacune nelle traduzioni:
+
+- Iliade XII: da "poured in" (verso 470) fino alla fine
+- Odissea I: da "tunic" (verso 439) fino alla fine
+- Odissea II: verso 360 "to seek tidings of the return of my dear father, if haply I may hear any" + da "accomplishing her way" (verso 433) fino alla fine
+- Odissea III: verso 50 "wherefore to thee first will I give the golden cup" + verso 140 "and they spoke their word, and told wherefore they had gathered the host together."
+
+Per regolarità intendevo che questi versi mancanti si trovano sempre alla fine del file e, nel caso di Odissea II e III, appena prima di una nuova sezione START = X END = Y, ma mai (per ora), ad esempio, all'inizio del file.
+

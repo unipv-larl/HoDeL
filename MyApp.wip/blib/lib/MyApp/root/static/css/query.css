@@ -1,0 +1,128 @@
+#query-form-header{
+  background: #666;
+}
+
+#query-section .roundBottom, #args-query-section .roundBottom{
+  margin: 0 0 1em 0;
+}
+
+#query-sum, #query-conditions, #args-query-sum  {
+  padding: 5px;
+}
+
+#query-conditions ul {
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+margin: 0;
+}
+
+#constraints-list {
+padding: 0;
+}
+
+#query-conditions li {
+margin:0;
+padding: 0;
+_height: 1%;
+}
+
+#unselectall{
+margin-left: 50px;
+padding-left: 20px;
+}
+#unselectsel{
+padding-left: 20px;
+}
+
+.selectFilter-item  {
+  margin:0;
+  padding:0.2em 10px;
+}
+
+#lemmataCount, #reificationsCount, #args-lemmataCount, #args-reificationsCount {
+  margin:0;
+}
+#lemmataCount a, #lemmataCount a:active, #lemmataCount a:hover{
+  color: #FF8040; 
+  border: none;
+  background: none;
+  text-decoration: none; 
+  padding:0.2em 10px;
+  line-height: 1.4;
+}
+
+#args-lemmataCount a, #args-lemmataCount a:active, #args-lemmataCount a:hover{
+  color: #00FFFF; 
+  border: none;
+  background: none;
+  text-decoration: none; 
+  padding:0.2em 10px;
+  line-height: 1.4;
+}
+
+#reificationsCount a, #reificationsCount a:active, #reificationsCount a:hover,
+#args-reificationsCount a, #args-reificationsCount a:active, #args-reificationsCount a:hover{
+  color: #800000; 
+  border: none;
+  background: none;
+  text-decoration: none;
+  padding:0.2em 10px;
+  line-height: 1.4;
+}
+
+
+.token {
+  margin-left: 4px;
+  font-family: Courier, "Courier New", monospace;
+  font-size:large;
+  color: #800000; 
+}
+.token.punct {
+  margin-left: -1px;
+}
+
+.lemma {
+  color: #FF8040; 
+}
+a.lemma {
+   text-decoration: none;
+}
+a.lemma:hover {
+  font-weight:bold; 
+  color: #FF8040; 
+}
+
+/*duplico verb per compatibilita'...*/
+.verb1 {
+  font-weight:bold; 
+}
+
+.argument1 {
+color: #00FFFF;
+}
+a.argument1 {
+   text-decoration: none;
+}
+a.argument1:hover {
+  font-weight:bold; 
+  color: #00FFFF; 
+}
+
+#args-catNavigation .section-title{
+  background: #00FFFF;
+}
+#arguments-categories {
+padding: 0;
+}
+
+.meta-info {
+  color: #666;
+  font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
+  font-weight: normal;
+}
+
+input.cat-selector {
+margin: 0 0 0 5px;
+}
+

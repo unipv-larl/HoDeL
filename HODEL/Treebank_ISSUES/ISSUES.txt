@@ -1,0 +1,9 @@
+* Una Sentence provoca ambiguità. Verificare annotazione ed eventualmente rimuovere percorsi duplicati.
+  vedi issue_01.xml
+* Trattamento dei tokens "artificiali" (form="[?]").  Al momento ignorati nel file xslt usato per l'importazione.
+  Produrre eventuale template specifico
+
+DA CONTROLLARE:
+- i campi prep e conj presentano stringhe nulle ''
+- presenza di lemmi nulli: si tratta di 185 casi aventi attributo lemma="" nei sorgenti della TreeBank
+

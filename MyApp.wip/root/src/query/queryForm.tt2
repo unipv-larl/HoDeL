@@ -1,0 +1,92 @@
+
+<div  id="query-form-div" class="roundBottom jq-box">
+
+      		<p>
+                   <label for="Slemma">Verbal Head Lemma</label><br/>
+      		   <input type="text" class="mytf" name="Slemma" id="Slemma" value=""/>
+                </p>
+
+                <p>
+                  <label for="Sdiatesi">Voice </label>
+    		  <select id="Sdiatesi" name="Sdiatesi">
+    			  <option value="">&nbsp;</option>
+    			  <option value="A">Active</option>
+    			  <option value="P">Passive</option>
+    			  <option value="M">Middle</option>
+    			  <option value="E">Medio-Passive</option>
+    		  </select>
+                </p>
+
+	<label>Exact Sequence <input id="seq" name="seq" value="seq" type="checkbox"/></label><br/>
+	<label>Exact Cardinality <input id="card" name="card" value="card" type="checkbox"/></label><br/>
+
+	<fieldset class="args-fields">
+		<label>Argument Lemma  </label><br/><input id="SfillerLem" class="mytf" name="SfillerLem" type="text"/>
+		<label>Relation  </label>    		  
+                <select id="SfillerRelation" name="SfillerRelation">
+    			  <option value="">&nbsp;</option>
+    			  <option value="Sb">Sb</option>
+    			  <option value="Obj">Obj</option>
+    			  <option value="Pnom">Pnom</option>
+    			  <option value="OComp">OComp</option>
+    		 </select><br/>
+		<label>Case/Mood </label>    		  
+                <select id="SfillerCase" name="SfillerCase">
+    			  <option value="">&nbsp;</option>
+    			  <option value="NULL">INV./UNINFL.</option>
+[% FOREACH key IN CaseMoodO.nsort %]
+    			  <option value="[% key %]">[% CaseMoodT.$key %] &nbsp; [%CaseMoodV.$key %]</option>
+[% END %]
+    		 </select><br/>
+		<label>Prep.</label>    		  
+                <select id="SfillerPrep" name="SfillerPrep">
+    			  <option value="">&nbsp;</option>
+    			  <option value="NULL">NONE</option>
+[% FOREACH p IN Preps %]
+    			  <option value="[% p %]">[% p %]</option>
+[% END %]
+    		 </select><br/>
+		<label>Conj.</label>    		  
+                <select id="SfillerConj" name="SfillerConj">
+    			  <option value="">&nbsp;</option>
+    			  <option value="NULL">NONE</option>
+[% FOREACH c IN Conjs %]
+    			  <option value="[% c %]">[% c %]</option>
+[% END %]
+    		 </select><br/>
+		<label>Position </label>
+                <select id="SfillerRelPos" name="SfillerRelPos">
+    			  <option value="">&nbsp;</option>
+    			  <option value="BV">before verb</option>
+    			  <option value="AV">after verb</option>
+    			  <option value="OV">b./a. verb</option>
+    		 </select><br/>
+
+	</fieldset>	
+	<input id="addButton1" name="add" value="Add another Argument" class="add-button" type="button"/>
+	<br/>
+
+      		<p>
+                  <input id="queryButton" type="submit" value="Submit"/>
+      		  <input id="resetQueryButton" type="reset" value="Reset"/>
+                </p>
+
+<script type="text/javascript"> 
+$("#seq").tooltip({ 
+    bodyHandler: function() { 
+        return 'Search for the exact sequence of arguments as defined in the form below';
+    } 
+});
+$("#card").tooltip({ 
+    bodyHandler: function() { 
+        return 'Search for the exact number of arguments as listed in the form below';
+    } 
+});
+</script>
+
+
+</div>
+<!--
+      	</fieldset>
+</form>
+-->

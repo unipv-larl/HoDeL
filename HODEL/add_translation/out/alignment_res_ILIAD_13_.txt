@@ -1,0 +1,3009 @@
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=1 END=31
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 1 to MILESTONE 10
+======================================================================
+ Now Zeus, when he had brought the Trojans and Hector to the ships, left the combatants there to have toil and woe unceasingly, but himself turned away his bright eyes, and looked afar, upon the land of the Thracian horsemen, [5] and of the Mysians that fight in close combat, and of the lordly Hippemolgi that drink the milk of mares, and of the Abii, the most righteous of men.
+----------------------------------------------------------------------
+from line 1 to line 6
+----------------------------------------------------------------------
+Ζεὺς δ̓ ἐπεὶ οὖν Τρῶάς τε καὶ Ἕκτορα νηυσὶ πέλασσε, τοὺς μὲν ἔα παρὰ τῇσι πόνον τ̓ ἐχέμεν καὶ ὀϊζὺν νωλεμέως, αὐτὸς δὲ πάλιν τρέπεν ὄσσε φαεινὼ νόσφιν ἐφ̓ ἱπποπόλων Θρῃκῶν καθορώμενος αἶαν Μυσῶν τ̓ ἀγχεμάχων καὶ ἀγαυῶν ἱππημολγῶν γλακτοφάγων Ἀβίων τε δικαιοτάτων ἀνθρώπων.[1,6]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 5 to MILESTONE 10
+======================================================================
+ To Troy he no longer in any wise turned his bright eyes, for he deemed not in his heart that any of the immortals would draw nigh to aid either Trojans or Danaans.
+----------------------------------------------------------------------
+from line 7 to line 10
+----------------------------------------------------------------------
+ἐς Τροίην δ̓ οὐ πάμπαν ἔτι τρέπεν ὄσσε φαεινώ·[7,7]
+οὐ γὰρ ὅ γ̓ ἀθανάτων τινα ἔλπετο ὃν κατὰ θυμὸν ἐλθόντ̓ ἢ Τρώεσσιν ἀρηξέμεν ἢ Δαναοῖσιν.[8,9]
+οὐ δ̓ ἀλαοσκοπιὴν εἶχε κρείων ἐνοσίχθων·[10,10]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 5 to MILESTONE 15
+======================================================================
+
+ [10] But the lord, the Shaker of Earth, kept no blind watch, for he sat marvelling at the war and the battle, high on the topmost peak of wooded Samothrace, for from thence all Ida was plain to see; and plain to see were the city of Priam, and the ships of the Achaeans.
+----------------------------------------------------------------------
+from line 11 to line 14
+----------------------------------------------------------------------
+καὶ γὰρ ὃ θαυμάζων ἧστο πτόλεμόν τε μάχην τε ὑψοῦ ἐπ̓ ἀκροτάτης κορυφῆς Σάμου ὑληέσσης Θρηϊκίης·[11,13]
+ἔνθεν γὰρ ἐφαίνετο πᾶσα μὲν Ἴδη, φαίνετο δὲ Πριάμοιο πόλις καὶ νῆες Ἀχαιῶν.[13,14]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 10 to MILESTONE 20
+======================================================================
+ [15] There he sat, being come forth from the sea, and he had pity on the Achaeans that they were overcome by the Trojans, and against Zeus was he mightily wroth.
+----------------------------------------------------------------------
+from line 15 to line 16
+----------------------------------------------------------------------
+ἔνθ̓ ἄῤ ὅ γ̓ ἐξ ἁλὸς ἕζετ̓ ἰών, ἐλέαιρε δ̓ Ἀχαιοὺς Τρωσὶν δαμναμένους, Διὶ δὲ κρατερῶς ἐνεμέσσα.[15,16]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 15 to MILESTONE 20
+======================================================================
+
+Forthwith then he went down from the rugged mount, striding forth with swift footsteps, and the high mountains trembled and the woodland beneath the immortal feet of Poseidon as he went.
+----------------------------------------------------------------------
+from line 17 to line 19
+----------------------------------------------------------------------
+αὐτίκα δ̓ ἐξ ὄρεος κατεβήσετο παιπαλόεντος κραιπνὰ ποσὶ προβιβάς·[17,18]
+τρέμε δ̓ οὔρεα μακρὰ καὶ ὕλη ποσσὶν ὑπ̓ ἀθανάτοισι Ποσειδάωνος ἰόντος.[18,19]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 15 to MILESTONE 30
+======================================================================
+ [20] Thrice he strode in his course, and with the fourth stride he reached his goal, even Aegae, where was his famous palace builded in the depths of the mere, golden and gleaming, imperishable for ever. Thither came he, and let harness beneath his car his two bronze hooved horses, swift of flight, with flowing manes of gold; [25] and with gold he clad himself about his body, and grasped the well-wrought whip of gold, and stepped upon his car, and set out to drive over the waves.
+----------------------------------------------------------------------
+from line 20 to line 27
+----------------------------------------------------------------------
+τρὶς μὲν ὀρέξατ̓ ἰών, τὸ δὲ τέτρατον ἵκετο τέκμωρ Αἰγάς, ἔνθα δέ οἱ κλυτὰ δώματα βένθεσι λίμνης χρύσεα μαρμαίροντα τετεύχαται ἄφθιτα αἰεί.[20,22]
+ἔνθ̓ ἐλθὼν ὑπ̓ ὄχεσφι τιτύσκετο χαλκόποδ̓ ἵππω ὠκυπέτα χρυσέῃσιν ἐθείρῃσιν κομόωντε, χρυσὸν δ̓ αὐτὸς ἔδυνε περὶ χροΐ, γέντο δ̓ ἱμάσθλην χρυσείην εὔτυκτον, ἑοῦ δ̓ ἐπεβήσετο δίφρου, βῆ δ̓ ἐλάαν ἐπὶ κύματ̓·[23,27]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 25 to MILESTONE 31
+======================================================================
+ Then gambolled the sea-beasts beneath him on every side from out the deeps, for well they knew their lord, and in gladness the sea parted before him; [30] right swiftly sped they on, and the axle of bronze was not wetted beneath; and unto the ships of the Achaeans did the prancing steeds bear their lord. [31]
+----------------------------------------------------------------------
+from line 27 to line 31
+----------------------------------------------------------------------
+ἄταλλε δὲ κήτἐ ὑπ̓ αὐτοῦ πάντοθεν ἐκ κευθμῶν, οὐ δ̓ ἠγνοίησεν ἄνακτα·[27,28]
+γηθοσύνῃ δὲ θάλασσα διίστατο·[29,29]
+τοὶ δὲ πέτοντο ῥίμφα μάλ̓, οὐ δ̓ ὑπένερθε διαίνετο χάλκεος ἄξων·[29,30]
+τὸν δ̓ ἐς Ἀχαιῶν νῆας ἐΰσκαρθμοι φέρον ἵπποι.[31,31]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=32 END=58
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 32 to MILESTONE 40
+======================================================================
+ 
+There is a wide cavern in the depths of the deep mere, midway between Tenedos and rugged Imbros. There Poseidon,the Shaker of Earth, stayed his horses, [35] and loosed them from the car, and cast before them food ambrosial to graze upon, and about their feet he put hobbles of gold, neither to be broken nor loosed, that they might abide fast where they were against the return of their lord; and himself he went to the host of the Achaeans.
+----------------------------------------------------------------------
+from line 32 to line 38
+----------------------------------------------------------------------
+ἔστι δέ τι σπέος εὐρὺ βαθείης βένθεσι λίμνης μεσσηγὺς Τενέδοιο καὶ Ἴμβρου παιπαλοέσσης·[32,33]
+ἔνθ̓ ἵππους ἔστησε Ποσειδάων ἐνοσίχθων λύσας ἐξ ὀχέων, παρὰ δ̓ ἀμβρόσιον βάλεν εἶδαρ ἔδμεναι·[34,36]
+ἀμφὶ δὲ ποσσὶ πέδας ἔβαλε χρυσείας ἀρρήκτους ἀλύτους, ὄφῤ ἔμπεδον αὖθι μένοιεν νοστήσαντα ἄνακτα·[36,38]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 35 to MILESTONE 45
+======================================================================
+
+But the Trojans, all in one body, like flame or tempest-blast were following furiously after [40] Hector, son of Priam, with loud shouts and cries, and they deemed that they would take the ships of the Achaeans, and slay thereby all the bravest.
+----------------------------------------------------------------------
+from line 38 to line 42
+----------------------------------------------------------------------
+ὃ δ̓ ἐς στρατὸν ᾤχετ̓ Ἀχαιῶν.[38,38]
+Τρῶες δὲ φλογὶ ἶσοι ἀολλέες ἠὲ θυέλλῃ Ἕκτορι Πριαμίδῃ ἄμοτον μεμαῶτες ἕποντο ἄβρομοι αὐΐαχοι·[39,41]
+ἔλποντο δὲ νῆας Ἀχαιῶν αἱρήσειν, κτενέειν δὲ παῤ αὐτόθι πάντας ἀρίστους.[41,42]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 40 to MILESTONE 50
+======================================================================
+ Howbeit Poseidon, the Enfolder and Shaker of Earth, set him to urge on the Argives, when he had come forth from the deep sea, [45] in the likeness of Calchas, both in form and untiring voice. To the two Aiantes spake he first, that were of themselves full eager:
+----------------------------------------------------------------------
+from line 43 to line 46
+----------------------------------------------------------------------
+ἀλλὰ Ποσειδάων γαιήοχος ἐννοσίγαιος Ἀργείους ὄτρυνε βαθείης ἐξ ἁλὸς ἐλθὼν εἰσάμενος Κάλχαντι δέμας καὶ ἀτειρέα φωνήν·[43,45]
+Αἴαντε πρώτω προσέφη μεμαῶτε καὶ αὐτώ·[46,46]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 45 to MILESTONE 50
+======================================================================
+ "Ye Aiantes twain, ye two shall save the host of the Achaeans, if ye are mindful of your might, and think not of chill rout.
+----------------------------------------------------------------------
+from line 47 to line 48
+----------------------------------------------------------------------
+Αἴαντε σφὼ μέν τε σαώσετε λαὸν Ἀχαιῶν ἀλκῆς μνησαμένω, μὴ δὲ κρυεροῖο φόβοιο.[47,48]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 45 to MILESTONE 55
+======================================================================
+ Not otherwhere do I dread the invincible hands [50] of the Trojans that have climbed over the great wall in their multitude, for the well-greaved Achaeans will hold back all; nay it is here that I have wondrous dread lest some evil befall us, here where yon madman is leading on like a flame of fire, even Hector, that boasts him to be a son of mighty Zeus.
+----------------------------------------------------------------------
+from line 49 to line 54
+----------------------------------------------------------------------
+ἄλλῃ μὲν γὰρ ἔγωγ̓ οὐ δείδια χεῖρας ἀάπτους Τρώων, οἳ μέγα τεῖχος ὑπερκατέβησαν ὁμίλῳ·[49,50]
+ἕξουσιν γὰρ πάντας ἐϋκνήμιδες Ἀχαιοί·[51,51]
+τῇ δὲ δὴ αἰνότατον περιδείδια μή τι πάθωμεν, ᾗ ῥ̓ ὅ γ̓ ὁ λυσσώδης φλογὶ εἴκελος ἡγεμονεύει Ἕκτωρ, ὃς Διὸς εὔχετ̓ ἐρισθενέος πάϊς εἶναι.[52,54]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 50 to MILESTONE 58
+======================================================================
+ [55] But in the hearts of you twain may some god put it, here to stand firm yourselves, and to bid others do the like; so might ye drive him back from the swift-faring ships, despite his eagerness, aye, even though the Olympian himself be urging him on." [58]
+----------------------------------------------------------------------
+from line 55 to line 58
+----------------------------------------------------------------------
+σφῶϊν δ̓ ὧδε θεῶν τις ἐνὶ φρεσὶ ποιήσειεν αὐτώ θ̓ ἑστάμεναι κρατερῶς καὶ ἀνωγέμεν ἄλλους·[55,56]
+τώ κε καὶ ἐσσύμενόν περ ἐρωήσαιτ̓ ἀπὸ νηῶν ὠκυπόρων, εἰ καί μιν Ὀλύμπιος αὐτὸς ἐγείρει.[57,58]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=59 END=81
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 59 to MILESTONE 65
+======================================================================
+ 
+Therewith the Enfolder and Shaker of Earth [60] smote the twain with his staff, and filled them with valorous strength and made their limbs light, their feet and their hands above.
+----------------------------------------------------------------------
+from line 59 to line 61
+----------------------------------------------------------------------
+ἦ καὶ σκηπανίῳ γαιήοχος ἐννοσίγαιος ἀμφοτέρω κεκόπων πλῆσεν μένεος κρατεροῖο, γυῖα δ̓ ἔθηκεν ἐλαφρὰ πόδας καὶ χεῖρας ὕπερθεν.[59,61]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 60 to MILESTONE 70
+======================================================================
+ And himself, even as a hawk, swift of flight, speedeth forth to fly, and poising himself aloft above a high sheer rock, darteth over the plain to chase some other bird; [65] even so from them sped Poseidon, the Shaker of Earth. And of the twain swift Aias, son of Oïleus, was first to mark the god, and forthwith spake to Aias, son of Telamon:
+----------------------------------------------------------------------
+from line 62 to line 67
+----------------------------------------------------------------------
+αὐτὸς δ̓ ὥς τ̓ ἴρηξ ὠκύπτερος ὦρτο πέτεσθαι, ὅς ῥά τ̓ ἀπ̓ αἰγίλιπος πέτρης περιμήκεος ἀρθεὶς ὁρμήσῃ πεδίοιο διώκειν ὄρνεον ἄλλο, ὣς ἀπὸ τῶν ἤϊξε Ποσειδάων ἐνοσίχθων.[62,65]
+τοῖιν δ̓ ἔγνω πρόσθεν Ὀϊλῆος ταχὺς Αἴας, αἶψα δ̓ ἄῤ Αἴαντα προσέφη Τελαμώνιον υἱόν·[66,67]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 65 to MILESTONE 80
+======================================================================
+ "Aias, seeing it is one of the gods who hold Olympus that in the likeness of the seer biddeth the two of us fight beside the ships— [70] not Calchas is he, the prophet, and reader of omens, for easily did I know the tokens behind him of feet and of legs as he went from us; and plain to be known are the gods —lo, mine own heart also within my breast is the more eager to war and do battle, [75] and my feet beneath and my hands above are full fain."
+Then in answer spake to him Telamonian Aias:
+----------------------------------------------------------------------
+from line 68 to line 76
+----------------------------------------------------------------------
+Αἶαν ἐπεί τις νῶϊ θεῶν οἳ Ὄλυμπον ἔχουσι μάντεϊ εἰδόμενος κέλεται παρὰ νηυσὶ μάχεσθαι, οὐ δ̓ ὅ γε Κάλχας ἐστὶ θεοπρόπος οἰωνιστής·[68,70]
+ἴχνια γὰρ μετόπισθε ποδῶν ἠδὲ κνημάων ῥεῖ̓ ἔγνων ἀπιόντος·[71,72]
+ἀρίγνωτοι δὲ θεοί περ·[72,72]
+καὶ δ̓ ἐμοὶ αὐτῷ θυμὸς ἐνὶ στήθεσσι φίλοισι μᾶλλον ἐφορμᾶται πολεμίζειν ἠδὲ μάχεσθαι, μαιμώωσι δ̓ ἔνερθε πόδες καὶ χεῖρες ὕπερθε.[73,75]
+τὸν δ̓ ἀπαμειβόμενος προσέφη Τελαμώνιος Αἴας·[76,76]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 75 to MILESTONE 81
+======================================================================
+ "Even so too mine own hands invincible are fain now to grasp the spear, and my might is roused, and both my feet are swift beneath me; and I am eager to meet even in single fight [80] Hector, Priam's son, that rageth incessantly." [81]
+----------------------------------------------------------------------
+from line 77 to line 80
+----------------------------------------------------------------------
+οὕτω νῦν καὶ ἐμοὶ περὶ δούρατι χεῖρες ἄαπτοι μαιμῶσιν, καί μοι μένος ὤρορε, νέρθε δὲ ποσσὶν ἔσσυμαι ἀμφοτέροισι·[77,79]
+μενοινώω δὲ καὶ οἶος Ἕκτορι Πριαμίδῃ ἄμοτον μεμαῶτι μάχεσθαι.[79,80]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=82 END=124
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 82 to MILESTONE 90
+======================================================================
+ 
+On this wise spake they one to the other, rejoicing in the fury of fight which the god put in their hearts; and meanwhile the Enfolder of Earth roused the Achaeans that were in the rear beside the swift ships, and were refreshing their hearts. [85] Their limbs were loosed by their grievous toil and therewithal sorrow waxed in their hearts, as they beheld the Trojans that had climbed over the great wall in their multitude.
+----------------------------------------------------------------------
+from line 83 to line 89
+----------------------------------------------------------------------
+τόφρα δὲ τοὺς ὄπιθεν γαιήοχος ὦρσεν Ἀχαιούς, οἳ παρὰ νηυσὶ θοῇσιν ἀνέψυχον φίλον ἦτορ.[83,84]
+τῶν ῥ̓ ἅμα τ̓ ἀργαλέῳ καμάτῳ φίλα γυῖα λέλυντο, καί σφιν ἄχος κατὰ θυμὸν ἐγίγνετο δερκομένοισι Τρῶας, τοὶ μέγα τεῖχος ὑπερκατέβησαν ὁμίλῳ.[85,87]
+τοὺς οἵ γ̓ εἰσορόωντες ὑπ̓ ὀφρύσι δάκρυα λεῖβον·[88,88]
+οὐ γὰρ ἔφαν φεύξεσθαι ὑπ̓ ἐκ κακοῦ·[89,89]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 85 to MILESTONE 100
+======================================================================
+ Aye, as they looked upon these they let tears fall from beneath their brows, for they deemed not that they should escape from ruin. But the Shaker of Earth, [90] lightly passing among them, aroused their strong battalions. To Teucer first he came and to Leïtus, to bid them on, and to the warrior Peneleos, and Thoas and Deïpyrus, and Meriones and Antilochus, masters of the war-cry; to these he spake, spurring them on with winged words: [95] "Shame, ye Argives, mere striplings!
+----------------------------------------------------------------------
+from line 89 to line 96
+----------------------------------------------------------------------
+ἀλλ̓ ἐνοσίχθων ῥεῖα μετεισάμενος κρατερὰς ὄτρυνε φάλαγγας.[89,90]
+Τεῦκρον ἔπι πρῶτον καὶ Λήϊτον ἦλθε κελεύων Πηνέλεών θ̓ ἥρωα Θόαντά τε Δηΐπυρόν τε Μηριόνην τε καὶ Ἀντίλοχον μήστωρας ἀϋτῆς·[91,93]
+τοὺς ὅ γ̓ ἐποτρύνων ἔπεα πτερόεντα προσηύδα·[94,94]
+αἰδὼς Ἀργεῖοι, κοῦροι νέοι·[95,95]
+ὔμμιν ἔγωγε μαρναμένοισι πέποιθα σαωσέμεναι νέας ἁμάς·[95,96]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 95 to MILESTONE 105
+======================================================================
+ It was in your fighting that I trusted for the saving of our ships; but if ye are to flinch from grievous war, then of a surety hath the day now dawned for us to be vanquished beneath the Trojans. Out upon it! Verily a great marvel is this that mine eyes behold, [100] a dread thing that I deemed should never be brought to pass: the Trojans are making way against our ships, they that heretofore were like panic-stricken hinds that in the woodland become the prey of jackals and pards and wolves, as they wander vainly in their cowardice, nor is there any fight in them.
+----------------------------------------------------------------------
+from line 97 to line 104
+----------------------------------------------------------------------
+εἰ δ̓ ὑμεῖς πολέμοιο μεθήσετε λευγαλέοιο, νῦν δὴ εἴδεται ἦμαρ ὑπὸ Τρώεσσι δαμῆναι.[97,98]
+ὢ πόποι ἦ μέγα θαῦμα τόδ̓ ὀφθαλμοῖσιν ὁρῶμαι δεινόν, ὃ οὔ ποτ̓ ἔγωγε τελευτήσεσθαι ἔφασκον, Τρῶας ἐφ̓ ἡμετέρας ἰέναι νέας, οἳ τὸ πάρος περ φυζακινῇς ἐλάφοισιν ἐοίκεσαν, αἵ τε καθ̓ ὕλην θώων παρδαλίων τε λύκων τ̓ ἤϊα πέλονται αὔτως ἠλάσκουσαι ἀνάλκιδες, οὐ δ̓ ἔπι χάρμη·[99,104]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 100 to MILESTONE 110
+======================================================================
+ [105] Even so the Trojans aforetime had never the heart to abide and face the might and the hands of the Achaeans, no not for a moment.
+----------------------------------------------------------------------
+from line 105 to line 106
+----------------------------------------------------------------------
+ὣς Τρῶες τὸ πρίν γε μένος καὶ χεῖρας Ἀχαιῶν μίμνειν οὐκ ἐθέλεσκον ἐναντίον, οὐ δ̓ ἠβαιόν·[105,106]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 105 to MILESTONE 115
+======================================================================
+ But lo, now far from the city they are fighting at the hollow ships because of the baseness of our leader and the slackness of the folk, that, being at strife with him, have no heart to defend [110] the swift-faring ships, but are slain in the midst of them. But if in very truth the warrior son of Atreus, wide-ruling Agamemnon, is the cause of all, for that he wrought dishonour on the swift-footed son of Peleus, yet may we in no wise prove slack in war.
+----------------------------------------------------------------------
+from line 107 to line 115
+----------------------------------------------------------------------
+νῦν δὲ ἑκὰς πόλιος κοίλῃς ἐπὶ νηυσὶ μάχονται ἡγεμόνος κακότητι μεθημοσύνῃσί τε λαῶν, οἳ κείνῳ ἐρίσαντες ἀμυνέμεν οὐκ ἐθέλουσι νηῶν ὠκυπόρων, ἀλλὰ κτείνονται ἀν̓ αὐτάς.[107,110]
+ἀλλ̓ εἰ δὴ καὶ πάμπαν ἐτήτυμον αἴτιός ἐστιν ἥρως Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων οὕνεκ̓ ἀπητίμησε ποδώκεα Πηλεΐωνα, ἡμέας γ̓ οὔ πως ἔστι μεθιέμεναι πολέμοιο.[111,114]
+ἀλλ̓ ἀκεώμεθα θᾶσσον·[115,115]
+ἀκεσταί τοι φρένες ἐσθλῶν.[115,115]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 110 to MILESTONE 120
+======================================================================
+ [115] Nay, let us atone for the fault with speed: the hearts of good men admit of atonement. But it is no longer well that ye are slack in furious valour, all ye that are the best men in the host.
+----------------------------------------------------------------------
+from line 116 to line 117
+----------------------------------------------------------------------
+ὑμεῖς δ̓ οὐκ ἔτι καλὰ μεθίετε θούριδος ἀλκῆς πάντες ἄριστοι ἐόντες ἀνὰ στρατόν.[116,117]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 115 to MILESTONE 120
+======================================================================
+ Myself I would not quarrel with one that was slack in war, so he were but a sorry wight, but with you I am exceeding wroth at heart.
+----------------------------------------------------------------------
+from line 117 to line 119
+----------------------------------------------------------------------
+οὐ δ̓ ἂν ἔγωγε ἀνδρὶ μαχεσσαίμην ὅς τις πολέμοιο μεθείη λυγρὸς ἐών·[117,119]
+ὑμῖν δὲ νεμεσσῶμαι περὶ κῆρι.[119,119]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 115 to MILESTONE 124
+======================================================================
+ [120] Ye weaklings, soon ye shall cause yet greater evil by this slackness.
+----------------------------------------------------------------------
+from line 120 to line 121
+----------------------------------------------------------------------
+ὦ πέπονες τάχα δή τι κακὸν ποιήσετε μεῖζον τῇδε μεθημοσύνῃ·[120,121]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 120 to MILESTONE 124
+======================================================================
+ Nay, take in your hearts, each man of you, shame and indignation; for in good sooth mighty is the conflict that has arisen.
+----------------------------------------------------------------------
+from line 121 to line 122
+----------------------------------------------------------------------
+ἀλλ̓ ἐν φρεσὶ θέσθε ἕκαστος αἰδῶ καὶ νέμεσιν·[121,122]
+δὴ γὰρ μέγα νεῖκος ὄρωρεν.[122,122]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 120 to MILESTONE 124
+======================================================================
+ Hector, good at the war-cry, is fighting at the ships, strong in his might, and hath broken the gates and the long bar." 
+----------------------------------------------------------------------
+from line 123 to line 124
+----------------------------------------------------------------------
+Ἕκτωρ δὴ παρὰ νηυσὶ βοὴν ἀγαθὸς πολεμίζει καρτερός, ἔρρηξεν δὲ πύλας καὶ μακρὸν ὀχῆα.[123,124]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=125 END=154
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 125 to MILESTONE 150
+======================================================================
+ 
+ [125] Thus did the Earth-enfolder arouse the Achaeans with his word of command, and round about the twain Aiantes their battalions took their stand, so strong in might, that not Ares might have entered in and made light of them, nor yet Athene, the rouser of hosts; for they that were the chosen bravest abode the onset of the Trojans and goodly Hector, [130] fencing spear with spear, and shield with serried shield; buckler pressed on buckler, helm on helm, and man on man; and the horse-hair crests on the bright helmet-ridges touched each other, as the men moved their heads, in such close array stood they one by another, and spears in stout hands overlapped each other, as they were brandished, [135] and their minds swerved not, but they were fain to fight.
+Then the Trojans drave forward in close throng and Hector led them, pressing ever forward, like a boulder from a cliff that a river swollen by winter rains thrusteth from the brow of a hill, when it has burst with its wondrous flood the foundations of the ruthless stone; [140] high aloft it leapeth, as it flies, and the woods resound beneath it, and it speedeth on its course and is not stayed until it reacheth the level plain, but then it rolleth no more for all its eagerness; even so Hector for a time threatened lightly to make his way even to the sea through the huts and ships of the Achaeans, [145] slaying as he went, but when he encountered the close-set battalions, then was he stayed, as he drew close against them.
+----------------------------------------------------------------------
+from line 125 to line 146
+----------------------------------------------------------------------
+ὥς ῥα κελευτιόων γαιήοχος ὦρσεν Ἀχαιούς.[125,125]
+ἀμφὶ δ̓ ἄῤ Αἴαντας δοιοὺς ἵσταντο φάλαγγες καρτεραί, ἃς οὔ τ̓ ἄν κεν Ἄρης ὀνόσαιτο μετελθὼν οὔ τε κ̓ Ἀθηναίη λαοσσόος·[126,128]
+οἳ γὰρ ἄριστοι κρινθέντες Τρῶάς τε καὶ Ἕκτορα δῖον ἔμιμνον, φράξαντες δόρυ δουρί, σάκος σάκεϊ προθελύμνῳ·[128,130]
+ἀσπὶς ἄῤ ἀσπίδ̓ ἔρειδε, κόρυς κόρυν, ἀνέρα δ̓ ἀνήρ·[131,131]
+ψαῦον δ̓ ἱππόκομοι κόρυθες λαμπροῖσι φάλοισι νευόντων, ὡς πυκνοὶ ἐφέστασαν ἀλλήλοισιν·[132,133]
+ἔγχεα δ̓ ἐπτύσσοντο θρασειάων ἀπὸ χειρῶν σειόμεν̓·[134,135]
+οἳ δ̓ ἰθὺς φρόνεον, μέμασαν δὲ μάχεσθαι.[135,135]
+Τρῶες δὲ προὔτυψαν ἀολλέες, ἦρχε δ̓ ἄῤ Ἕκτωρ ἀντικρὺ μεμαώς, ὀλοοίτροχος ὣς ἀπὸ πέτρης, ὅν τε κατὰ στεφάνης ποταμὸς χειμάρροος ὤσῃ ῥήξας ἀσπέτῳ ὄμβρῳ ἀναιδέος ἔχματα πέτρης·[136,139]
+ὕψι δ̓ ἀναθρῴσκων πέτεται, κτυπέει δέ θ̓ ὑπ̓ αὐτοῦ ὕλη·[140,141]
+ὃ δ̓ ἀσφαλέως θέει ἔμπεδον, εἷος ἵκηται ἰσόπεδον, τότε δ̓ οὔ τι κυλίνδεται ἐσσύμενός περ·[141,142]
+ὣς Ἕκτωρ εἷος μὲν ἀπείλει μέχρι θαλάσσης ῥέα διελεύσεσθαι κλισίας καὶ νῆας Ἀχαιῶν κτείνων·[143,145]
+ἀλλ̓ ὅτε δὴ πυκινῇς ἐνέκυρσε φάλαγξι στῆ ῥα μάλ̓ ἐγχριμφθείς·[145,146]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 145 to MILESTONE 150
+======================================================================
+ And the sons of the Achaeans faced him, thrusting with swords and two-edged spears, and drave him back from them, so that he gave ground and was made to reel.
+----------------------------------------------------------------------
+from line 146 to line 148
+----------------------------------------------------------------------
+οἳ δ̓ ἀντίοι υἷες Ἀχαιῶν νύσσοντες ξίφεσίν τε καὶ ἔγχεσιν ἀμφιγύοισιν ὦσαν ἀπὸ σφείων·[146,148]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 145 to MILESTONE 150
+======================================================================
+ Then he uttered a piercing shout, calling aloud to the Trojans:
+----------------------------------------------------------------------
+from line 148 to line 149
+----------------------------------------------------------------------
+ὃ δὲ χασσάμενος πελεμίχθη.[148,148]
+ἤϋσεν δὲ διαπρύσιον Τρώεσσι γεγωνώς·[149,149]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 145 to MILESTONE 154
+======================================================================
+ [150] "Ye Trojans and Lycians and Dardanians that fight in close combat, stand ye fast.
+----------------------------------------------------------------------
+from line 150 to line 151
+----------------------------------------------------------------------
+Τρῶες καὶ Λύκιοι καὶ Δάρδανοι ἀγχιμαχηταὶ παρμένετ̓·[150,151]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 150 to MILESTONE 154
+======================================================================
+ No long space shall the Achaeans hold me back, for all they have arrayed themselves in fashion like a wall; nay, methinks, they will give ground before my spear, if verily the highest of gods hath urged me on, the loud-thundering lord of Hera." 
+----------------------------------------------------------------------
+from line 151 to line 154
+----------------------------------------------------------------------
+οὔ τοι δηρὸν ἐμὲ σχήσουσιν Ἀχαιοὶ καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες, ἀλλ̓ ὀΐω χάσσονται ὑπ̓ ἔγχεος, εἰ ἐτεόν με ὦρσε θεῶν ὤριστος, ἐρίγδουπος πόσις Ἥρης.[151,154]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=155 END=194
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 155 to MILESTONE 170
+======================================================================
+ 
+ [155] So saying, he aroused the strength and spirit of every man. Then among them with high heart strode Deïphobus, son of Priam, and before him he held his shield that was well-balanced upon every side, stepping forward lightly on his feet and advancing under cover of his shield. And Meriones aimed at him with his bright spear, [160] and cast, and missed not, but smote the shield of bull's hide, that was well balanced upon every side, yet drave not in any wise therethrough; nay, well ere that might be, the long spear-shaft was broken in the socket; and Deïphobus held from him the shield of bull's hide, and his heart was seized with fear [165] of the spear of wise-hearted Meriones; but that warrior shrank back into the throng of his comrades, and waxed wondrous wroth both for the loss of victory and for the spear which he had shattered.
+----------------------------------------------------------------------
+from line 155 to line 168
+----------------------------------------------------------------------
+ὣς εἰπὼν ὄτρυνε μένος καὶ θυμὸν ἑκάστου.[155,155]
+Δηΐφοβος δ̓ ἐν τοῖσι μέγα φρονέων ἐβεβήκει Πριαμίδης, πρόσθεν δ̓ ἔχεν ἀσπίδα πάντοσ̓ ἐΐσην κοῦφα ποσὶ προβιβὰς καὶ ὑπασπίδια προποδίζων.[156,158]
+Μηριόνης δ̓ αὐτοῖο τιτύσκετο δουρὶ φαεινῷ καὶ βάλεν, οὐ δ̓ ἀφάμαρτε, κατ̓ ἀσπίδα πάντοσ̓ ἐΐσην ταυρείην·[159,161]
+τῆς δ̓ οὔ τι διήλασεν, ἀλλὰ πολὺ πρὶν ἐν καυλῷ ἐάγη δολιχὸν δόρυ·[161,162]
+Δηΐφοβος δὲ ἀσπίδα ταυρείην σχέθ̓ ἀπὸ ἕο, δεῖσε δὲ θυμῷ ἔγχος Μηριόναο δαΐφρονος·[162,164]
+αὐτὰρ ὅ γ̓ ἥρως ἂψ ἑτάρων εἰς ἔθνος ἐχάζετο, χώσατο δ̓ αἰνῶς ἀμφότερον, νίκης τε καὶ ἔγχεος ὃ ξυνέαξε.[164,166]
+βῆ δ̓ ἰέναι παρά τε κλισίας καὶ νῆας Ἀχαιῶν οἰσόμενος δόρυ μακρόν, ὅ οἱ κλισίηφι λέλειπτο.[167,168]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 165 to MILESTONE 170
+======================================================================
+ And he set out to go along the huts and ships of the Achaeans to fetch him a long spear that he had left in his hut.
+But the rest fought on, and a cry unquenchable arose.
+----------------------------------------------------------------------
+from line 169 to line 169
+----------------------------------------------------------------------
+οἳ δ̓ ἄλλοι μάρναντο, βοὴ δ̓ ἄσβεστος ὀρώρει.[169,169]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 165 to MILESTONE 175
+======================================================================
+ [170] And Teucer, son of Telamon, was first to slay his man, even the spearman Imbrius, the son of Mentor, rich in horses.
+----------------------------------------------------------------------
+from line 170 to line 171
+----------------------------------------------------------------------
+Τεῦκρος δὲ πρῶτος Τελαμώνιος ἄνδρα κατέκτα Ἴμβριον αἰχμητὴν πολυΐππου Μέντορος υἱόν·[170,171]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 170 to MILESTONE 180
+======================================================================
+ He dwelt in Pedaeum before the sons of the Achaeans came, and had to wife a daughter of Priam that was born out of wedlock, even Medesicaste; but when the curved ships of the Danaans came [175] he returned back to Ilios and was pre-eminent among the Trojans, and he dwelt in the house of Priam, who held him in like honour with his own children.
+----------------------------------------------------------------------
+from line 172 to line 176
+----------------------------------------------------------------------
+ναῖε δὲ Πήδαιον πρὶν ἐλθεῖν υἷας Ἀχαιῶν, κούρην δὲ Πριάμοιο νόθην ἔχε, Μηδεσικάστην·[172,173]
+αὐτὰρ ἐπεὶ Δαναῶν νέες ἤλυθον ἀμφιέλισσαι, ἂψ ἐς Ἴλιον ἦλθε, μετέπρεπε δὲ Τρώεσσι, ναῖε δὲ πὰρ Πριάμῳ·[174,176]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 175 to MILESTONE 185
+======================================================================
+ Him did the son of Telamon smite beneath the ear with a thrust of his long spear, and again drew forth the spear; and he fell like an ash-tree that, on the summit of a mountain that is seen from afar on every side, [180] is cut down by the bronze, and bringeth its tender leafage to the ground; even so fell he, and about him rang his armour dight with bronze.
+----------------------------------------------------------------------
+from line 176 to line 181
+----------------------------------------------------------------------
+ὃ δέ μιν τίεν ἶσα τέκεσσι.[176,176]
+τόν ῥ̓ υἱὸς Τελαμῶνος ὑπ̓ οὔατος ἔγχεϊ μακρῷ νύξ̓, ἐκ δ̓ ἔσπασεν ἔγχος·[177,178]
+ὃ δ̓ αὖτ̓ ἔπεσεν μελίη ὣς ἥ τ̓ ὄρεος κορυφῇ ἕκαθεν περιφαινομένοιο χαλκῷ ταμνομένη τέρενα χθονὶ φύλλα πελάσσῃ·[178,180]
+ὣς πέσεν, ἀμφὶ δέ οἱ βράχε τεύχεα ποικίλα χαλκῷ.[181,181]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 180 to MILESTONE 185
+======================================================================
+ And Teucer rushed forth eager to strip from him his armour, but Hector, even as he rushed, cast at him with his bright spear.
+----------------------------------------------------------------------
+from line 182 to line 183
+----------------------------------------------------------------------
+Τεῦκρος δ̓ ὁρμήθη μεμαὼς ἀπὸ τεύχεα δῦσαι·[182,182]
+Ἕκτωρ δ̓ ὁρμηθέντος ἀκόντισε δουρὶ φαεινῷ.[183,183]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 180 to MILESTONE 190
+======================================================================
+ Howbeit Teucer, looking steadily at him, avoided the spear of bronze by a little, [185] but Hector smote Amphimachus, son of Cteatus, the son of Actor, in the breast with his spear as he was coming into the battle; and he fell with a thud, and upon him his armour clanged.
+----------------------------------------------------------------------
+from line 184 to line 187
+----------------------------------------------------------------------
+ἀλλ̓ ὃ μὲν ἄντα ἰδὼν ἠλεύατο χάλκεον ἔγχος τυτθόν·[184,185]
+ὃ δ̓ Ἀμφίμαχον Κτεάτου υἷ̓ Ἀκτορίωνος νισόμενον πόλεμον δὲ κατὰ στῆθος βάλε δουρί·[185,186]
+δούπησεν δὲ πεσών, ἀράβησε δὲ τεύχἐ ἐπ̓ αὐτῷ.[187,187]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 185 to MILESTONE 194
+======================================================================
+ Then Hector rushed forth to tear from the head of great-hearted Amphimachus the helm that was fitted to his temples, [190] but Aias lunged with his bright spear at Hector as he rushed, yet in no wise reached he his flesh, for he was all clad in dread bronze; but he smote the boss of his shield, and thrust him back with mighty strength, so that he gave ground backward from the two corpses, and the Achaeans drew them off.  [194]
+----------------------------------------------------------------------
+from line 188 to line 194
+----------------------------------------------------------------------
+Ἕκτωρ δ̓ ὁρμήθη κόρυθα κροτάφοις ἀραρυῖαν κρατὸς ἀφαρπάξαι μεγαλήτορος Ἀμφιμάχοιο·[188,189]
+Αἴας δ̓ ὁρμηθέντος ὀρέξατο δουρὶ φαεινῷ Ἕκτορος·[190,191]
+ἀλλ̓ οὔ πῃ χροὸς εἴσατο, πᾶς δ̓ ἄρα χαλκῷ σμερδαλέῳ κεκάλυφθ̓·[191,192]
+ὃ δ̓ ἄῤ ἀσπίδος ὀμφαλὸν οὖτα, ὦσε δέ μιν σθένεϊ μεγάλῳ·[192,193]
+ὃ δὲ χάσσατ̓ ὀπίσσω νεκρῶν ἀμφοτέρων, τοὺς δ̓ ἐξείρυσσαν Ἀχαιοί.[193,194]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=195 END=230
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 195 to MILESTONE 205
+======================================================================
+  [195] Amphimachus then did Stichius and goodly Menestheus, leaders of the Athenians, carry to the host of the Achaeans, and Imbrius the twain Aiantes bare away, their hearts fierce with furious valour. And as when two lions that have snatched away a goat from sharp-toothed hounds, bear it through the thick brush, [200] holding it in their jaws high above the ground, even so the twain warrior Aiantes held Imbrius on high, and stripped him of his armour.
+----------------------------------------------------------------------
+from line 195 to line 202
+----------------------------------------------------------------------
+Ἀμφίμαχον μὲν ἄρα Στιχίος δῖός τε Μενεσθεὺς ἀρχοὶ Ἀθηναίων κόμισαν μετὰ λαὸν Ἀχαιῶν·[195,196]
+Ἴμβριον αὖτ̓ Αἴαντε μεμαότε θούριδος ἀλκῆς ὥς τε δύ̓ αἶγα λέοντε κυνῶν ὕπο καρχαροδόντων ἁρπάξαντε φέρητον ἀνὰ ῥωπήϊα πυκνὰ ὑψοῦ ὑπὲρ γαίης μετὰ γαμφηλῇσιν ἔχοντε, ὥς ῥα τὸν ὑψοῦ ἔχοντε δύω Αἴαντε κορυστὰ τεύχεα συλήτην·[197,202]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 200 to MILESTONE 210
+======================================================================
+ And the head did the son of Oïleus cut from the tender neck, being wroth for the slaying of Amphimachus, and with a swing he sent it rolling through the throng like a ball; [205] and it fell in the dust before the feet of Hector.
+Then verily Poseidon waxed mightily wroth at heart when his son's son fell in the dread conflict, and he went his way along the huts and ships of the Achaeans to arouse the Danaans; but for the Trojans was he fashioning woes.
+----------------------------------------------------------------------
+from line 202 to line 209
+----------------------------------------------------------------------
+κεφαλὴν δ̓ ἁπαλῆς ἀπὸ δειρῆς κόψεν Ὀϊλιάδης κεχολωμένος Ἀμφιμάχοιο, ἧκε δέ μιν σφαιρηδὸν ἑλιξάμενος δἰ ὁμίλου·[202,204]
+Ἕκτορι δὲ προπάροιθε ποδῶν πέσεν ἐν κονίῃσι.[205,205]
+καὶ τότε δὴ περὶ κῆρι Ποσειδάων ἐχολώθη υἱωνοῖο πεσόντος ἐν αἰνῇ δηϊοτῆτι, βῆ δ̓ ἰέναι παρά τε κλισίας καὶ νῆας Ἀχαιῶν ὀτρυνέων Δαναούς, Τρώεσσι δὲ κήδεα τεῦχεν.[206,209]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 205 to MILESTONE 215
+======================================================================
+ [210] And there met him Idomeneus, famed for his spear, on his way from a comrade that he had but now found coming from the battle smitten in the knee with the sharp bronze.
+----------------------------------------------------------------------
+from line 210 to line 212
+----------------------------------------------------------------------
+Ἰδομενεὺς δ̓ ἄρα οἱ δουρικλυτὸς ἀντεβόλησεν ἐρχόμενος παῤ ἑταίρου, ὅ οἱ νέον ἐκ πολέμοιο ἦλθε κατ̓ ἰγνύην βεβλημένος ὀξέϊ χαλκῷ.[210,212]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 210 to MILESTONE 220
+======================================================================
+ Him his comrades bare forth, but Idomeneus had given charge to the leeches, and was going to his hut, for he was still fain to confront the battle; [215] and the lord, the Shaker of Earth, spake to him, likening his voice to that of Andraemon's son Thoas, that in all Pleuron and steep Calydon was lord over the Aetolians, and was honoured of the folk even as a god:"
+----------------------------------------------------------------------
+from line 213 to line 218
+----------------------------------------------------------------------
+τὸν μὲν ἑταῖροι ἔνεικαν, ὃ δ̓ ἰητροῖς ἐπιτείλας ἤϊεν ἐς κλισίην·[213,214]
+ἔτι γὰρ πολέμοιο μενοίνα ἀντιάαν·[214,215]
+τὸν δὲ προσέφη κρείων ἐνοσίχθων εἰσάμενος φθογγὴν Ἀνδραίμονος υἷϊ Θόαντι ὃς πάσῃ Πλευρῶνι καὶ αἰπεινῇ Καλυδῶνι Αἰτωλοῖσιν ἄνασσε, θεὸς δ̓ ὣς τίετο δήμῳ·[215,218]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 215 to MILESTONE 225
+======================================================================
+Idomeneus, thou counsellor of the Cretans, where now I pray thee, [220] are the threats gone, wherewith the sons of the Achaeans threatened the Trojans?"
+And to him Idomeneus, leader of the Cretans, made answer:"
+----------------------------------------------------------------------
+from line 219 to line 221
+----------------------------------------------------------------------
+Ἰδομενεῦ Κρητῶν βουληφόρε ποῦ τοι ἀπειλαὶ οἴχονται, τὰς Τρωσὶν ἀπείλεον υἷες Ἀχαιῶν;[219,220]
+τὸν δ̓ αὖτ̓ Ἰδομενεὺς Κρητῶν ἀγὸς ἀντίον ηὔδα·[221,221]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 220 to MILESTONE 225
+======================================================================
+O Thoas, there is no man now at fault, so far as I wot thereof; for we are all skilled in war.
+----------------------------------------------------------------------
+from line 222 to line 223
+----------------------------------------------------------------------
+ὦ Θόαν οὔ τις ἀνὴρ νῦν γ̓ αἴτιος, ὅσσον ἔγωγε γιγνώσκω·[222,223]
+πάντες γὰρ ἐπιστάμεθα πτολεμίζειν.[223,223]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 220 to MILESTONE 230
+======================================================================
+ Neither is any man holden of craven error, [225] nor doth any through dread withdraw him from evil war, but even thus, I ween, must it be the good pleasure of the son of Cronos, supreme in might, that the Achaeans should perish here far from Argos, and have no name.
+----------------------------------------------------------------------
+from line 224 to line 227
+----------------------------------------------------------------------
+οὔτέ τινα δέος ἴσχει ἀκήριον οὔτέ τις ὄκνῳ εἴκων ἀνδύεται πόλεμον κακόν·[224,225]
+ἀλλά που οὕτω μέλλει δὴ φίλον εἶναι ὑπερμενέϊ Κρονίωνι νωνύμνους ἀπολέσθαι ἀπ̓ Ἄργεος ἐνθάδ̓ Ἀχαιούς.[225,227]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 225 to MILESTONE 230
+======================================================================
+ But, Thoas, seeing that aforetime thou wast ever staunch in fight, and dost also urge on another, wheresoever thou seest one shrinking from fight, 
+----------------------------------------------------------------------
+from line 228 to line 230
+----------------------------------------------------------------------
+ἀλλὰ Θόαν, καὶ γὰρ τὸ πάρος μενεδήϊος ἦσθα, ὀτρύνεις δὲ καὶ ἄλλον ὅθι μεθιέντα ἴδηαι·[228,229]
+τὼ νῦν μήτ̓ ἀπόληγε κέλευέ τε φωτὶ ἑκάστῳ.[230,230]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=231 END=265
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 231 to MILESTONE 235
+======================================================================
+ 
+And Poseidon, the Shaker of Earth, answered him:
+----------------------------------------------------------------------
+from line 231 to line 231
+----------------------------------------------------------------------
+τὸν δ̓ ἠμείβετ̓ ἔπειτα Ποσειδάων ἐνοσίχθων·[231,231]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 231 to MILESTONE 235
+======================================================================
+ "Idomeneus, never may that man any more return home from Troy-land, but here may he become the sport of dogs, whoso in this day's course of his own will shrinketh from fight.
+----------------------------------------------------------------------
+from line 232 to line 235
+----------------------------------------------------------------------
+Ἰδομενεῦ μὴ κεῖνος ἀνὴρ ἔτι νοστήσειεν ἐκ Τροίης, ἀλλ̓ αὖθι κυνῶν μέλπηθρα γένοιτο, ὅς τις ἐπ̓ ἤματι τῷδε ἑκὼν μεθίῃσι μάχεσθαι.[232,234]
+ἀλλ̓ ἄγε τεύχεα δεῦρο λαβὼν ἴθι·[235,235]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 231 to MILESTONE 240
+======================================================================
+ [235] Up then, take thine harness and get thee forth: herein beseems it that we play the man together, in hope there may be help in us, though we be but two.
+----------------------------------------------------------------------
+from line 235 to line 236
+----------------------------------------------------------------------
+ταῦτα δ̓ ἅμα χρὴ σπεύδειν, αἴ κ̓ ὄφελός τι γενώμεθα καὶ δύ̓ ἐόντε.[235,236]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 235 to MILESTONE 240
+======================================================================
+ Prowess comes from fellowship even of right sorry folk, but we twain know well how to do battle even with men of valour."
+----------------------------------------------------------------------
+from line 237 to line 238
+----------------------------------------------------------------------
+συμφερτὴ δ̓ ἀρετὴ πέλει ἀνδρῶν καὶ μάλα λυγρῶν, νῶϊ δὲ καί κ̓ ἀγαθοῖσιν ἐπισταίμεσθα μάχεσθαι.[237,238]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 235 to MILESTONE 250
+======================================================================
+
+So spake he, and went back again, a god into the toil of men; [240] and Idomeneus, as soon as he was come to his well-built hut, did on his fair armour about his body, and grasped two spears, and went his way like the lightning that the son of Cronos seizeth in his hand and brandisheth from gleaming Olympus, showing forth a sign to mortals, and brightly flash the rays thereof; [245] even so shone the bronze about his breast as he ran.
+----------------------------------------------------------------------
+from line 239 to line 247
+----------------------------------------------------------------------
+ὣς εἰπὼν ὃ μὲν αὖτις ἔβη θεὸς ἂμ πόνον ἀνδρῶν·[239,239]
+Ἰδομενεὺς δ̓ ὅτε δὴ κλισίην εὔτυκτον ἵκανε δύσετο τεύχεα καλὰ περὶ χροΐ, γέντο δὲ δοῦρε, βῆ δ̓ ἴμεν ἀστεροπῇ ἐναλίγκιος, ἥν τε Κρονίων χειρὶ λαβὼν ἐτίναξεν ἀπ̓ αἰγλήεντος Ὀλύμπου δεικνὺς σῆμα βροτοῖσιν·[240,244]
+ἀρίζηλοι δέ οἱ αὐγαί·[244,244]
+ὣς τοῦ χαλκὸς ἔλαμπε περὶ στήθεσσι θέοντος.[245,245]
+Μηριόνης δ̓ ἄρα οἱ θεράπων ἐῢς ἀντεβόλησεν ἐγγὺς ἔτι κλισίης·[246,247]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 245 to MILESTONE 250
+======================================================================
+ And Meriones, his valiant squire, met him, while yet he was near the hut; for he was on his way to fetch him a spear of bronze; and mighty Idomeneus spake to him:
+----------------------------------------------------------------------
+from line 247 to line 248
+----------------------------------------------------------------------
+μετὰ γὰρ δόρυ χάλκεον ᾔει οἰσόμενος·[247,248]
+τὸν δὲ προσέφη σθένος Ἰδομενῆος·[248,248]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 245 to MILESTONE 255
+======================================================================
+ "Meriones, Molus' son, swift of foot, thou dearest of my comrades, [250] wherefore art thou come, leaving the war and battle?
+----------------------------------------------------------------------
+from line 249 to line 252
+----------------------------------------------------------------------
+Μηριόνη Μόλου υἱὲ πόδας ταχὺ φίλταθ̓ ἑταίρων τίπτ̓ ἦλθες πόλεμόν τε λιπὼν καὶ δηϊοτῆτα;[249,250]
+ἠέ τι βέβληαι, βέλεος δέ σε τείρει ἀκωκή, ἦέ τευ ἀγγελίης μετ̓ ἔμ̓ ἤλυθες;[251,252]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 250 to MILESTONE 255
+======================================================================
+ Art thou haply wounded, and doth the point of a dart distress thee?
+----------------------------------------------------------------------
+from line 252 to line 253
+----------------------------------------------------------------------
+οὐ δέ τοι αὐτὸς ἧσθαι ἐνὶ κλισίῃσι λιλαίομαι, ἀλλὰ μάχεσθαι.[252,253]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 250 to MILESTONE 255
+======================================================================
+ Or art thou come after me on some message? Nay, of mine own self am I fain, not to abide in the huts, but to fight."
+To him again the wise Meriones made answer:
+----------------------------------------------------------------------
+from line 254 to line 254
+----------------------------------------------------------------------
+τὸν δ̓ αὖ Μηριόνης πεπνυμένος ἀντίον ηὔδα·[254,254]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 250 to MILESTONE 260
+======================================================================
+ [255] "Idomeneus, counsellor of the brazen-coated Cretans, I am on my way to fetch a spear, if perchance thou hast one left in the huts; for the one that I bare of old have I shattered, as I cast at the shield of the overweening Deïphobus."
+----------------------------------------------------------------------
+from line 255 to line 258
+----------------------------------------------------------------------
+Ἰδομενεῦ, Κρητῶν βουληφόρε χαλκοχιτώνων, ἔρχομαι εἴ τί τοι ἔγχος ἐνὶ κλισίῃσι λέλειπται οἰσόμενος·[255,257]
+τό νυ γὰρ κατεάξαμεν ὃ πρὶν ἔχεσκον ἀσπίδα Δηϊφόβοιο βαλὼν ὑπερηνορέοντος.[257,258]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 255 to MILESTONE 260
+======================================================================
+
+And to him Idomeneus, leader of the Cretans, made answer:
+----------------------------------------------------------------------
+from line 259 to line 259
+----------------------------------------------------------------------
+τὸν δ̓ αὖτ̓ Ἰδομενεὺς Κρητῶν ἀγὸς ἀντίον ηὔδα·[259,259]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 255 to MILESTONE 265
+======================================================================
+ [260] "Spears, if thou wilt, thou shalt find, be it one or twenty, standing in the hut against the bright entrance wall, spears of the Trojans whereof it is my wont to despoil their slain.
+----------------------------------------------------------------------
+from line 260 to line 263
+----------------------------------------------------------------------
+δούρατα δ̓ αἴ κ̓ ἐθέλῃσθα καὶ ἓν καὶ εἴκοσι δήεις ἑσταότ̓ ἐν κλισίῃ πρὸς ἐνώπια παμφανόωντα Τρώϊα, τὰ κταμένων ἀποαίνυμαι·[260,262]
+οὐ γὰρ ὀΐω ἀνδρῶν δυσμενέων ἑκὰς ἱστάμενος πολεμίζειν.[262,263]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 260 to MILESTONE 265
+======================================================================
+ For I am not minded to fight with the foemen while standing afar off; wherefore I have spears and bossed shields, 
+----------------------------------------------------------------------
+from line 264 to line 265
+----------------------------------------------------------------------
+τώ μοι δούρατά τ̓ ἔστι καὶ ἀσπίδες ὀμφαλόεσσαι καὶ κόρυθες καὶ θώρηκες λαμπρὸν γανόωντες.[264,265]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=266 END=294
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 266 to MILESTONE 270
+======================================================================
+ 
+Then to him the wise Meriones made answer:
+----------------------------------------------------------------------
+from line 266 to line 266
+----------------------------------------------------------------------
+τὸν δ̓ αὖ Μηριόνης πεπνυμένος ἀντίον ηὔδα·[266,266]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 266 to MILESTONE 270
+======================================================================
+ "Aye, in mine own hut also and my black ship are many spoils of the Trojans, but I have them not at hand to take thereof.
+----------------------------------------------------------------------
+from line 267 to line 268
+----------------------------------------------------------------------
+καί τοι ἐμοὶ παρά τε κλισίῃ καὶ νηῒ μελαίνῃ πόλλ̓ ἔναρα Τρώων·[267,268]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 266 to MILESTONE 275
+======================================================================
+ For I deem that I too am not forgetful of valour, [270] but I take my stand amid the foremost in battle, where men win glory, whenso the strife of war ariseth.
+----------------------------------------------------------------------
+from line 268 to line 271
+----------------------------------------------------------------------
+ἀλλ̓ οὐ σχεδόν ἐστιν ἑλέσθαι.[268,268]
+οὐ δὲ γὰρ οὐ δ̓ ἐμέ φημι λελασμένον ἔμμεναι ἀλκῆς, ἀλλὰ μετὰ πρώτοισι μάχην ἀνὰ κυδιάνειραν ἵσταμαι, ὁππότε νεῖκος ὀρώρηται πολέμοιο.[269,271]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 270 to MILESTONE 275
+======================================================================
+ Some other of the brazen-coated Achaeans might sooner be unaware of my fighting, but thou methinks of thine own self knowest it well."
+----------------------------------------------------------------------
+from line 272 to line 273
+----------------------------------------------------------------------
+ἄλλόν πού τινα μᾶλλον Ἀχαιῶν χαλκοχιτώνων λήθω μαρνάμενος, σὲ δὲ ἴδμεναι αὐτὸν ὀΐω.[272,273]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 270 to MILESTONE 275
+======================================================================
+
+And to him Idomeneus, leader of the Cretans, made answer:
+----------------------------------------------------------------------
+from line 274 to line 275
+----------------------------------------------------------------------
+τὸν δ̓ αὖτ̓ Ἰδομενεὺς Κρητῶν ἀγὸς ἀντίον ηὔδα·[274,274]
+οἶδ̓ ἀρετὴν οἷός ἐσσι·[275,275]
+τί σε χρὴ ταῦτα λέγεσθαι;[275,275]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 270 to MILESTONE 290
+======================================================================
+ [275] "I know what manner of man thou art in valour; what need hast thou to tell the tale thereof? For if now all the best of us were being told off besides the ships for an ambush, wherein the valour of men is best discerned—there the coward cometh to light and the man of valour; for the colour of the coward changeth ever to another hue, [280] nor is the spirit in his breast stayed that he should abide steadfast, but he shifteth from knee to knee and resteth on either foot, and his heart beats loudly in his breast as he bodeth death, and the teeth chatter in his mouth; but the colour of the brave man changeth not, [285] neither feareth he overmuch when once he taketh his place in the ambush of warriors, but he prayeth to mingle forthwith in woeful war— not even in such case, I say, would any man make light of thy courage or the strength of thy hands.
+----------------------------------------------------------------------
+from line 276 to line 286
+----------------------------------------------------------------------
+εἰ γὰρ νῦν παρὰ νηυσὶ λεγοίμεθα πάντες ἄριστοι ἐς λόχον, ἔνθα μάλιστ̓ ἀρετὴ διαείδεται ἀνδρῶν, ἔνθ̓ ὅ τε δειλὸς ἀνὴρ ὅς τ̓ ἄλκιμος ἐξεφαάνθη·[276,278]
+τοῦ μὲν γάρ τε κακοῦ τρέπεται χρὼς ἄλλυδις ἄλλῃ, οὐ δέ οἱ ἀτρέμας ἧσθαι ἐρητύετ̓ ἐν φρεσὶ θυμός, ἀλλὰ μετοκλάζει καὶ ἐπ̓ ἀμφοτέρους πόδας ἵζει, ἐν δέ τέ οἱ κραδίη μεγάλα στέρνοισι πατάσσει κῆρας ὀϊομένῳ, πάταγος δέ τε γίγνετ̓ ὀδόντων·[279,283]
+τοῦ δ̓ ἀγαθοῦ οὔ τ̓ ἂρ τρέπεται χρὼς οὔτέ τι λίην ταρβεῖ, ἐπειδὰν πρῶτον ἐσίζηται λόχον ἀνδρῶν, ἀρᾶται δὲ τάχιστα μιγήμεναι ἐν δαῒ λυγρῇ·[284,286]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 285 to MILESTONE 294
+======================================================================
+ For if so be thou wert stricken by a dart in the toil of battle, or smitten with a thrust, not from behind in neck or back would the missile fall; [290] nay, but on thy breast would it light or on thy belly, as thou wert pressing on into the dalliance of the foremost fighters.
+----------------------------------------------------------------------
+from line 287 to line 291
+----------------------------------------------------------------------
+οὐ δέ κεν ἔνθα τεόν γε μένος καὶ χεῖρας ὄνοιτο.[287,287]
+εἴ περ γάρ κε βλεῖο πονεύμενος ἠὲ τυπείης οὐκ ἂν ἐν αὐχέν̓ ὄπισθε πέσοι βέλος οὐ δ̓ ἐνὶ νώτῳ, ἀλλά κεν ἢ στέρνων ἢ νηδύος ἀντιάσειε πρόσσω ἱεμένοιο μετὰ προμάχων ὀαριστύν.[288,291]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 290 to MILESTONE 294
+======================================================================
+ But come, no longer let us loiter here and talk thus like children, lest haply some man wax wroth beyond measure; nay, but go thou to the hut, and get thee a mighty spear." 
+----------------------------------------------------------------------
+from line 292 to line 294
+----------------------------------------------------------------------
+ἀλλ̓ ἄγε μηκέτι ταῦτα λεγώμεθα νηπύτιοι ὣς ἑσταότες, μή πού τις ὑπερφιάλως νεμεσήσῃ·[292,293]
+ἀλλὰ σύ γε κλισίην δὲ κιὼν ἕλευ ὄβριμον ἔγχος.[294,294]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=295 END=327
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 295 to MILESTONE 300
+======================================================================
+ 
+ [295] So spake he, and Meriones, the peer of swift Ares, speedily took from the hut a spear of bronze, and followed Idomeneus with high thought of battle.
+----------------------------------------------------------------------
+from line 295 to line 297
+----------------------------------------------------------------------
+ὣς φάτο, Μηριόνης δὲ θοῷ ἀτάλαντος Ἄρηϊ καρπαλίμως κλισίηθεν ἀνείλετο χάλκεον ἔγχος, βῆ δὲ μετ̓ Ἰδομενῆα μέγα πτολέμοιο μεμηλώς.[295,297]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 295 to MILESTONE 310
+======================================================================
+ And even as Ares, the bane of mortals, goeth forth to war, and with him followeth Rout, his son, valiant alike and fearless, [300] that turneth to flight a warrior, were he never so staunch of heart—these twain arm themselves and go forth from Thrace to join the Ephyri or the great-hearted Phlegyes, yet they hearken not to both sides, but give glory to one or the other; even in such wise did Meriones and Idomeneus, leaders of men, [305] go forth into the fight, harnessed in flaming bronze. And Meriones spake first to Idomeneus, saying:"
+----------------------------------------------------------------------
+from line 298 to line 306
+----------------------------------------------------------------------
+οἷος δὲ βροτολοιγὸς Ἄρης πόλεμον δὲ μέτεισι, τῷ δὲ Φόβος φίλος υἱὸς ἅμα κρατερὸς καὶ ἀταρβὴς ἕσπετο, ὅς τ̓ ἐφόβησε ταλάφρονά περ πολεμιστήν·[298,300]
+τὼ μὲν ἄῤ ἐκ Θρῄκης Ἐφύρους μέτα θωρήσσεσθον, ἠὲ μετὰ Φλεγύας μεγαλήτορας·[301,302]
+οὐ δ̓ ἄρα τώ γε ἔκλυον ἀμφοτέρων, ἑτέροισι δὲ κῦδος ἔδωκαν·[302,303]
+τοῖοι Μηριόνης τε καὶ Ἰδομενεὺς ἀγοὶ ἀνδρῶν ἤϊσαν ἐς πόλεμον κεκορυθμένοι αἴθοπι χαλκῷ.[304,305]
+τὸν καὶ Μηριόνης πρότερος πρὸς μῦθον ἔειπε·[306,306]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 305 to MILESTONE 310
+======================================================================
+Son of Deucalion, at what point art thou eager to enter the throng?
+----------------------------------------------------------------------
+from line 307 to line 307
+----------------------------------------------------------------------
+Δευκαλίδη πῇ τὰρ μέμονας καταδῦναι ὅμιλον;[307,307]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 305 to MILESTONE 310
+======================================================================
+ On the right of all the host, or in the centre, or shall it be on the left?
+----------------------------------------------------------------------
+from line 308 to line 309
+----------------------------------------------------------------------
+ἢ ἐπὶ δεξιόφιν παντὸς στρατοῦ, ἦ ἀνὰ μέσσους, ἦ ἐπ̓ ἀριστερόφιν;[308,309]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 305 to MILESTONE 315
+======================================================================
+ For verily, methinks, in no other place [310] do the long-haired Achaeans so fail in the fight."
+And to him again Idomeneus, leader of the Cretans, made answer:"
+----------------------------------------------------------------------
+from line 309 to line 311
+----------------------------------------------------------------------
+ἐπεὶ οὔ ποθι ἔλπομαι οὕτω δεύεσθαι πολέμοιο κάρη κομόωντας Ἀχαιούς.[309,310]
+τὸν δ̓ αὖτ̓ Ἰδομενεὺς Κρητῶν ἀγὸς ἀντίον ηὔδα·[311,311]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 310 to MILESTONE 320
+======================================================================
+Among the midmost ships there be others for defence, the two Aiantes, and Teucer, best of all the Achaeans in bowmanship, [315] and a good man too in close fight; these shall drive Hector, Priam's son, to surfeit of war, despite his eagerness, be he never so stalwart.
+----------------------------------------------------------------------
+from line 312 to line 316
+----------------------------------------------------------------------
+νηυσὶ μὲν ἐν μέσσῃσιν ἀμύνειν εἰσὶ καὶ ἄλλοι Αἴαντές τε δύω Τεῦκρός θ̓, ὃς ἄριστος Ἀχαιῶν τοξοσύνῃ, ἀγαθὸς δὲ καὶ ἐν σταδίῃ ὑσμίνῃ·[312,314]
+οἵ μιν ἅδην ἐλόωσι καὶ ἐσσύμενον πολέμοιο Ἕκτορα Πριαμίδην, καὶ εἰ μάλα καρτερός ἐστιν.[315,316]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 315 to MILESTONE 325
+======================================================================
+ Hard shall it be for him, how furious soever for war, to overcome their might and their invincible hands, and to fire the ships, unless the son of Cronos should himself [320] cast a blazing brand upon the swift ships. But to no man would great Telamonian Aias yield, to any man that is mortal, and eateth the grain of Demeter, and may be cloven with the bronze or crushed with great stones.
+----------------------------------------------------------------------
+from line 317 to line 323
+----------------------------------------------------------------------
+αἰπύ οἱ ἐσσεῖται μάλα περ μεμαῶτι μάχεσθαι κείνων νικήσαντι μένος καὶ χεῖρας ἀάπτους νῆας ἐνιπρῆσαι, ὅτε μὴ αὐτός γε Κρονίων ἐμβάλοι αἰθόμενον δαλὸν νήεσσι θοῇσιν.[317,320]
+ἀνδρὶ δέ κ̓ οὐκ εἴξειε μέγας Τελαμώνιος Αἴας, ὃς θνητός τ̓ εἴη καὶ ἔδοι Δημήτερος ἀκτὴν χαλκῷ τε ῥηκτὸς μεγάλοισί τε χερμαδίοισιν.[321,323]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 320 to MILESTONE 327
+======================================================================
+ Nay, not even to Achilles, breaker of the ranks of men, [325] would he give way, in close fight at least; but in fleetness of foot may no man vie with Achilles. But for us twain, do thou, even as thou sayest,make for the left of the host, that we may know forthwith whether we shall give glory to another or another to us." [327]
+----------------------------------------------------------------------
+from line 324 to line 327
+----------------------------------------------------------------------
+οὐ δ̓ ἂν Ἀχιλλῆϊ ῥηξήνορι χωρήσειεν ἔν γ̓ αὐτοσταδίῃ·[324,325]
+ποσὶ δ̓ οὔ πως ἔστιν ἐρίζειν.[325,325]
+νῶϊν δ̓ ὧδ̓ ἐπ̓ ἀριστέῤ ἔχε στρατοῦ, ὄφρα τάχιστα εἴδομεν ἠέ τῳ εὖχος ὀρέξομεν, ἦέ τις ἡμῖν.[326,327]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=328 END=360
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 328 to MILESTONE 335
+======================================================================
+ 
+So spake he, and Meriones, the peer of swift Ares, led the way until they came to the host, at the point whither Idomeneus bade him go.
+ [330] Now when the Trojans had sight of Idomeneus, in might as it were a flame, himself and his squire clad in armour richly dight, they called one to another through the throng, and all made at him; and by the sterns of the ships arose a strife of men clashing together.
+----------------------------------------------------------------------
+from line 328 to line 332
+----------------------------------------------------------------------
+ὣς φάτο, Μηριόνης δὲ θοῷ ἀτάλαντος Ἄρηϊ ἦρχ̓ ἴμεν, ὄφῤ ἀφίκοντο κατὰ στρατὸν ᾗ μιν ἀνώγει, οἳ δ̓ ὡς Ἰδομενῆα ἴδον φλογὶ εἴκελον ἀλκὴν αὐτὸν καὶ θεράποντα σὺν ἔντεσι δαιδαλέοισι, κεκλόμενοι καθ̓ ὅμιλον ἐπ̓ αὐτῷ πάντες ἔβησαν·[328,332]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 330 to MILESTONE 340
+======================================================================
+ And as gusts come thick and fast when shrill winds are blowing, [335] on a day when dust lies thickest on the roads, and the winds raise up confusedly a great cloud of dust; even so their battle clashed together, and they were eager in the throng to slay one another with the sharp bronze.
+----------------------------------------------------------------------
+from line 333 to line 338
+----------------------------------------------------------------------
+τῶν δ̓ ὁμὸν ἵστατο νεῖκος ἐπὶ πρυμνῇσι νέεσσιν.[333,333]
+ὡς δ̓ ὅθ̓ ὑπὸ λιγέων ἀνέμων σπέρχωσιν ἄελλαι ἤματι τῷ ὅτε τε πλείστη κόνις ἀμφὶ κελεύθους, οἵ τ̓ ἄμυδις κονίης μεγάλην ἱστᾶσιν ὀμίχλην, ὣς ἄρα τῶν ὁμόσ̓ ἦλθε μάχη, μέμασαν δ̓ ἐνὶ θυμῷ ἀλλήλους καθ̓ ὅμιλον ἐναιρέμεν ὀξέϊ χαλκῷ.[334,338]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 335 to MILESTONE 345
+======================================================================
+ And the battle, that brings death to mortals, bristled with long spears [340] which they held for the rending of flesh, and eyes were blinded by the blaze of bronze from gleaming helmets, and corselets newly burnished, and shining shields, as men came on confusedly.
+----------------------------------------------------------------------
+from line 339 to line 343
+----------------------------------------------------------------------
+ἔφριξεν δὲ μάχη φθισίμβροτος ἐγχείῃσι μακρῇς, ἃς εἶχον ταμεσίχροας·[339,340]
+ὄσσε δ̓ ἄμερδεν αὐγὴ χαλκείη κορύθων ἄπο λαμπομενάων θωρήκων τε νεοσμήκτων σακέων τε φαεινῶν ἐρχομένων ἄμυδις·[340,343]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 340 to MILESTONE 345
+======================================================================
+ Sturdy in sooth would he have been of heart that took joy at sight of such toil of war, and grieved not.
+----------------------------------------------------------------------
+from line 343 to line 344
+----------------------------------------------------------------------
+μάλα κεν θρασυκάρδιος εἴη ὃς τότε γηθήσειεν ἰδὼν πόνον οὐ δ̓ ἀκάχοιτο.[343,344]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 340 to MILESTONE 350
+======================================================================
+
+ [345] Thus were the two mighty sons of Cronos, divided in purpose, fashioning grievous woes for mortal warriors.
+----------------------------------------------------------------------
+from line 345 to line 346
+----------------------------------------------------------------------
+τὼ δ̓ ἀμφὶς φρονέοντε δύω Κρόνου υἷε κραταιὼ ἀνδράσιν ἡρώεσσιν ἐτεύχετον ἄλγεα λυγρά.[345,346]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 345 to MILESTONE 355
+======================================================================
+ Zeus would have victory for the Trojans and Hector, so giving glory to Achilles, swift of foot; yet was he in no wise minded that the Achaean host should perish utterly before the face of Ilios, [350] but was fain only to give glory to Thetis and to her son, strong of heart.
+----------------------------------------------------------------------
+from line 347 to line 352
+----------------------------------------------------------------------
+Ζεὺς μέν ῥα Τρώεσσι καὶ Ἕκτορι βούλετο νίκην κυδαίνων Ἀχιλῆα πόδας ταχύν·[347,348]
+οὐ δέ τι πάμπαν ἤθελε λαὸν ὀλέσθαι Ἀχαιϊκὸν Ἰλιόθι πρό, ἀλλὰ Θέτιν κύδαινε καὶ υἱέα καρτερόθυμον.[348,350]
+Ἀργείους δὲ Ποσειδάων ὀρόθυνε μετελθὼν λάθρῃ ὑπεξαναδὺς πολιῆς ἁλός·[351,352]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 350 to MILESTONE 355
+======================================================================
+ But Poseidon went among the Argives and urged them on, stealing forth secretly from the grey sea; for it vexed him that they were being overcome by the Trojans, and against Zeus was he exceeding wroth.
+----------------------------------------------------------------------
+from line 352 to line 353
+----------------------------------------------------------------------
+ἤχθετο γάρ ῥα Τρωσὶν δαμναμένους, Διὶ δὲ κρατερῶς ἐνεμέσσα.[352,353]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 350 to MILESTONE 360
+======================================================================
+ Both the twain verily were of one stock and of one parentage, [355] but Zeus was the elder born and the wiser. Therefore it was that Poseidon avoided to give open aid, but secretly sought ever to rouse the Argives throughout the host, in the likeness of a man.
+----------------------------------------------------------------------
+from line 354 to line 357
+----------------------------------------------------------------------
+ἦ μὰν ἀμφοτέροισιν ὁμὸν γένος ἠδ̓ ἴα πάτρη, ἀλλὰ Ζεὺς πρότερος γεγόνει καὶ πλείονα ᾔδη.[354,355]
+τώ ῥα καὶ ἀμφαδίην μὲν ἀλεξέμεναι ἀλέεινε, λάθρῃ δ̓ αἰὲν ἔγειρε κατὰ στρατὸν ἀνδρὶ ἐοικώς.[356,357]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 355 to MILESTONE 360
+======================================================================
+ So these twain knotted the ends of the cords of mighty strife and evil war, and drew them taut over both armies, 
+----------------------------------------------------------------------
+from line 358 to line 360
+----------------------------------------------------------------------
+τοὶ δ̓ ἔριδος κρατερῆς καὶ ὁμοιΐου πτολέμοιο πεῖραρ ἐπαλλάξαντες ἐπ̓ ἀμφοτέροισι τάνυσσαν ἄρρηκτόν τ̓ ἄλυτόν τε, τὸ πολλῶν γούνατ̓ ἔλυσεν.[358,360]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=361 END=401
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 361 to MILESTONE 370
+======================================================================
+ 
+Then Idomeneus, albeit his hair was flecked with grey, called to the Danaans, and leaping amid the Trojans turned them to flight. For he slew Othryoneus of Cabesus, a sojourner in Troy, that was but newly come following the rumour of war; [365] and he asked in marriage the comeliest of the daughters of Priam, even Cassandra; he brought no gifts of wooing, but promised a mighty deed, that he would drive forth perforce out of Troy-land the sons of Achaeans.
+----------------------------------------------------------------------
+from line 361 to line 369
+----------------------------------------------------------------------
+ἔνθα μεσαιπόλιός περ ἐὼν Δαναοῖσι κελεύσας Ἰδομενεὺς Τρώεσσι μετάλμενος ἐν φόβον ὦρσε.[361,362]
+πέφνε γὰρ Ὀθρυονῆα Καβησόθεν ἔνδον ἐόντα, ὅς ῥα νέον πολέμοιο μετὰ κλέος εἰληλούθει, ᾔτεε δὲ Πριάμοιο θυγατρῶν εἶδος ἀρίστην Κασσάνδρην ἀνάεδνον, ὑπέσχετο δὲ μέγα ἔργον, ἐκ Τροίης ἀέκοντας ἀπωσέμεν υἷας Ἀχαιῶν.[363,367]
+τῷ δ̓ ὁ γέρων Πρίαμος ὑπό τ̓ ἔσχετο καὶ κατένευσε δωσέμεναι·[368,369]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 365 to MILESTONE 375
+======================================================================
+ To him the old man Priam promised that he would give her, and bowed his head thereto, and Othryoneus fought, trusting in his promise. [370] But Idomeneus aimed at him with his bright spear, and cast and smote him as he strode proudly on, nor did the corselet of bronze that he wore avail him, but the spear was fixed full in his belly, and he fell with a thud and Idomeneus exulted over him and spake, saying:"
+----------------------------------------------------------------------
+from line 369 to line 373
+----------------------------------------------------------------------
+ὃ δὲ μάρναθ̓ ὑποσχεσίῃσι πιθήσας.[369,369]
+Ἰδομενεὺς δ̓ αὐτοῖο τιτύσκετο δουρὶ φαεινῷ, καὶ βάλεν ὕψι βιβάντα τυχών·[370,371]
+οὐ δ̓ ἤρκεσε θώρηξ χάλκεος, ὃν φορέεσκε, μέσῃ δ̓ ἐν γαστέρι πῆξε.[371,372]
+δούπησεν δὲ πεσών·[373,373]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 370 to MILESTONE 380
+======================================================================
+Othryoneus, verily above all mortal men do I count thee happy, [375] if in good sooth thou shalt accomplish all that thou didst promise to Dardanian Priam; and he promised thee his own daughter.
+----------------------------------------------------------------------
+from line 373 to line 376
+----------------------------------------------------------------------
+ὃ δ̓ ἐπεύξατο φώνησέν τε·[373,373]
+Ὀθρυονεῦ περὶ δή σε βροτῶν αἰνίζομ̓ ἁπάντων εἰ ἐτεὸν δὴ πάντα τελευτήσεις ὅσ̓ ὑπέστης Δαρδανίδῃ Πριάμῳ·[374,376]
+ὃ δ̓ ὑπέσχετο θυγατέρα ἥν.[376,376]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 375 to MILESTONE 385
+======================================================================
+ Aye, and we too would promise the like and would bring all to pass, and would give thee the comeliest of the daughters of the son of Atreus, bringing her forth from Argos that thou mightest wed her; [380] if only thou wilt make cause with us and sack the well-peopled city of Ilios.
+----------------------------------------------------------------------
+from line 377 to line 382
+----------------------------------------------------------------------
+καί κέ τοι ἡμεῖς ταῦτά γ̓ ὑποσχόμενοι τελέσαιμεν, δοῖμεν δ̓ Ἀτρεΐδαο θυγατρῶν εἶδος ἀρίστην Ἄργεος ἐξαγαγόντες ὀπυιέμεν, εἴ κε σὺν ἄμμιν Ἰλίου ἐκπέρσῃς εὖ ναιόμενον πτολίεθρον.[377,380]
+ἀλλ̓ ἕπἐ, ὄφῤ ἐπὶ νηυσὶ συνώμεθα ποντοπόροισιν ἀμφὶ γάμῳ, ἐπεὶ οὔ τοι ἐεδνωταὶ κακοί εἰμεν.[381,382]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 380 to MILESTONE 385
+======================================================================
+ Nay, follow with us, that at the seafaring ships we may make agreement about the marriage, for thou mayest be sure we deal not hardly in exacting gifts of wooing."
+So saying, the warrior Idomeneus dragged him by the foot through the mighty conflict.
+----------------------------------------------------------------------
+from line 383 to line 384
+----------------------------------------------------------------------
+ὣς εἰπὼν ποδὸς ἕλκε κατὰ κρατερὴν ὑσμίνην ἥρως Ἰδομενεύς·[383,384]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 380 to MILESTONE 390
+======================================================================
+ But Asius came to bear aid to Othryoneus, [385] on foot in front of his horses; and these twain the squire that was his charioteer ever drave so that their breath smote upon the shoulders of Asius.
+----------------------------------------------------------------------
+from line 384 to line 387
+----------------------------------------------------------------------
+τῷ δ̓ Ἄσιος ἦλθ̓ ἐπαμύντωρ πεζὸς πρόσθ̓ ἵππων·[384,385]
+τὼ δὲ πνείοντε κατ̓ ὤμων αἰὲν ἔχ̓ ἡνίοχος θεράπων·[385,386]
+ὃ δὲ ἵετο θυμῷ Ἰδομενῆα βαλεῖν·[386,387]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 385 to MILESTONE 395
+======================================================================
+ And he was ever fain of heart to cast at Idomeneus; but the other was too quick for him, and smote him with a cast of his spear on the throat beneath the chin, and drave the bronze clean through. And he fell as an oak falls, or a poplar, [390] or a tall pine that among the mountains shipwrights fell with whetted axes to be a ship's timber; even so before his horses and chariot Asius lay out-stretched, moaning aloud and clutching at the bloody dust.
+----------------------------------------------------------------------
+from line 387 to line 391
+----------------------------------------------------------------------
+ὃ δέ μιν φθάμενος βάλε δουρὶ λαιμὸν ὑπ̓ ἀνθερεῶνα, διὰ πρὸ δὲ χαλκὸν ἔλασσεν.[387,388]
+ἤριπε δ̓ ὡς ὅτε τις δρῦς ἤριπεν ἢ ἀχερωῒς ἠὲ πίτυς βλωθρή, τήν τ̓ οὔρεσι τέκτονες ἄνδρες ἐξέταμον πελέκεσσι νεήκεσι νήϊον εἶναι·[389,391]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 390 to MILESTONE 400
+======================================================================
+ And the charioteer, stricken with terror, kept not the wits that afore he had, [395] neither dared turn the horses back and so escape from out the hands of the foemen; but Antilochus, staunch in fight, aimed at him, and pierced him through the middle with his spear, nor did the corselet of bronze that he wore avail him, but he fixed the spear full in his belly.
+----------------------------------------------------------------------
+from line 392 to line 397
+----------------------------------------------------------------------
+ὣς ὃ πρόσθ̓ ἵππων καὶ δίφρου κεῖτο τανυσθεὶς βεβρυχὼς κόνιος δεδραγμένος αἱματοέσσης.[392,393]
+ἐκ δέ οἱ ἡνίοχος πλήγη φρένας ἃς πάρος εἶχεν, οὐ δ̓ ὅ γ̓ ἐτόλμησεν δηΐων ὑπὸ χεῖρας ἀλύξας ἂψ ἵππους στρέψαι, τὸν δ̓ Ἀντίλοχος μενεχάρμης δουρὶ μέσον περόνησε τυχών·[394,397]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 395 to MILESTONE 401
+======================================================================
+ And gasping he fell from out his well-built car, [400] and the horses Antilochus, son of great-souled Nestor, drave forth from the Trojans into the host of the well-greaved Achaeans. [401]
+----------------------------------------------------------------------
+from line 397 to line 401
+----------------------------------------------------------------------
+οὐ δ̓ ἤρκεσε θώρηξ χάλκεος ὃν φορέεσκε, μέσῃ δ̓ ἐν γαστέρι πῆξεν.[397,398]
+αὐτὰρ ὃ ἀσθμαίνων εὐεργέος ἔκπεσε δίφρου, ἵππους δ̓ Ἀντίλοχος μεγαθύμου Νέστορος υἱὸς ἐξέλασε Τρώων μετ̓ ἐϋκνήμιδας Ἀχαιούς.[399,401]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=402 END=423
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 402 to MILESTONE 405
+======================================================================
+ 
+Then Deïphobus in sore grief for Asius drew very nigh to Idomeneus, and cast at him with his bright spear.
+----------------------------------------------------------------------
+from line 402 to line 403
+----------------------------------------------------------------------
+Δηΐφοβος δὲ μάλα σχεδὸν ἤλυθεν Ἰδομενῆος Ἀσίου ἀχνύμενος, καὶ ἀκόντισε δουρὶ φαεινῷ.[402,403]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 402 to MILESTONE 410
+======================================================================
+ Howbeit Idomeneus, looking steadily at him, avoided the spear of bronze, [405] for he hid beneath the cover of his shield that was well-balanced upon every side, the which he was wont to bear, cunningly wrought with bull's hide and gleaming bronze, and fitted with two rods; beneath this he gathered himself together, and the spear of bronze flew over; and harshly rang his shield, as the spear grazed thereon.
+----------------------------------------------------------------------
+from line 404 to line 410
+----------------------------------------------------------------------
+ἀλλ̓ ὃ μὲν ἄντα ἰδὼν ἠλεύατο χάλκεον ἔγχος Ἰδομενεύς·[404,405]
+κρύφθη γὰρ ὑπ̓ ἀσπίδι πάντοσ̓ ἐΐσῃ, τὴν ἄῤ ὅ γε ῥινοῖσι βοῶν καὶ νώροπι χαλκῷ δινωτὴν φορέεσκε, δύω κανόνεσσ̓ ἀραρυῖαν·[405,407]
+τῇ ὕπο πᾶς ἐάλη, τὸ δ̓ ὑπέρπτατο χάλκεον ἔγχος, καρφαλέον δέ οἱ ἀσπὶς ἐπιθρέξαντος ἄϋσεν ἔγχεος·[408,410]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 405 to MILESTONE 415
+======================================================================
+ [410] Yet nowise in vain did Deïphobus let the spear fly from his heavy hand, but he smote Hypsenor, son of Hippasus, shepherd of the people, in the liver beneath the midriff, and straightway loosed his knees.
+----------------------------------------------------------------------
+from line 410 to line 412
+----------------------------------------------------------------------
+οὐ δ̓ ἅλιόν ῥα βαρείης χειρὸς ἀφῆκεν, ἀλλ̓ ἔβαλ̓ Ἱππασίδην Ὑψήνορα ποιμένα λαῶν ἧπαρ ὑπὸ πραπίδων, εἶθαρ δ̓ ὑπὸ γούνατ̓ ἔλυσε.[410,412]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 410 to MILESTONE 420
+======================================================================
+ And Deïphobus exulted over him in terrible wise, and cried aloud:"Hah, in good sooth not unavenged lies Asius; nay, methinks, [415] even as he fareth to the house of Hades, the strong warder, will he be glad at heart, for lo, I have given him one to escort him on his way!"
+----------------------------------------------------------------------
+from line 413 to line 416
+----------------------------------------------------------------------
+Δηΐφοβος δ̓ ἔκπαγλον ἐπεύξατο μακρὸν ἀΰσας·[413,413]
+οὐ μὰν αὖτ̓ ἄτιτος κεῖτ̓ Ἄσιος, ἀλλά ἕ φημι εἰς Ἄϊδός περ ἰόντα πυλάρταο κρατεροῖο γηθήσειν κατὰ θυμόν, ἐπεί ῥά οἱ ὤπασα πομπόν.[414,416]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 415 to MILESTONE 423
+======================================================================
+
+So spake he, and upon the Argives came sorrow by reason of his exulting, and beyond all did he stir the soul of wise-hearted Antilochus; howbeit, despite his sorrow, he was not unmindful of his dear comrade, [420] but ran and bestrode him, and covered him with his shield. Then two trusty comrades stooped down, even Mecisteus, son of Echius, and goodly Alastor, and bare Hypsenor, groaning heavily, to the hollow ships. [423]
+----------------------------------------------------------------------
+from line 417 to line 423
+----------------------------------------------------------------------
+ὣς ἔφατ̓, Ἀργείοισι δ̓ ἄχος γένετ̓ εὐξαμένοιο, Ἀντιλόχῳ δὲ μάλιστα δαΐφρονι θυμὸν ὄρινεν·[417,418]
+ἀλλ̓ οὐ δ̓ ἀχνύμενός περ ἑοῦ ἀμέλησεν ἑταίρου, ἀλλὰ θέων περίβη καί οἱ σάκος ἀμφεκάλυψε.[419,420]
+τὸν μὲν ἔπειθ̓ ὑποδύντε δύω ἐρίηρες ἑταῖροι Μηκιστεὺς Ἐχίοιο πάϊς καὶ δῖος Ἀλάστωρ, νῆας ἔπι γλαφυρὰς φερέτην βαρέα στενάχοντα.[421,423]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=424 END=454
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 424 to MILESTONE 445
+======================================================================
+ 
+And Idomeneus slackened not in his furious might, but was ever fain [425] to enwrap some one of the Trojans in the darkness of night, or himself to fall in warding off ruin from the Achaeans. Then the dear son of Aesyetes, fostered of Zeus, the warrior Alcathous—son by marriage was he to Anchises, and had married the eldest of his daughters, Hippodameia, [430] whom her father and queenly mother heartily loved in their hall, for that she excelled all maidens of her years in comeliness, and in handiwork, and in wisdom; wherefore the best man in wide Troy had taken her to wife—this Alcathous did Poseidon subdue beneath Idomeneus, [435] for he cast a spell upon his bright eyes and ensnared his glorious limbs that he might nowise flee backwards nor avoid the spear; but as he stood fixed, even as a pillar or a tree, high and leafy, the warrior Idomeneus smote him with a thrust of his spear full upon the breast, [440] and clave his coat of bronze round about him, that aforetime ever warded death from his body, but now it rang harshly as it was cloven about the spear.
+----------------------------------------------------------------------
+from line 424 to line 441
+----------------------------------------------------------------------
+Ἰδομενεὺς δ̓ οὐ λῆγε μένος μέγα, ἵετο δ̓ αἰεὶ ἠέ τινα Τρώων ἐρεβεννῇ νυκτὶ καλύψαι ἢ αὐτὸς δουπῆσαι ἀμύνων λοιγὸν Ἀχαιοῖς.[424,426]
+ἔνθ̓ Αἰσυήταο διοτρεφέος φίλον υἱὸν ἥρὠ Ἀλκάθοον, γαμβρὸς δ̓ ἦν Ἀγχίσαο, πρεσβυτάτην δ̓ ὤπυιε θυγατρῶν Ἱπποδάμειαν τὴν περὶ κῆρι φίλησε πατὴρ καὶ πότνια μήτηρ ἐν μεγάρῳ·[427,431]
+πᾶσαν γὰρ ὁμηλικίην ἐκέκαστο κάλλεϊ καὶ ἔργοισιν ἰδὲ φρεσί·[431,432]
+τοὔνεκα καί μιν γῆμεν ἀνὴρ ὤριστος ἐνὶ Τροίῃ εὐρείῃ·[432,433]
+τὸν τόθ̓ ὑπ̓ Ἰδομενῆϊ Ποσειδάων ἐδάμασσε θέλξας ὄσσε φαεινά, πέδησε δὲ φαίδιμα γυῖα·[434,435]
+οὔ τε γὰρ ἐξοπίσω φυγέειν δύνατ̓ οὔ τ̓ ἀλέασθαι, ἀλλ̓ ὥς τε στήλην ἢ δένδρεον ὑψιπέτηλον ἀτρέμας ἑσταότα στῆθος μέσον οὔτασε δουρὶ ἥρως Ἰδομενεύς, ῥῆξεν δέ οἱ ἀμφὶ χιτῶνα χάλκεον, ὅς οἱ πρόσθεν ἀπὸ χροὸς ἤρκει ὄλεθρον·[436,440]
+δὴ τότε γ̓ αὖον ἄϋσεν ἐρεικόμενος περὶ δουρί.[441,441]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 440 to MILESTONE 445
+======================================================================
+ And he fell with a thud, and the spear was fixed in his heart, that still beating made the butt thereof to quiver; howbeit, there at length did mighty Ares stay its fury.
+----------------------------------------------------------------------
+from line 442 to line 444
+----------------------------------------------------------------------
+δούπησεν δὲ πεσών, δόρυ δ̓ ἐν κραδίῃ ἐπεπήγει, ἥ ῥά οἱ ἀσπαίρουσα καὶ οὐρίαχον πελέμιζεν ἔγχεος·[442,444]
+ἔνθα δ̓ ἔπειτ̓ ἀφίει μένος ὄβριμος Ἄρης·[444,444]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 440 to MILESTONE 450
+======================================================================
+ [445] But Idomeneus exulted over him in terrible wise, and cried aloud:"Deïphobus, shall we now deem perchance that due requital hath been made—three men slain for one—seeing thou boasteth thus?
+----------------------------------------------------------------------
+from line 445 to line 447
+----------------------------------------------------------------------
+Ἰδομενεὺς δ̓ ἔκπαγλον ἐπεύξατο μακρὸν ἀΰσας Δηΐφοβ̓ ἦ ἄρα δή τι ἐΐσκομεν ἄξιον εἶναι τρεῖς ἑνὸς ἀντὶ πεφάσθαι;[445,447]
+ἐπεὶ σύ περ εὔχεαι οὕτω.[447,447]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 445 to MILESTONE 450
+======================================================================
+ Nay, good sir, but stand forth thyself and face me, that thou mayest know what manner of son of Zeus am I that am come hither.
+----------------------------------------------------------------------
+from line 448 to line 450
+----------------------------------------------------------------------
+δαιμόνἰ ἀλλὰ καὶ αὐτὸς ἐναντίον ἵστασ̓ ἐμεῖο, ὄφρα ἴδῃ οἷος Ζηνὸς γόνος ἐνθάδ̓ ἱκάνω, ὃς πρῶτον Μίνωα τέκε Κρήτῃ ἐπίουρον·[448,450]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 445 to MILESTONE 454
+======================================================================
+ [450] For Zeus at the first begat Minos to be a watcher over Crete, and Minos again got him a son, even the peerless Deucalion, and Deucalion begat me, a lord over many men in wide Crete; and now have the ships brought me hither a bane to thee and thy father and the other Trojans." [454]
+----------------------------------------------------------------------
+from line 451 to line 454
+----------------------------------------------------------------------
+Μίνως δ̓ αὖ τέκεθ̓ υἱὸν ἀμύμονα Δευκαλίωνα, Δευκαλίων δ̓ ἐμὲ τίκτε πολέσσ̓ ἄνδρεσσιν ἄνακτα Κρήτῃ ἐν εὐρείῃ·[451,453]
+νῦν δ̓ ἐνθάδε νῆες ἔνεικαν σοί τε κακὸν καὶ πατρὶ καὶ ἄλλοισι Τρώεσσιν.[453,454]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=455 END=486
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 455 to MILESTONE 460
+======================================================================
+ 
+ [455] So spake he, and Deïphobus was divided in counsel, whether he should give ground and take to him as comrade some one of the great-souled Trojans, or should make trial by himself alone.
+----------------------------------------------------------------------
+from line 455 to line 457
+----------------------------------------------------------------------
+ὣς φάτο, Δηΐφοβος δὲ διάνδιχα μερμήριξεν ἤ τινά που Τρώων ἑταρίσσαιτο μεγαθύμων ἂψ ἀναχωρήσας, ἦ πειρήσαιτο καὶ οἶος.[455,457]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 455 to MILESTONE 465
+======================================================================
+ And as he pondered this thing seemed to him the better—to go after Aeneas; and he found him standing last amid the throng, [460] for ever was Aeneas wroth against goodly Priam, for that brave though he was amid warriors Priam honoured him not a whit.
+----------------------------------------------------------------------
+from line 458 to line 461
+----------------------------------------------------------------------
+ὧδε δέ οἱ φρονέοντι δοάσσατο κέρδιον εἶναι βῆναι ἐπ̓ Αἰνείαν·[458,459]
+τὸν δ̓ ὕστατον εὗρεν ὁμίλου ἑσταότ̓·[459,460]
+αἰεὶ γὰρ Πριάμῳ ἐπεμήνιε δίῳ οὕνεκ̓ ἄῤ ἐσθλὸν ἐόντα μετ̓ ἀνδράσιν οὔ τι τίεσκεν.[460,461]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 460 to MILESTONE 465
+======================================================================
+ Then Deïphobus drew near and spake to him winged words:"
+----------------------------------------------------------------------
+from line 462 to line 462
+----------------------------------------------------------------------
+ἀγχοῦ δ̓ ἱστάμενος ἔπεα πτερόεντα προσηύδα·[462,462]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 460 to MILESTONE 465
+======================================================================
+Aeneas, counsellor of the Trojans, now in sooth it behoveth thee to bear aid to thy sister's husband, if in any wise grief for thy kin cometh upon thee.
+----------------------------------------------------------------------
+from line 463 to line 464
+----------------------------------------------------------------------
+Αἰνεία Τρώων βουληφόρε νῦν σε μάλα χρὴ γαμβρῷ ἀμυνέμεναι, εἴ πέρ τί σε κῆδος ἱκάνει.[463,464]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 460 to MILESTONE 470
+======================================================================
+ [465] Nay, come thou with me, that we may bear aid to Alcathous, who, for all he was but thy sister's husband, reared thee in the halls when thou wast yet a little child; he, I tell thee, hath been slain of Idomeneus, famed for his spear."
+----------------------------------------------------------------------
+from line 465 to line 467
+----------------------------------------------------------------------
+ἀλλ̓ ἕπευ Ἀλκαθόῳ ἐπαμύνομεν, ὅς σε πάρος γε γαμβρὸς ἐὼν ἔθρεψε δόμοις ἔνι τυτθὸν ἐόντα·[465,466]
+τὸν δέ τοι Ἰδομενεὺς δουρικλυτὸς ἐξενάριξεν.[467,467]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 465 to MILESTONE 470
+======================================================================
+
+So spake he, and roused the heart in the breast of Aeneas, and he went to seek Idomeneus, with high thoughts of war.
+----------------------------------------------------------------------
+from line 468 to line 469
+----------------------------------------------------------------------
+ὣς φάτο, τῷ δ̓ ἄρα θυμὸν ἐνὶ στήθεσσιν ὄρινε, βῆ δὲ μετ̓ Ἰδομενῆα μέγα πτολέμοιο μεμηλώς.[468,469]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 465 to MILESTONE 485
+======================================================================
+ [470] Howbeit terror gat not hold of Idomeneus, as he had been some petted boy, but he abode like a boar in the mountains, that trusteth in his strength, and abideth the great, tumultuous throng of men that cometh against him, in a lonely place; he bristleth up his back and his two eyes blaze with fire, [475] and he whetteth his tusks, eager to ward off dogs and men; even so Idomeneus, famed for his spear, abode the oncoming of Aeneas to bear aid, and gave not ground, but called to his comrades, looking unto Ascalaphus, Aphareus, and Deïpyrus, and Meriones, and Antilochus, masters of the war-cry; [480] to these he spake winged words, and spurred them on:"
+----------------------------------------------------------------------
+from line 470 to line 481
+----------------------------------------------------------------------
+ἀλλ̓ οὐκ Ἰδομενῆα φόβος λάβε τηλύγετον ὥς, ἀλλ̓ ἔμεν̓ ὡς ὅτε τις σῦς οὔρεσιν ἀλκὶ πεποιθώς, ὅς τε μένει κολοσυρτὸν ἐπερχόμενον πολὺν ἀνδρῶν χώρῳ ἐν οἰοπόλῳ, φρίσσει δέ τε νῶτον ὕπερθεν·[470,473]
+ὀφθαλμὼ δ̓ ἄρα οἱ πυρὶ λάμπετον·[474,474]
+αὐτὰρ ὀδόντας θήγει, ἀλέξασθαι μεμαὼς κύνας ἠδὲ καὶ ἄνδρας·[474,475]
+ὣς μένεν Ἰδομενεὺς δουρικλυτός, οὐ δ̓ ὑπεχώρει, Αἰνείαν ἐπιόντα βοηθόον·[476,477]
+αὖε δ̓ ἑταίρους Ἀσκάλαφόν τ̓ ἐσορῶν Ἀφαρῆά τε Δηΐπυρόν τε Μηριόνην τε καὶ Ἀντίλοχον μήστωρας ἀϋτῆς·[477,479]
+τοὺς ὅ γ̓ ἐποτρύνων ἔπεα πτερόεντα προσηύδα·[480,480]
+δεῦτε φίλοι, καί μ̓ οἴῳ ἀμύνετε·[481,481]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 480 to MILESTONE 485
+======================================================================
+Hither, friends, and bear aid to me that am alone, and sorely do I dread the oncoming of Aeneas, swift of foot, that cometh against me; right strong is he to slay men in battle, and he hath the flower of youth, wherein is the fulness of strength.
+----------------------------------------------------------------------
+from line 481 to line 484
+----------------------------------------------------------------------
+δείδια δ̓ αἰνῶς Αἰνείαν ἐπιόντα πόδας ταχύν, ὅς μοι ἔπεισιν, ὃς μάλα καρτερός ἐστι μάχῃ ἔνι φῶτας ἐναίρειν·[481,483]
+καὶ δ̓ ἔχει ἥβης ἄνθος, ὅ τε κράτος ἐστὶ μέγιστον.[484,484]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 480 to MILESTONE 486
+======================================================================
+ [485] Were we but of like age and our mood such as now it is, then forthwith should he win great victory, or haply I." [486]
+----------------------------------------------------------------------
+from line 485 to line 486
+----------------------------------------------------------------------
+εἰ γὰρ ὁμηλικίη γε γενοίμεθα τῷδ̓ ἐπὶ θυμῷ αἶψά κεν ἠὲ φέροιτο μέγα κράτος, ἠὲ φεροίμην.[485,486]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=487 END=525
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 487 to MILESTONE 500
+======================================================================
+ 
+So spake he, and they all, having one spirit in their breasts, took their stand, each hard by the other, leaning their shields against their shoulders. And Aeneas over against them called to his comrades, [490] looking unto Deïphobus, and Paris, and goodly Agenor, that with himself were leaders of the Trojans; and after them followed the host, as sheep follow after the ram to water from the place of feeding, and the shepherd joyeth in his heart; even so the heart of Aeneas was glad in his breast, [495] when he saw the throng of the host that followed after him.
+----------------------------------------------------------------------
+from line 487 to line 497
+----------------------------------------------------------------------
+ὣς ἔφαθ̓, οἳ δ̓ ἄρα πάντες ἕνα φρεσὶ θυμὸν ἔχοντες πλησίοι ἔστησαν, σάκἐ ὤμοισι κλίναντες.[487,488]
+Αἰνείας δ̓ ἑτέρωθεν ἐκέκλετο οἷς ἑτάροισι Δηΐφοβόν τε Πάριν τ̓ ἐσορῶν καὶ Ἀγήνορα δῖον, οἵ οἱ ἅμ̓ ἡγεμόνες Τρώων ἔσαν·[489,491]
+αὐτὰρ ἔπειτα λαοὶ ἕπονθ̓, ὡς εἴ τε μετὰ κτίλον ἕσπετο μῆλα πιόμεν̓ ἐκ βοτάνης·[491,493]
+γάνυται δ̓ ἄρα τε φρένα ποιμήν·[493,493]
+ὣς Αἰνείᾳ θυμὸς ἐνὶ στήθεσσι γεγήθει ὡς ἴδε λαῶν ἔθνος ἐπισπόμενον ἑοῖ αὐτῷ.[494,495]
+οἳ δ̓ ἀμφ̓ Ἀλκαθόῳ αὐτοσχεδὸν ὁρμήθησαν μακροῖσι ξυστοῖσι·[496,497]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 495 to MILESTONE 505
+======================================================================
+
+Then over Alcathous they clashed in close fight with their long spears, and about their breasts the bronze rang terribly as they aimed each at the other in the throng; and above all the rest two men of valour, [500] Aeneas and Idomeneus, peers of Ares, were eager each to cleave the other's flesh with the pitiless bronze.
+----------------------------------------------------------------------
+from line 497 to line 501
+----------------------------------------------------------------------
+περὶ στήθεσσι δὲ χαλκὸς σμερδαλέον κονάβιζε τιτυσκομένων καθ̓ ὅμιλον ἀλλήλων·[497,499]
+δύο δ̓ ἄνδρες ἀρήϊοι ἔξοχον ἄλλων Αἰνείας τε καὶ Ἰδομενεὺς ἀτάλαντοι Ἄρηϊ ἵεντ̓ ἀλλήλων ταμέειν χρόα νηλέϊ χαλκῷ.[499,501]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 500 to MILESTONE 510
+======================================================================
+ And Aeneas first cast at Idomeneus, but he, looking steadily at him, avoided the spear of bronze, and the lance of Aeneas sank quivering down in to the earth, [505] for that it sped in vain from his mighty hand. But Idomeneus cast and smote Oenomaus, full upon the belly, and brake the plate of his corselet, and the bronze let forth the bowels therethrough; and he fell in the dust and clutched the earth in his palm.
+----------------------------------------------------------------------
+from line 502 to line 508
+----------------------------------------------------------------------
+Αἰνείας δὲ πρῶτος ἀκόντισεν Ἰδομενῆος·[502,502]
+ἀλλ̓ ὃ μὲν ἄντα ἰδὼν ἠλεύατο χάλκεον ἔγχος, αἰχμὴ δ̓ Αἰνείαο κραδαινομένη κατὰ γαίης ᾤχετ̓, ἐπεί ῥ̓ ἅλιον στιβαρῆς ἀπὸ χειρὸς ὄρουσεν.[503,505]
+Ἰδομενεὺς δ̓ ἄρα Οἰνόμαον βάλε γαστέρα μέσσην, ῥῆξε δὲ θώρηκος γύαλον, διὰ δ̓ ἔντερα χαλκὸς ἤφυσ̓·[506,508]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 505 to MILESTONE 515
+======================================================================
+ And Idomeneus drew forth from out the corpse the far-shadowing spear, [510] yet could he not prevail likewise to strip the rest of the fair armour from his shoulders, since he was sore pressed with missiles.
+----------------------------------------------------------------------
+from line 508 to line 511
+----------------------------------------------------------------------
+ὃ δ̓ ἐν κονίῃσι πεσὼν ἕλε γαῖαν ἀγοστῷ.[508,508]
+Ἰδομενεὺς δ̓ ἐκ μὲν νέκυος δολιχόσκιον ἔγχος ἐσπάσατ̓, οὐ δ̓ ἄῤ ἔτ̓ ἄλλα δυνήσατο τεύχεα καλὰ ὤμοιιν ἀφελέσθαι·[509,511]
+ἐπείγετο γὰρ βελέεσσιν.[511,511]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 510 to MILESTONE 515
+======================================================================
+ For the joints of his feet were not firm as of old in a charge, that he might rush forth after his own cast, or avoid another's.
+----------------------------------------------------------------------
+from line 512 to line 513
+----------------------------------------------------------------------
+οὐ γὰρ ἔτ̓ ἔμπεδα γυῖα ποδῶν ἦν ὁρμηθέντι, οὔ τ̓ ἄῤ ἐπαΐξαι μεθ̓ ἑὸν·[512,513]
+βέλος οὔ τ̓ ἀλέασθαι.[513,513]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 510 to MILESTONE 520
+======================================================================
+ Wherefore in close fight he warded off the pitiless day of doom, [515] but in flight his feet no longer bare him swiftly from the war. And as he drew back step by step Deïphobus cast at him with his shining spear, for verily he ever cherished a ceaseless hate against him.
+----------------------------------------------------------------------
+from line 514 to line 517
+----------------------------------------------------------------------
+τώ ῥα καὶ ἐν σταδίῃ μὲν ἀμύνετο νηλεὲς ἦμαρ, τρέσσαι δ̓ οὐκ ἔτι ῥίμφα πόδες φέρον ἐκ πολέμοιο.[514,515]
+τοῦ δὲ βάδην ἀπιόντος ἀκόντισε δουρὶ φαεινῷ Δηΐφοβος·[516,517]
+δὴ γάρ οἱ ἔχεν κότον ἐμμενὲς αἰεί.[517,517]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 515 to MILESTONE 525
+======================================================================
+ Howbeit this time again he missed him, and smote with his spear Ascalaphus, son of Enyalius, and through the shoulder the mighty spear held its way; [520] and he fell in the dust and clutched the ground with his palm. But as yet loud-voiced dread Ares wist not at all that his son had fallen in the mighty conflict; but he sat on the topmost peak of Olympus beneath the golden clouds, constrained by the will of Zeus, [525]
+----------------------------------------------------------------------
+from line 518 to line 525
+----------------------------------------------------------------------
+ἀλλ̓ ὅ γε καὶ τόθ̓ ἅμαρτεν, ὃ δ̓ Ἀσκάλαφον βάλε δουρὶ υἱὸν Ἐνυαλίοιο·[518,519]
+δἰ ὤμου δ̓ ὄβριμον ἔγχος ἔσχεν·[519,520]
+ὃ δ̓ ἐν κονίῃσι πεσὼν ἕλε γαῖαν ἀγοστῷ.[520,520]
+οὐ δ̓ ἄρα πώ τι πέπυστο βριήπυος ὄβριμος Ἄρης υἷος ἑοῖο πεσόντος ἐνὶ κρατερῇ ὑσμίνῃ, ἀλλ̓ ὅ γ̓ ἄῤ ἄκρῳ Ὀλύμπῳ ὑπὸ χρυσέοισι νέφεσσιν ἧστο Διὸς βουλῇσιν ἐελμένος, ἔνθά περ ἄλλοι ἀθάνατοι θεοὶ ἦσαν ἐεργόμενοι πολέμοιο.[521,525]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=526 END=559
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 526 to MILESTONE 540
+======================================================================
+ 
+Then over Ascalaphus they clashed in close fight, and Deïphobus tore from Ascalaphus his shining helm, but Meriones, the peer of swift Ares, leapt upon Deïphobus and smote his arm with his spear, [530] and from his hand the crested helm fell to the ground with a clang. And Meriones sprang forth again like a vulture, and drew forth the mighty spear from the upper arm of Deïphobus, and shrank back in the throng of his comrades. But Polites, the own brother of Deïphobus, stretched his arms around his waist, [535] and led him forth from out the dolorous war, until he came to the swift horses that stood waiting for him at the rear of the battle and the conflict with their charioteer and chariot richly dight.
+----------------------------------------------------------------------
+from line 526 to line 537
+----------------------------------------------------------------------
+οἳ δ̓ ἀμφ̓ Ἀσκαλάφῳ αὐτοσχεδὸν ὁρμήθησαν·[526,526]
+Δηΐφοβος μὲν ἀπ̓ Ἀσκαλάφου πήληκα φαεινὴν ἥρπασε, Μηριόνης δὲ θοῷ ἀτάλαντος Ἄρηϊ δουρὶ βραχίονα τύψεν ἐπάλμενος, ἐκ δ̓ ἄρα χειρὸς αὐλῶπις τρυφάλεια χαμαὶ βόμβησε πεσοῦσα.[527,530]
+Μηριόνης δ̓ ἐξ αὖτις ἐπάλμενος αἰγυπιὸς ὣς ἐξέρυσε πρυμνοῖο βραχίονος ὄβριμον ἔγχος, ἂψ δ̓ ἑτάρων εἰς ἔθνος ἐχάζετο.[531,533]
+τὸν δὲ Πολίτης αὐτοκασίγνητος περὶ μέσσῳ χεῖρε τιτήνας ἐξῆγεν πολέμοιο δυσηχέος, ὄφῤ ἵκεθ̓ ἵππους ὠκέας, οἵ οἱ ὄπισθε μάχης ἠδὲ πτολέμοιο ἕστασαν ἡνίοχόν τε καὶ ἅρματα ποικίλ̓ ἔχοντες·[533,537]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 535 to MILESTONE 540
+======================================================================
+ These bare him to the city groaning heavily and sore distressed and down ran the blood from his newly wounded arm.
+----------------------------------------------------------------------
+from line 538 to line 540
+----------------------------------------------------------------------
+οἳ τόν γε προτὶ ἄστυ φέρον βαρέα στενάχοντα τειρόμενον·[538,539]
+κατὰ δ̓ αἷμα νεουτάτου ἔρρεε χειρός.[539,539]
+οἳ δ̓ ἄλλοι μάρναντο, βοὴ δ̓ ἄσβεστος ὀρώρει.[540,540]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 535 to MILESTONE 545
+======================================================================
+
+ [540] But the rest fought on, and a cry unquenchable arose. Then Aeneas leapt upon Aphareus, son of Caletor, that was turned toward him, and struck him on the throat with his sharp spear, and his head sank to one side, and his shield was hurled upon him and his helm withal, and death that slayeth the spirit encompassed him.
+----------------------------------------------------------------------
+from line 541 to line 544
+----------------------------------------------------------------------
+ἔνθ̓ Αἰνέας Ἀφαρῆα Καλητορίδην ἐπορούσας λαιμὸν τύψ̓ ἐπὶ οἷ τετραμμένον ὀξέϊ δουρί·[541,542]
+ἐκλίνθη δ̓ ἑτέρωσε κάρη, ἐπὶ δ̓ ἀσπὶς ἑάφθη καὶ κόρυς, ἀμφὶ δέ οἱ θάνατος χύτο θυμοραϊστής.[543,544]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 540 to MILESTONE 550
+======================================================================
+ [545] Then Antilochus, biding his time, leapt upon Thoön, as he turned his back, and smote him with a thrust, and wholly severed the vein that runneth along the back continually until it reacheth the neck; this he severed wholly, and Thoön fell on his back in the dust, stretching out both his hands to his dear comrades.
+----------------------------------------------------------------------
+from line 545 to line 549
+----------------------------------------------------------------------
+Ἀντίλοχος δὲ Θόωνα μεταστρεφθέντα δοκεύσας οὔτασ̓ ἐπαΐξας, ἀπὸ δὲ φλέβα πᾶσαν ἔκερσεν, ἥ τ̓ ἀνὰ νῶτα θέουσα διαμπερὲς αὐχέν̓ ἱκάνει·[545,547]
+τὴν ἀπὸ πᾶσαν ἔκερσεν·[548,548]
+ὃ δ̓ ὕπτιος ἐν κονίῃσι κάππεσεν, ἄμφω χεῖρε φίλοις ἑτάροισι πετάσσας.[548,549]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 545 to MILESTONE 559
+======================================================================
+ [550] But Antilochus leapt upon him and set him to strip the armour from off his shoulders, looking warily around the while; for the Trojans encircled him and thrust from this side and from that upon his broad, shining shield; howbeit they prevailed not to pierce through and graze the tender flesh of Antilochus with the pitiless bronze; for mightily did Poseidon, the Shaker of Earth, [555] guard Nestor's son, even in the midst of many darts.
+----------------------------------------------------------------------
+from line 550 to line 557
+----------------------------------------------------------------------
+Ἀντίλοχος δ̓ ἐπόρουσε, καὶ αἴνυτο τεύχἐ ἀπ̓ ὤμων παπταίνων·[550,551]
+Τρῶες δὲ περισταδὸν ἄλλοθεν ἄλλος οὔταζον σάκος εὐρὺ παναίολον, οὐ δὲ δύναντο εἴσω ἐπιγράψαι τέρενα χρόα νηλέϊ χαλκῷ Ἀντιλόχου·[551,554]
+πέρι γάρ ῥα Ποσειδάων ἐνοσίχθων Νέστορος υἱὸν ἔρυτο καὶ ἐν πολλοῖσι βέλεσσιν.[554,555]
+οὐ μὲν γάρ ποτ̓ ἄνευ δηΐων ἦν, ἀλλὰ κατ̓ αὐτοὺς στρωφᾶτ̓·[556,557]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 555 to MILESTONE 559
+======================================================================
+ For never aloof from the foe was Antilochus, but he ranged among them, nor ever was his spear at rest, but was ceaselessly brandished and shaken; and he ever aimed in heart to cast at some foeman, or rush upon him in close fight. 
+----------------------------------------------------------------------
+from line 557 to line 559
+----------------------------------------------------------------------
+οὐ δέ οἱ ἔγχος ἔχ̓ ἀτρέμας, ἀλλὰ μάλ̓ αἰεὶ σειόμενον ἐλέλικτο·[557,558]
+τιτύσκετο δὲ φρεσὶν ᾗσιν ἤ τευ ἀκοντίσσαι, ἠὲ σχεδὸν ὁρμηθῆναι.[558,559]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=560 END=600
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 560 to MILESTONE 565
+======================================================================
+ 
+ [560] But as he was aiming amid the throng he was not unmarked of Adamas, son of Asius, who smote him full upon the shield with a thrust of the sharp bronze, setting upon him from nigh at hand.
+----------------------------------------------------------------------
+from line 560 to line 562
+----------------------------------------------------------------------
+ἀλλ̓ οὐ λῆθ̓ Ἀδάμαντα τιτυσκόμενος καθ̓ ὅμιλον Ἀσιάδην, ὅ οἱ οὖτα μέσον σάκος ὀξέϊ χαλκῷ ἐγγύθεν ὁρμηθείς·[560,562]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 560 to MILESTONE 570
+======================================================================
+ But the spear-point was made of none avail by Poseidon, the dark-haired god, [565] who begrudged it the life of Antilochus. And the one part of the spear abode here, like a charred stake, in the shield of Antilochus, and half lay on the ground; and Adamas shrank back into the throng of his comrades, avoiding fate.
+----------------------------------------------------------------------
+from line 562 to line 566
+----------------------------------------------------------------------
+ἀμενήνωσεν δέ οἱ αἰχμὴν κυανοχαῖτα Ποσειδάων βιότοιο μεγήρας.[562,563]
+καὶ τὸ μὲν αὐτοῦ μεῖν̓ ὥς τε σκῶλος πυρίκαυστος ἐν σάκει Ἀντιλόχοιο, τὸ δ̓ ἥμισυ κεῖτ̓ ἐπὶ γαίης·[564,565]
+ἂψ δ̓ ἑτάρων εἰς ἔθνος ἐχάζετο κῆῤ ἀλεείνων·[566,566]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 565 to MILESTONE 570
+======================================================================
+ But Meriones followed after him as he went and cast with his spear, and smote him midway between the privy parts and the navel, where most of all Ares is cruel to wretched mortals.
+----------------------------------------------------------------------
+from line 567 to line 570
+----------------------------------------------------------------------
+Μηριόνης δ̓ ἀπιόντα μετασπόμενος βάλε δουρὶ αἰδοίων τε μεσηγὺ καὶ ὀμφαλοῦ, ἔνθα μάλιστα γίγνετ̓ Ἄρης ἀλεγεινὸς ὀϊζυροῖσι βροτοῖσιν.[567,569]
+ἔνθά οἱ ἔγχος ἔπηξεν·[570,570]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 565 to MILESTONE 580
+======================================================================
+ [570] Even there he fixed his spear, and the other, leaning over the shaft which pierced him, writhed as a bull that herdsmen amid the mountains have bound with twisted withes and drag with them perforce; even so he, when he was smitten, writhed a little while, but not long, till the warrior Meriones came near and drew the spear forth from out his flesh; [575] and darkness enfolded his eyes.
+----------------------------------------------------------------------
+from line 570 to line 577
+----------------------------------------------------------------------
+ὃ δ̓ ἑσπόμενος περὶ δουρὶ ἤσπαιῤ ὡς ὅτε βοῦς τόν τ̓ οὔρεσι βουκόλοι ἄνδρες ἰλλάσιν οὐκ ἐθέλοντα βίῃ δήσαντες ἄγουσιν·[570,572]
+ὣς ὃ τυπεὶς ἤσπαιρε μίνυνθά περ, οὔ τι μάλα δήν, ὄφρά οἱ ἐκ χροὸς ἔγχος ἀνεσπάσατ̓ ἐγγύθεν ἐλθὼν ἥρως Μηριόνης·[573,575]
+τὸν δὲ σκότος ὄσσε κάλυψε.[575,575]
+Δηΐπυρον δ̓ Ἕλενος ξίφεϊ σχεδὸν ἤλασε κόρσην Θρηϊκίῳ μεγάλῳ, ἀπὸ δὲ τρυφάλειαν ἄραξεν.[576,577]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 575 to MILESTONE 585
+======================================================================
+
+Then in close fight Helenus smote Deïpyrus on the temple with a great Thracian sword, and tore away his helm, and the helm, dashed from his head, fell to the ground, and one of the Achaeans gathered it up as it rolled amid the feet of the fighters; [580] and down upon the eyes of Deïpyrus came the darkness of night, and enfolded him.
+----------------------------------------------------------------------
+from line 578 to line 581
+----------------------------------------------------------------------
+ἣ μὲν ἀποπλαγχθεῖσα χαμαὶ πέσε, καί τις Ἀχαιῶν μαρναμένων μετὰ ποσσὶ κυλινδομένην ἐκόμισσε·[578,579]
+τὸν δὲ κατ̓ ὀφθαλμῶν ἐρεβεννὴ νὺξ ἐκάλυψεν.[580,580]
+Ἀτρεΐδην δ̓ ἄχος εἷλε βοὴν ἀγαθὸν Μενέλαον·[581,581]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 580 to MILESTONE 585
+======================================================================
+
+But the son of Atreus was seized with grief thereat, even Menelaus, good at the war-cry, and he strode forth with a threat against the prince, the warrior Helenus, brandishing his sharp spear, while the other drew the centre-piece of his bow.
+----------------------------------------------------------------------
+from line 582 to line 583
+----------------------------------------------------------------------
+βῆ δ̓ ἐπαπειλήσας Ἑλένῳ ἥρωϊ ἄνακτι ὀξὺ δόρυ κραδάων·[582,583]
+ὃ δὲ τόξου πῆχυν ἄνελκε.[583,583]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 580 to MILESTONE 595
+======================================================================
+ So the twain at the one moment let fly, [585] the one with his sharp spear, and the other with an arrow from the string. Then the son of Priam smote Menelaus on the breast with his arrow, on the plate of his corselet, and off therefrom glanced the bitter arrow. And as from a broad shovel in a great threshing-floor the dark-skinned beans or pulse [590] leap before the shrill wind and the might of the winnower; even so from the corselet of glorious Menelaus glanced aside the bitter arrow and sped afar.
+----------------------------------------------------------------------
+from line 584 to line 592
+----------------------------------------------------------------------
+τὼ δ̓ ἄῤ ὁμαρτήδην ὃ μὲν ἔγχεϊ ὀξυόεντι ἵετ̓ ἀκοντίσσαι, ὃ δ̓ ἀπὸ νευρῆφιν ὀϊστῷ.[584,585]
+Πριαμίδης μὲν ἔπειτα κατὰ στῆθος βάλεν ἰῷ θώρηκος γύαλον, ἀπὸ δ̓ ἔπτατο πικρὸς ὀϊστός.[586,587]
+ὡς δ̓ ὅτ̓ ἀπὸ πλατέος πτυόφιν μεγάλην κατ̓ ἀλωὴν θρῴσκωσιν κύαμοι μελανόχροες ἢ ἐρέβινθοι πνοιῇ ὕπο λιγυρῇ καὶ λικμητῆρος ἐρωῇ, ὣς ἀπὸ θώρηκος Μενελάου κυδαλίμοιο πολλὸν ἀποπλαγχθεὶς ἑκὰς ἔπτατο πικρὸς ὀϊστός.[588,592]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 590 to MILESTONE 600
+======================================================================
+ But the son of Atreus, Menelaus, good at the war-cry, cast, and smote Helenus on the hand wherewith he was holding the polished bow, and into the bow [595] clean through the hand was driven the spear of bronze.
+----------------------------------------------------------------------
+from line 593 to line 597
+----------------------------------------------------------------------
+Ἀτρεΐδης δ̓ ἄρα χεῖρα βοὴν ἀγαθὸς Μενέλαος τὴν βάλεν ᾗ ῥ̓ ἔχε τόξον ἐΰξοον·[593,594]
+ἐν δ̓ ἄρα τόξῳ ἀντικρὺ διὰ χειρὸς ἐλήλατο χάλκεον ἔγχος.[594,595]
+ἂψ δ̓ ἑτάρων εἰς ἔθνος ἐχάζετο κῆῤ ἀλεείνων χεῖρα παρακρεμάσας·[596,597]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 595 to MILESTONE 600
+======================================================================
+ Then back he shrank into the throng of his comrades, avoiding fate, letting his hand hang down by his side; and the ashen spear trailed after him.
+----------------------------------------------------------------------
+from line 597 to line 597
+----------------------------------------------------------------------
+τὸ δ̓ ἐφέλκετο μείλινον ἔγχος.[597,597]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 595 to MILESTONE 600
+======================================================================
+ This then great-souled Agenor drew forth from his hand, and bound the hand with a strip of twisted sheep's wool, 
+----------------------------------------------------------------------
+from line 598 to line 600
+----------------------------------------------------------------------
+καὶ τὸ μὲν ἐκ χειρὸς ἔρυσεν μεγάθυμος Ἀγήνωρ, αὐτὴν δὲ ξυνέδησεν ἐϋστρεφεῖ οἰὸς ἀώτῳ σφενδόνῃ, ἣν ἄρα οἱ θεράπων ἔχε ποιμένι λαῶν.[598,600]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=601 END=639
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 601 to MILESTONE 605
+======================================================================
+ 
+But Peisander made straight at glorious Menelaus; howbeit an evil fate was leading him to the end of death, to be slain by thee, Menelaus, in the dread conflict.
+----------------------------------------------------------------------
+from line 601 to line 602
+----------------------------------------------------------------------
+Πείσανδρος δ̓ ἰθὺς Μενελάου κυδαλίμοιο ἤϊε·[601,602]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 601 to MILESTONE 610
+======================================================================
+ And when they were come near, as they advanced one against the other, [605] the son of Atreus missed, and his spear was turned aside; but Peisander thrust and smote the shield of glorious Menelaus, yet availed not to drive the bronze clean through, for the wide shield stayed it and the spear brake in the socket; yet had he joy at heart, and hope for victory.
+----------------------------------------------------------------------
+from line 602 to line 609
+----------------------------------------------------------------------
+τὸν δ̓ ἄγε μοῖρα κακὴ θανάτοιο τέλος δὲ σοὶ Μενέλαε δαμῆναι ἐν αἰνῇ δηϊοτῆτι.[602,603]
+οἳ δ̓ ὅτε δὴ σχεδὸν ἦσαν ἐπ̓ ἀλλήλοισιν ἰόντες Ἀτρεΐδης μὲν ἅμαρτε, παραὶ δέ οἱ ἐτράπετ̓ ἔγχος, Πείσανδρος δὲ σάκος Μενελάου κυδαλίμοιο οὔτασεν, οὐ δὲ διὰ πρὸ δυνήσατο χαλκὸν ἐλάσσαι·[604,607]
+ἔσχεθε γὰρ σάκος εὐρύ, κατεκλάσθη δ̓ ἐνὶ καυλῷ ἔγχος·[608,609]
+ὃ δὲ φρεσὶν ᾗσι χάρη καὶ ἐέλπετο νίκην.[609,609]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 605 to MILESTONE 615
+======================================================================
+ [610] But the son of Atreus drew his silver-studded sword, and leapt upon Peisander; and he from beneath his shield grasped a goodly axe of fine bronze, set on a haft of olive-wood, long and well-polished; and at the one moment they set each upon the other.
+----------------------------------------------------------------------
+from line 610 to line 613
+----------------------------------------------------------------------
+Ἀτρεΐδης δὲ ἐρυσσάμενος ξίφος ἀργυρόηλον ἆλτ̓ ἐπὶ Πεισάνδρῳ·[610,611]
+ὃ δ̓ ὑπ̓ ἀσπίδος εἵλετο καλὴν ἀξίνην εὔχαλκον ἐλαΐνῳ ἀμφὶ πελέκκῳ μακρῷ ἐϋξέστῳ·[611,613]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 610 to MILESTONE 620
+======================================================================
+ Peisander verily smote Menelaus upon the horn of his helmet with crest of horse-hair [615] —on the topmost part beneath the very plume; but Menelaus smote him as he came against him, on the forehead above the base of the nose; and the bones crashed loudly, and the two eyeballs, all bloody, fell before his feet in the dust, and he bowed and fell; and Menelaus set his foot upon his breast, and despoiled him of his arms, and exulted, saying:
+----------------------------------------------------------------------
+from line 613 to line 619
+----------------------------------------------------------------------
+ἅμα δ̓ ἀλλήλων ἐφίκοντο.[613,613]
+ἤτοι ὃ μὲν κόρυθος φάλον ἤλασεν ἱπποδασείης ἄκρον ὑπὸ λόφον αὐτόν, ὃ δὲ προσιόντα μέτωπον ῥινὸς ὕπερ πυμάτης·[614,616]
+λάκε δ̓ ὀστέα, τὼ δέ οἱ ὄσσε πὰρ ποσὶν αἱματόεντα χαμαὶ πέσον ἐν κονίῃσιν, ἰδνώθη δὲ πεσών·[616,618]
+ὃ δὲ λὰξ ἐν στήθεσι βαίνων τεύχεά τ̓ ἐξενάριξε καὶ εὐχόμενος ἔπος ηὔδα·[618,619]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 615 to MILESTONE 630
+======================================================================
+ [620] "ln such wise of a surety shall ye leave the ships of the Danaans, drivers of swift horses, ye overweening Trojans, insatiate of the dread din of battle. Aye, and of other despite and shame lack ye naught, wherewith ye have done despite unto me, ye evil dogs, and had no fear at heart of the grievous wrath of Zeus, that thundereth aloud, the god of hospitality, [625] who shall some day destroy your high city.
+----------------------------------------------------------------------
+from line 620 to line 627
+----------------------------------------------------------------------
+λείψετέ θην οὕτω γε νέας Δαναῶν ταχυπώλων Τρῶες ὑπερφίαλοι δεινῆς ἀκόρητοι ἀϋτῆς, ἄλλης μὲν λώβης τε καὶ αἴσχεος οὐκ ἐπιδευεῖς ἣν ἐμὲ λωβήσασθε κακαὶ κύνες, οὐ δέ τι θυμῷ Ζηνὸς ἐριβρεμέτεω χαλεπὴν ἐδείσατε μῆνιν ξεινίου, ὅς τέ ποτ̓ ὔμμι διαφθέρσει πόλιν αἰπήν·[620,625]
+οἵ μευ κουριδίην ἄλοχον καὶ κτήματα πολλὰ μὰψ οἴχεσθ̓ ἀνάγοντες, ἐπεὶ φιλέεσθε παῤ αὐτῇ·[626,627]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 625 to MILESTONE 630
+======================================================================
+ For ye bare forth wantonly over sea my wedded wife and therewithal much treasure, when it was with her that ye had found entertainment; and now again ye are full fain to fling consuming fire on the sea-faring ships, and to slay the Achaean warriors.
+----------------------------------------------------------------------
+from line 628 to line 630
+----------------------------------------------------------------------
+νῦν αὖτ̓ ἐν νηυσὶν μενεαίνετε ποντοπόροισι πῦρ ὀλοὸν βαλέειν, κτεῖναι δ̓ ἥρωας Ἀχαιούς.[628,629]
+ἀλλά ποθι σχήσεσθε καὶ ἐσσύμενοί περ Ἄρηος.[630,630]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 625 to MILESTONE 635
+======================================================================
+ [630] Nay, but ye shall be stayed from your fighting, how eager soever ye be!
+----------------------------------------------------------------------
+from line 631 to line 632
+----------------------------------------------------------------------
+Ζεῦ πάτερ ἦ τέ σέ φασι περὶ φρένας ἔμμεναι ἄλλων ἀνδρῶν ἠδὲ θεῶν·[631,632]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 630 to MILESTONE 639
+======================================================================
+ Father Zeus, in sooth men say that in wisdom thou art above all others, both men and gods, yet it is from thee that all these things come; in such wise now dost thou shew favour to men of wantonness, even the Trojans, whose might is always froward, [635] nor can they ever have their fill of the din of evil war.
+----------------------------------------------------------------------
+from line 632 to line 639
+----------------------------------------------------------------------
+σέο δ̓ ἐκ τάδε πάντα πέλονται·[632,632]
+οἷον δὴ ἄνδρεσσι χαρίζεαι ὑβριστῇσι Τρωσίν, τῶν μένος αἰὲν ἀτάσθαλον, οὐ δὲ δύνανται φυλόπιδος κορέσασθαι ὁμοιΐου πτολέμοιο.[633,635]
+πάντων μὲν κόρος ἐστὶ καὶ ὕπνου καὶ φιλότητος μολπῆς τε γλυκερῆς καὶ ἀμύμονος ὀρχηθμοῖο, τῶν πέρ τις καὶ μᾶλλον ἐέλδεται ἐξ ἔρον εἷναι ἢ πολέμου·[636,639]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 635 to MILESTONE 639
+======================================================================
+ Of all things is there satiety, of sleep, and love, and of sweet song, and the goodly dance; of these things verily a man would rather have his fill than of war; but the Trojans are insatiate of battle." 
+----------------------------------------------------------------------
+from line 639 to line 639
+----------------------------------------------------------------------
+Τρῶες δὲ μάχης ἀκόρητοι ἔασιν.[639,639]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=640 END=672
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 640 to MILESTONE 645
+======================================================================
+ 
+ [640] With this peerless Menelaus stripped from the body the bloody armour and gave it to his comrades, and himself went back again, and mingled with the foremost fighters.
+----------------------------------------------------------------------
+from line 640 to line 642
+----------------------------------------------------------------------
+ὣς εἰπὼν τὰ μὲν ἔντἐ ἀπὸ χροὸς αἱματόεντα συλήσας ἑτάροισι δίδου Μενέλαος ἀμύμων, αὐτὸς δ̓ αὖτ̓ ἐξ αὖτις ἰὼν προμάχοισιν ἐμίχθη.[640,642]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 640 to MILESTONE 650
+======================================================================
+
+Then there leapt forth against him the son of king Pylaemenes, even Harpalion, that followed his dear father to Troy unto the war, [645] but came not back again to his dear native land. He then thrust with his spear full upon the shield of the son of Atreus, from nigh at hand, yet availed not to drive the bronze clean through, and back he shrank into the throng of his comrades, avoiding fate, glancing warily on every side, lest some man should wound his flesh with the bronze.
+----------------------------------------------------------------------
+from line 643 to line 649
+----------------------------------------------------------------------
+ἔνθά οἱ υἱὸς ἐπᾶλτο Πυλαιμένεος βασιλῆος Ἁρπαλίων, ὅ ῥα πατρὶ φίλῳ ἕπετο πτολεμίξων ἐς τροίην, οὐ δ̓ αὖτις ἀφίκετο πατρίδα γαῖαν·[643,645]
+ὅς ῥα τότ̓ Ἀτρεΐδαο μέσον σάκος οὔτασε δουρὶ ἐγγύθεν, οὐ δὲ διὰ πρὸ δυνήσατο χαλκὸν ἐλάσσαι ἂψ δ̓ ἑτάρων εἰς ἔθνος ἐχάζετο κῆῤ ἀλεείνων πάντοσε παπταίνων μή τις χρόα χαλκῷ ἐπαύρῃ.[646,649]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 645 to MILESTONE 655
+======================================================================
+ [650] But as he drew back, Meriones let fly at him a bronze-tipped arrow, and smote him on the right buttock, and the arrow passed clean through even to the bladder beneath the bone.
+----------------------------------------------------------------------
+from line 650 to line 652
+----------------------------------------------------------------------
+Μηριόνης δ̓ ἀπιόντος ἵει χαλκήρἐ ὀϊστόν, καί ῥ̓ ἔβαλε γλουτὸν κάτα δεξιόν·[650,651]
+αὐτὰρ ὀϊστὸς ἀντικρὺ κατὰ κύστιν ὑπ̓ ὀστέον ἐξεπέρησεν.[651,652]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 650 to MILESTONE 660
+======================================================================
+ And sitting down where he was in the arms of his dear comrades he breathed forth his life, and lay stretched out like a worm on the earth; [655] and the black blood flowed forth and wetted the ground. Him the great-hearted Paphlagonians tended, and setting him in a chariot they bare him to sacred Ilios, sorrowing the while, and with them went his father, shedding tears; but there was no blood-price gotten for his dead son.
+----------------------------------------------------------------------
+from line 653 to line 660
+----------------------------------------------------------------------
+ἑζόμενος δὲ κατ̓ αὖθι φίλων ἐν χερσὶν ἑταίρων θυμὸν ἀποπνείων, ὥς τε σκώληξ ἐπὶ γαίῃ κεῖτο ταθείς·[653,655]
+ἐκ δ̓ αἷμα μέλαν ῥέε, δεῦε δὲ γαῖαν.[655,655]
+τὸν μὲν Παφλαγόνες μεγαλήτορες ἀμφεπένοντο, ἐς δίφρον δ̓ ἀνέσαντες ἄγον προτὶ Ἴλιον ἱρὴν ἀχνύμενοι·[656,658]
+μετὰ δέ σφι πατὴρ κίε δάκρυα λείβων, ποινὴ δ̓ οὔ τις παιδὸς ἐγίγνετο τεθνηῶτος.[658,659]
+τοῦ δὲ Πάρις μάλα θυμὸν ἀποκταμένοιο χολώθη·[660,660]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 655 to MILESTONE 665
+======================================================================
+
+ [660] And for his slaying waxed Paris mightily wroth at heart, for among the many Paphlagonians Harpalion had been his host; and in wrath for his sake he let fly a bronze-tipped arrow.
+----------------------------------------------------------------------
+from line 661 to line 662
+----------------------------------------------------------------------
+ξεῖνος γάρ οἱ ἔην πολέσιν μετὰ Παφλαγόνεσσι·[661,661]
+τοῦ ὅ γε χωόμενος προΐει χαλκήρἐ ὀϊστόν.[662,662]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 660 to MILESTONE 665
+======================================================================
+ A certain Euchenor there was, son of Polyidus the seer, a rich man and a valiant, and his abode was in Corinth.
+----------------------------------------------------------------------
+from line 663 to line 665
+----------------------------------------------------------------------
+ἦν δέ τις Εὐχήνωρ Πολυΐδου μάντιος υἱὸς ἀφνειός τ̓ ἀγαθός τε Κορινθόθι οἰκία ναίων, ὅς ῥ̓ εὖ εἰδὼς κῆῤ ὀλοὴν ἐπὶ νηὸς ἔβαινε·[663,665]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 660 to MILESTONE 672
+======================================================================
+ [665] He embarked upon his ship knowing full well the deadly fate to be, for often had his old sire, good Polyidus, told it him, to wit, that he must either perish of dire disease in his own halls, or amid the ships of the Achaeans be slain by the Trojans; wherefore he avoided at the same time the heavy fine of the Achaeans [670] and the hateful disease, that he might not suffer woes at heart.
+----------------------------------------------------------------------
+from line 666 to line 671
+----------------------------------------------------------------------
+πολλάκι γάρ οἱ ἔειπε γέρων ἀγαθὸς Πολύϊδος νούσῳ ὑπ̓ ἀργαλέῃ φθίσθαι οἷς ἐν μεγάροισιν, ἢ μετ̓ Ἀχαιῶν νηυσὶν ὑπὸ Τρώεσσι δαμῆναι·[666,668]
+τώ ῥ̓ ἅμα τ̓ ἀργαλέην θωὴν ἀλέεινεν Ἀχαιῶν νοῦσόν τε στυγερήν, ἵνα μὴ πάθοι ἄλγεα θυμῷ.[669,670]
+τὸν βάλ̓ ὑπὸ γναθμοῖο.[671,671]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 670 to MILESTONE 672
+======================================================================
+ Him Paris smote beneath the jaw, under the ear, and forthwith his spirit departed from his limbs, and hateful darkness gat hold of him. 
+----------------------------------------------------------------------
+from line 671 to line 672
+----------------------------------------------------------------------
+καὶ οὔατος·[671,671]
+ὦκα δὲ θυμὸς ᾤχετ̓ ἀπὸ μελέων, στυγερὸς δ̓ ἄρα μιν σκότος εἷλεν.[671,672]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=673 END=722
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 673 to MILESTONE 680
+======================================================================
+ 
+So fought they like unto blazing fire; but Hector, dear to Zeus, had not heard, nor wist at all [675] that on the left of the ships his hosts were being slain by the Argives; and soon would the Achaeans have gotten them glory, of such might was the Enfolder and Shaker of Earth that urged on the Argives and withal aided them by his own strength.
+----------------------------------------------------------------------
+from line 673 to line 677
+----------------------------------------------------------------------
+ὣς οἳ μὲν μάρναντο δέμας πυρὸς αἰθομένοιο·[673,673]
+Ἕκτωρ δ̓ οὐκ ἐπέπυστο Διῒ φίλος, οὐ δέ τι ᾔδη ὅττί ῥά οἱ νηῶν ἐπ̓ ἀριστερὰ δηϊόωντο λαοὶ ὑπ̓ Ἀργείων.[674,676]
+τάχα δ̓ ἂν καὶ κῦδος Ἀχαιῶν ἔπλετο·[676,677]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 675 to MILESTONE 685
+======================================================================
+ Nay, Hector pressed on where at the first he had leapt within the gate and the wall, [680] and had burst the close ranks of the Danaan shield-men, even in the place where were the ships of Aias and Protesilaus, drawn up along the beach of the grey sea, and beyond them the wall was builded lowest; there, as in no place beside, the men and their horses waxed furious in fight.
+----------------------------------------------------------------------
+from line 677 to line 684
+----------------------------------------------------------------------
+τοῖος γὰρ γαιήοχος ἐννοσίγαιος ὄτρυν̓ Ἀργείους, πρὸς δὲ σθένει αὐτὸς ἄμυνεν·[677,678]
+ἀλλ̓ ἔχεν ᾗ τὰ πρῶτα πύλας καὶ τεῖχος ἐσᾶλτο ῥηξάμενος Δαναῶν πυκινὰς στίχας ἀσπιστάων, ἔνθ̓ ἔσαν Αἴαντός τε νέες καὶ Πρωτεσιλάου θῖν̓ ἔφ̓ ἁλὸς πολιῆς εἰρυμέναι·[679,682]
+αὐτὰρ ὕπερθε τεῖχος ἐδέδμητο χθαμαλώτατον, ἔνθα μάλιστα ζαχρηεῖς γίγνοντο μάχῃ αὐτοί τε καὶ ἵπποι.[682,684]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 680 to MILESTONE 695
+======================================================================
+
+ [685] There the Boeotians and the Ionians, of trailing tunics, and the Locrians, and Phthians, and glorious Epeians, had much ado to stay his onset upon the ships, and availed not to thrust back from themselves goodly Hector, that was like a flame of fire,—even they that were picked men of the Athenians; [690] and among them Menestheus, son of Peteos, was leader, and there followed with him Pheidas and Stichius and valiant Bias, while the Epeians were led by Meges, son of Phyleus, and Araphion and Dracius, and in the forefront of the Phthians were Medon and Podarces, staunch in fight.
+----------------------------------------------------------------------
+from line 685 to line 693
+----------------------------------------------------------------------
+ἔνθα δὲ Βοιωτοὶ καὶ Ἰάονες ἑλκεχίτωνες Λοκροὶ καὶ Φθῖοι καὶ φαιδιμόεντες Ἐπειοὶ σπουδῇ ἐπαΐσσοντα νεῶν ἔχον, οὐ δὲ δύναντο ὦσαι ἀπὸ σφείων φλογὶ εἴκελον Ἕκτορα δῖον οἳ μὲν Ἀθηναίων προλελεγμένοι·[685,689]
+ἐν δ̓ ἄρα τοῖσιν ἦρχ̓ υἱὸς Πετεῶο Μενεσθεύς, οἳ δ̓ ἅμ̓ ἕποντο Φείδας τε Στιχίος τε Βίας τ̓ ἐΰς·[689,691]
+αὐτὰρ Ἐπειῶν Φυλεΐδης τε Μέγης Ἀμφίων τε Δρακίος τε, πρὸ Φθίων δὲ Μέδων τε μενεπτόλεμός τε Ποδάρκης.[691,693]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 690 to MILESTONE 700
+======================================================================
+ The one, verily, even Medon, was a bastard son of godlike Oïleus [695] and brother of Aias, but he dwelt in Phylace, far from his native land, for that he had slain a man of the kin of his stepmother Eriopis, that Oïleus had to wife; and the other, Podarces, was the son of Iphiclus, son of Phylacus.
+----------------------------------------------------------------------
+from line 694 to line 698
+----------------------------------------------------------------------
+ἤτοι ὃ μὲν νόθος υἱὸς Ὀϊλῆος θείοιο ἔσκε Μέδων Αἴαντος ἀδελφεός·[694,695]
+αὐτὰρ ἔναιεν ἐν Φυλάκῃ γαίης ἄπο πατρίδος ἄνδρα κατακτὰς γνωτὸν μητρυιῆς Ἐριώπιδος, ἣν ἔχ̓ Ὀϊλεύς·[695,697]
+αὐτὰρ ὃ Ἰφίκλοιο πάϊς τοῦ Φυλακίδαο.[698,698]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 695 to MILESTONE 710
+======================================================================
+ These, harnessed in their armour, in the forefront of the great-souled Phthians, [700] were fighting in defence of the ships together with the Boeotians. And Aias, the swift son of Oïleus, would no more in any wise depart from the side of Aias, son of Telamon, no not for an instant; but even as in fallow land two wine-dark oxen with one accord strain at the jointed plough, and about [705] the roots of their horns oozeth up the sweat in streams—the twain the polished yoke alone holdeth apart as they labour through the furrow, till the plough cutteth to the limit or the field; even in such wise did the two Aiantes take their stand and abide each hard by the other's side.
+----------------------------------------------------------------------
+from line 699 to line 707
+----------------------------------------------------------------------
+οἳ μὲν πρὸ Φθίων μεγαθύμων θωρηχθέντες ναῦφιν ἀμυνόμενοι μετὰ Βοιωτῶν ἐμάχοντο·[699,700]
+Αἴας δ̓ οὐκέτι πάμπαν Ὀϊλῆος ταχὺς υἱὸς ἵστατ̓ ἀπ̓ Αἴαντος Τελαμωνίου οὐ δ̓ ἠβαιόν, ἀλλ̓ ὥς τ̓ ἐν νειῷ βόε οἴνοπε πηκτὸν ἄροτρον ἶσον θυμὸν ἔχοντε τιταίνετον·[701,704]
+ἀμφὶ δ̓ ἄρά σφι πρυμνοῖσιν κεράεσσι πολὺς ἀνακηκίει ἱδρώς·[704,705]
+τὼ μέν τε ζυγὸν οἶον ἐΰξοον ἀμφὶς ἐέργει ἱεμένω κατὰ ὦλκα·[706,707]
+τέμει δέ τε τέλσον ἀρούρης·[707,707]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 705 to MILESTONE 715
+======================================================================
+ After the son of Telamon verily there followed many valiant hosts of his comrades, [710] who would ever take from him his shield, whenso weariness and sweat came upon his limbs.
+----------------------------------------------------------------------
+from line 708 to line 711
+----------------------------------------------------------------------
+ὣς τὼ παρβεβαῶτε μάλ̓ ἕστασαν ἀλλήλοιιν.[708,708]
+ἀλλ̓ ἤτοι Τελαμωνιάδῃ πολλοί τε καὶ ἐσθλοὶ λαοὶ ἕπονθ̓ ἕταροι, οἵ οἱ σάκος ἐξεδέχοντο ὁππότε μιν κάματός τε καὶ ἱδρὼς γούναθ̓ ἵκοιτο.[709,711]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 710 to MILESTONE 722
+======================================================================
+ But the Locrians followed not with the great-hearted son of Oïleus, for their hearts abode not steadfast in close fight, seeing they had no brazen helms with thick plumes of horse-hair, [715] neither round shields, nor spears of ash, but trusting in bows and well-twisted slings of sheep's wool had they followed with him to Ilios; with these thereafter they shot thick and fast, and sought to break the battalions of the Trojans. So the one part in front with their war-gear, richly dight, [720] fought with the Trojans and with Hector in his harness of bronze, and the others behind kept shooting from their cover; and the Trojans bethought them no more of fight, for the arrows confounded them. [722]
+----------------------------------------------------------------------
+from line 712 to line 722
+----------------------------------------------------------------------
+οὐ δ̓ ἄῤ Ὀϊλιάδῃ μεγαλήτορι Λοκροὶ ἕποντο·[712,712]
+οὐ γάρ σφι σταδίῃ ὑσμίνῃ μίμνε φίλον κῆρ·[713,713]
+οὐ γὰρ ἔχον κόρυθας χαλκήρεας ἱπποδασείας, οὐ δ̓ ἔχον ἀσπίδας εὐκύκλους καὶ μείλινα δοῦρα, ἀλλ̓ ἄρα τόξοισιν καὶ ἐϋστρεφεῖ οἶος ἀώτῳ Ἴλιον εἰς ἅμ̓ ἕποντο πεποιθότες, οἷσιν ἔπειτα ταρφέα βάλλοντες Τρώων ῥήγνυντο φάλαγγας·[714,718]
+δή ῥα τόθ̓ οἳ μὲν πρόσθε σὺν ἔντεσι δαιδαλέοισι μάρναντο Τρωσίν τε καὶ Ἕκτορι χαλκοκορυστῇ, οἳ δ̓ ὄπιθεν βάλλοντες ἐλάνθανον·[719,721]
+οὐ δέ τι χάρμης Τρῶες μιμνήσκοντο·[721,722]
+συνεκλόνεον γὰρ ὀϊστοί.[722,722]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=723 END=753
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 723 to MILESTONE 730
+======================================================================
+ 
+Then in sorry wise would the Trojans have given ground from the ships and huts unto windy Ilios, [725] had not Polydamas drawn nigh to bold Hector, and said: "Hector, hard to deal with art thou, that thou shouldest hearken to words of persuasion.
+----------------------------------------------------------------------
+from line 723 to line 726
+----------------------------------------------------------------------
+ἔνθά κε λευγαλέως νηῶν ἄπο καὶ κλισιάων Τρῶες ἐχώρησαν προτὶ Ἴλιον ἠνεμόεσσαν, εἰ μὴ Πουλυδάμας θρασὺν Ἕκτορα εἶπε παραστάς·[723,725]
+Ἕκτορ ἀμήχανός ἐσσι παραρρητοῖσι πιθέσθαι.[726,726]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 725 to MILESTONE 730
+======================================================================
+ Forasmuch as god has given to thee as to none other works of war, therefore in counsel too art thou minded to have wisdom beyond all; but in no wise shalt thou be able of thine own self to compass all things.
+----------------------------------------------------------------------
+from line 727 to line 729
+----------------------------------------------------------------------
+οὕνεκά τοι περὶ δῶκε θεὸς πολεμήϊα ἔργα τοὔνεκα καὶ βουλῇ ἐθέλεις περιίδμεναι ἄλλων·[727,728]
+ἀλλ̓ οὔ πως ἅμα πάντα δυνήσεαι αὐτὸς ἑλέσθαι.[729,729]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 725 to MILESTONE 735
+======================================================================
+ [730] To one man hath God given works of war, to another the dance, to another the lyre and song, and in the breast of another Zeus, whose voice is borne afar, putteth a mind of understanding, wherefrom many men get profit, and many he saveth; but he knoweth it best himself.
+----------------------------------------------------------------------
+from line 730 to line 735
+----------------------------------------------------------------------
+ἄλλῳ μὲν γὰρ ἔδωκε θεὸς πολεμήϊα ἔργα, ἄλλῳ δ̓ ὀρχηστύν, ἑτέρῳ κίθαριν καὶ ἀοιδήν, ἄλλῳ δ̓ ἐν στήθεσσι τιθεῖ νόον εὐρύοπα Ζεὺς ἐσθλόν, τοῦ δέ τε πολλοὶ ἐπαυρίσκοντ̓ ἄνθρωποι, καί τε πολέας ἐσάωσε, μάλιστα δὲ καὐτὸς ἀνέγνω.[730,734]
+αὐτὰρ ἐγὼν ἐρέω ὥς μοι δοκεῖ εἶναι ἄριστα·[735,735]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 730 to MILESTONE 740
+======================================================================
+ [735] So will I speak what seemeth to me to be best.
+----------------------------------------------------------------------
+from line 736 to line 736
+----------------------------------------------------------------------
+πάντῃ γάρ σε περὶ στέφανος πολέμοιο δέδηε·[736,736]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 735 to MILESTONE 740
+======================================================================
+ Behold all about thee blazeth a circle of war, and the great-souled Trojans, now that they have passed over the wall, are some of them standing aloof with their arms, and others are fighting, fewer men against more, scattered among the ships.
+----------------------------------------------------------------------
+from line 737 to line 740
+----------------------------------------------------------------------
+Τρῶες δὲ μεγάθυμοι ἐπεὶ κατὰ τεῖχος ἔβησαν οἳ μὲν ἀφεστᾶσιν σὺν τεύχεσιν, οἳ δὲ μάχονται παυρότεροι πλεόνεσσι κεδασθέντες κατὰ νῆας.[737,739]
+ἀλλ̓ ἀναχασσάμενος κάλει ἐνθάδε πάντας ἀρίστους·[740,740]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 735 to MILESTONE 750
+======================================================================
+ [740] Nay, fall thou back, and call hither all the bravest. Then shall we consider all manner of counsel, whether we shall fall upon the many-benched ships, if so be the god willeth to give us victory, or thereafter shall return unscathed back from the ships. Verily, for myself, [745] I fear lest the Achaeans shall pay back the debt of yesterday, seeing there abideth by the ships a man insatiate of war, who no longer, methinks, will hold him utterly aloof from battle."
+----------------------------------------------------------------------
+from line 741 to line 747
+----------------------------------------------------------------------
+ἔνθεν δ̓ ἂν μάλα πᾶσαν ἐπιφρασσαίμεθα βουλὴν ἤ κεν ἐνὶ νήεσσι πολυκλήϊσι πέσωμεν αἴ κ̓ ἐθέλῃσι θεὸς δόμεναι κράτος, ἦ κεν ἔπειτα πὰρ νηῶν ἔλθωμεν ἀπήμονες.[741,744]
+ἦ γὰρ ἔγωγε δείδω μὴ τὸ χθιζὸν ἀποστήσωνται Ἀχαιοὶ χρεῖος, ἐπεὶ παρὰ νηυσὶν ἀνὴρ ἆτος πολέμοιο μίμνει, ὃν οὐκέτι πάγχυ μάχης σχήσεσθαι ὀΐω.[744,747]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 745 to MILESTONE 753
+======================================================================
+
+So spake Polydamas, and his prudent counsel was well pleasing unto Hector, and forthwith he leapt in his armour from his chariot to the ground; [750] and he spake and addressed him with winged words:
+----------------------------------------------------------------------
+from line 748 to line 752
+----------------------------------------------------------------------
+ὣς φάτο Πουλυδάμας, ἅδε δ̓ Ἕκτορι μῦθος ἀπήμων, αὐτίκα δ̓ ἐξ ὀχέων σὺν τεύχεσιν ἆλτο χαμᾶζε καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·[748,750]
+Πουλυδάμα σὺ μὲν αὐτοῦ ἐρύκακε πάντας ἀρίστους, αὐτὰρ ἐγὼ κεῖσ̓ εἶμι καὶ ἀντιόω πολέμοιο·[751,752]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 750 to MILESTONE 753
+======================================================================
+ "Polydamas, do thou hold back here all the bravest, but I will go thither and confront the war, and quickly will I come again, when to the full I have laid on them my charge." 
+----------------------------------------------------------------------
+from line 753 to line 753
+----------------------------------------------------------------------
+αἶψα δ̓ ἐλεύσομαι αὖτις ἐπὴν εὖ τοῖς ἐπιτείλω.[753,753]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=754 END=787
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 754 to MILESTONE 760
+======================================================================
+ 
+So spake he, and set forth, in semblance like a snowy mountain, [755] and with loud shouting sped he through the Trojans and allies. And they hasted one and all toward the kindly Polydamas, son of Panthous when they heard the voice of Hector.
+----------------------------------------------------------------------
+from line 754 to line 757
+----------------------------------------------------------------------
+ἦ ῥα, καὶ ὁρμήθη ὄρεϊ νιφόεντι ἐοικὼς κεκλήγων, διὰ δὲ Τρώων πέτετ̓ ἠδ̓ ἐπικούρων.[754,755]
+οἳ δ̓ ἐς Πανθοΐδην ἀγαπήνορα Πουλυδάμαντα πάντες ἐπεσσεύοντ̓, ἐπεὶ Ἕκτορος ἔκλυον αὐδήν.[756,757]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 755 to MILESTONE 765
+======================================================================
+ But he ranged through the foremost fighters, in quest of Deïphobus, and the valiant prince Helenus, and Adamas, son of Asius, and Asius, son of Hyrtacus, [760] if haply he might find them.
+----------------------------------------------------------------------
+from line 758 to line 761
+----------------------------------------------------------------------
+αὐτὰρ ὃ Δηΐφοβόν τε βίην θ̓ Ἑλένοιο ἄνακτος Ἀσιάδην τ̓ Ἀδάμαντα καὶ Ἄσιον Ὑρτάκου υἱὸν φοίτα ἀνὰ προμάχους διζήμενος, εἴ που ἐφεύροι.[758,760]
+τοὺς δ̓ εὗῤ οὐκέτι πάμπαν ἀπήμονας οὐ δ̓ ἀνολέθρους·[761,761]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 760 to MILESTONE 765
+======================================================================
+ But he found them no more in any wise unscathed or free from bane, but some were lying at the sterns of the ships of the Achaeans, slain by the hands of the Argives, and some were within the wall, smitten by darts or wounded with spear-thrusts.
+----------------------------------------------------------------------
+from line 762 to line 764
+----------------------------------------------------------------------
+ἀλλ̓ οἳ μὲν δὴ νηυσὶν ἔπι πρυμνῇσιν Ἀχαιῶν χερσὶν ὑπ̓ Ἀργείων κέατο ψυχὰς ὀλέσαντες, οἳ δ̓ ἐν τείχει ἔσαν βεβλημένοι οὐτάμενοί τε.[762,764]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 760 to MILESTONE 775
+======================================================================
+ [765] But one he presently found on the left of the tearful battle, even goodly Alexander, the lord of fair-tressed Helen, heartening his comrades and urging them on to fight; and he drew near and spake to him with words of shame:
+"Evil Paris, most fair to look upon, thou that art mad after women, thou beguiler, [770] where, I pray thee, is Deïphobus, and the valiant prince Helenus, and Adamas, son of Asius, and Asius, son of Hyrtacus?
+----------------------------------------------------------------------
+from line 765 to line 771
+----------------------------------------------------------------------
+τὸν δὲ τάχ̓ εὗρε μάχης ἐπ̓ ἀριστερὰ δακρυοέσσης δῖον Ἀλέξανδρον Ἑλένης πόσιν ἠϋκόμοιο θαρσύνονθ̓ ἑτάρους καὶ ἐποτρύνοντα μάχεσθαι, ἀγχοῦ δ̓ ἱστάμενος προσέφη αἰσχροῖς ἐπέεσσι·[765,768]
+Δύσπαρι εἶδος ἄριστε γυναιμανὲς ἠπεροπευτὰ ποῦ τοι Δηΐφοβός τε βίη θ̓ Ἑλένοιο ἄνακτος Ἀσιάδης τ̓ Ἀδάμας ἠδ̓ Ἄσιος Ὑρτάκου υἱός;[769,771]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 770 to MILESTONE 775
+======================================================================
+ Aye, and where, tell me, is Othryoneus?
+----------------------------------------------------------------------
+from line 772 to line 772
+----------------------------------------------------------------------
+ποῦ δέ τοι Ὀθρυονεύς;[772,772]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 770 to MILESTONE 775
+======================================================================
+ Now is steep Ilios wholly plunged into ruin; now, thou mayest see, is utter destruction sure."
+----------------------------------------------------------------------
+from line 772 to line 773
+----------------------------------------------------------------------
+νῦν ὤλετο πᾶσα κατ̓ ἄκρης Ἴλιος αἰπεινή·[772,773]
+νῦν τοι σῶς αἰπὺς ὄλεθρος.[773,773]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 770 to MILESTONE 775
+======================================================================
+
+Then spake unto him again godlike Alexander:
+----------------------------------------------------------------------
+from line 774 to line 774
+----------------------------------------------------------------------
+τὸν δ̓ αὖτε προσέειπεν Ἀλέξανδρος θεοειδής·[774,774]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 770 to MILESTONE 780
+======================================================================
+ [775] "Hector, seeing it is thy mind to blame one in whom is no blame, at some other time have I haply withdrawn me from war rather than now, for my mother bare not even me wholly a weakling.
+----------------------------------------------------------------------
+from line 775 to line 777
+----------------------------------------------------------------------
+Ἕκτορ ἐπεί τοι θυμὸς ἀναίτιον αἰτιάασθαι, ἄλλοτε δή ποτε μᾶλλον ἐρωῆσαι πολέμοιο μέλλω, ἐπεὶ οὐ δ̓ ἐμὲ πάμπαν ἀνάλκιδα γείνατο μήτηρ·[775,777]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 775 to MILESTONE 785
+======================================================================
+ For from the time thou didst rouse the battle of thy comrades beside the ships, even from that time we abide here and have dalliance with the Danaans [780] ceaselessly; but our comrades are dead of whom thou makest question. Only Deïphobus and the valiant prince Helenus have departed, both of them smitten in the arm with long spears; yet the son of Cronos warded off death.
+----------------------------------------------------------------------
+from line 778 to line 783
+----------------------------------------------------------------------
+ἐξ οὗ γὰρ παρὰ νηυσὶ μάχην ἤγειρας ἑταίρων, ἐκ τοῦ δ̓ ἐνθάδ̓ ἐόντες ὁμιλέομεν Δαναοῖσι νωλεμέως·[778,780]
+ἕταροι δὲ κατέκταθεν οὓς σὺ μεταλλᾷς.[780,780]
+οἴω Δηΐφοβός τε βίη θ̓ Ἑλένοιο ἄνακτος οἴχεσθον, μακρῇσι τετυμμένω ἐγχείῃσιν ἀμφοτέρω κατὰ χεῖρα·[781,783]
+φόνον δ̓ ἤμυνε Κρονίων.[783,783]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 780 to MILESTONE 787
+======================================================================
+ But now lead thou on whithersoever thy heart and spirit bid thee, [785] and as for us, we will follow with thee eagerly, nor, methinks, shall we be anywise wanting in valour, so far as we have strength; but beyond his strength may no man fight, how eager soever he be." [787]
+----------------------------------------------------------------------
+from line 784 to line 787
+----------------------------------------------------------------------
+νῦν δ̓ ἄρχ̓ ὅππῃ σε κραδίη θυμός τε κελεύει·[784,784]
+ἡμεῖς δ̓ ἐμμεμαῶτες ἅμ̓ ἑψόμεθ̓, οὐ δέ τί φημι ἀλκῆς δευήσεσθαι, ὅση δύναμίς γε πάρεστι.[785,786]
+πὰρ δύναμιν δ̓ οὐκ ἔστι καὶ ἐσσύμενον πολεμίζειν.[787,787]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=788 END=820
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 788 to MILESTONE 795
+======================================================================
+ 
+So spake the warrior, and turned his brother's mind; and they set out to go where the battle and the din were fiercest, [790] round about Cebriones and peerless Polydamas, and Phalces, and Orthaeus, and godlike Polyphetes, and Palmys, and Ascanius, and Morys, son of Hippotion, who had come from deep-soiled Ascania on the morn before to relieve their fellows, and now Zeus roused them to fight.
+----------------------------------------------------------------------
+from line 788 to line 794
+----------------------------------------------------------------------
+ὣς εἰπὼν παρέπεισεν ἀδελφειοῦ φρένας ἥρως·[788,788]
+βὰν δ̓ ἴμεν ἔνθα μάλιστα μάχη καὶ φύλοπις ἦεν ἀμφί τε Κεβριόνην καὶ ἀμύμονα Πουλυδάμαντα Φάλκην Ὀρθαῖόν τε καὶ ἀντίθεον Πολυφήτην Πάλμύν τ̓ Ἀσκάνιόν τε Μόρυν θ̓ υἷ̓ Ἱπποτίωνος, οἵ ῥ̓ ἐξ Ἀσκανίης ἐριβώλακος ἦλθον ἀμοιβοὶ ἠοῖ τῇ προτέρῃ·[789,794]
+τότε δὲ Ζεὺς ὦρσε μάχεσθαι.[794,794]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 790 to MILESTONE 805
+======================================================================
+ [795] And they came on like the blast of direful winds that rusheth upon the earth beneath the thunder of father Zeus, and with wondrous din mingleth with the sea, and in its track are many surging waves of the loud-resounding sea, high-arched and white with foam, some in the van and after them others; [800] even so the Trojans, in close array, some in the van and after them others, flashing with bronze, followed with their leaders.
+----------------------------------------------------------------------
+from line 795 to line 801
+----------------------------------------------------------------------
+οἳ δ̓ ἴσαν ἀργαλέων ἀνέμων ἀτάλαντοι ἀέλλῃ, ἥ ῥά θ̓ ὑπὸ βροντῆς πατρὸς Διὸς εἶσι πέδον δέ, θεσπεσίῳ δ̓ ὁμάδῳ ἁλὶ μίσγεται, ἐν δέ τε πολλὰ κύματα παφλάζοντα πολυφλοίσβοιο θαλάσσης κυρτὰ φαληριόωντα, πρὸ μέν τ̓ ἄλλ̓, αὐτὰρ ἐπ̓ ἄλλα·[795,799]
+ὣς Τρῶες πρὸ μὲν ἄλλοι ἀρηρότες, αὐτὰρ ἐπ̓ ἄλλοι, χαλκῷ μαρμαίροντες ἅμ̓ ἡγεμόνεσσιν ἕποντο.[800,801]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 800 to MILESTONE 805
+======================================================================
+ And Hector, son of Priam, led them, the peer of Ares, the bane of mortals.
+----------------------------------------------------------------------
+from line 802 to line 803
+----------------------------------------------------------------------
+Ἕκτωρ δ̓ ἡγεῖτο βροτολοιγῷ ἶσος Ἄρηϊ Πριαμίδης·[802,803]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 800 to MILESTONE 810
+======================================================================
+ Before him he held his shield that was well-balanced upon every side, his shield thick with hides, whereon abundant bronze had been welded, [805] and about his temples waved the crest of his shining helm.
+----------------------------------------------------------------------
+from line 803 to line 807
+----------------------------------------------------------------------
+πρόσθεν δ̓ ἔχεν ἀσπίδα πάντοσ̓ ἐΐσην ῥινοῖσιν πυκινήν, πολλὸς δ̓ ἐπελήλατο χαλκός·[803,804]
+ἀμφὶ δέ οἱ κροτάφοισι φαεινὴ σείετο πήληξ.[805,805]
+πάντῃ δ̓ ἀμφὶ φάλαγγας ἐπειρᾶτο προποδίζων, εἴ πώς οἱ εἴξειαν ὑπασπίδια προβιβῶντι·[806,807]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 805 to MILESTONE 810
+======================================================================
+ And everywhere on this side and on that he strode forward and made trial of the battalions, if so be they would give way before him, as he advanced under cover of his shield; yet could he not confound the heart in the breast of the Achaeans.
+----------------------------------------------------------------------
+from line 808 to line 809
+----------------------------------------------------------------------
+ἀλλ̓ οὐ σύγχει θυμὸν ἐνὶ στήθεσσιν Ἀχαιῶν.[808,808]
+Αἴας δὲ πρῶτος προκαλέσσατο μακρὰ βιβάσθων·[809,809]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 805 to MILESTONE 810
+======================================================================
+ And Aias came on with long strides, and was first to challenge him:
+----------------------------------------------------------------------
+from line 810 to line 810
+----------------------------------------------------------------------
+δαιμόνιε σχεδὸν ἐλθέ·[810,810]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 805 to MILESTONE 815
+======================================================================
+ [810] "Good sir, draw nigh; wherefore seekest thou thus vainly to affright the Argives?
+----------------------------------------------------------------------
+from line 810 to line 811
+----------------------------------------------------------------------
+τί ἢ δειδίσσεαι αὔτως Ἀργείους;[810,811]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 810 to MILESTONE 815
+======================================================================
+ In no wise, I tell thee, are we ignorant of battle, but by the evil scourge of Zeus were we Achaeans subdued.
+----------------------------------------------------------------------
+from line 811 to line 814
+----------------------------------------------------------------------
+οὔ τοί τι μάχης ἀδαήμονές εἰμεν, ἀλλὰ Διὸς μάστιγι κακῇ ἐδάμημεν Ἀχαιοί.[811,812]
+ἦ θήν πού τοι θυμὸς ἐέλπεται ἐξαλαπάξειν νῆας·[813,814]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 810 to MILESTONE 815
+======================================================================
+ Verily, thy heart hopeth, I ween, to despoil our ships, but be sure we too have hands to defend them.
+----------------------------------------------------------------------
+from line 814 to line 814
+----------------------------------------------------------------------
+ἄφαρ δέ τε χεῖρες ἀμύνειν εἰσὶ καὶ ἡμῖν.[814,814]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 810 to MILESTONE 820
+======================================================================
+ [815] In good sooth your well-peopled city is like, ere that, to be taken and laid waste beneath our hands.
+----------------------------------------------------------------------
+from line 815 to line 816
+----------------------------------------------------------------------
+ἦ κε πολὺ φθαίη εὖ ναιομένη πόλις ὑμὴ χερσὶν ὑφ̓ ἡμετέρῃσιν ἁλοῦσά τε περθομένη τε.[815,816]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 815 to MILESTONE 820
+======================================================================
+ And for thine own self, I declare that the day is near when in flight thou shalt pray to father Zeus and the other immortals, that thy fair-maned horses may be swifter than falcons— 
+----------------------------------------------------------------------
+from line 817 to line 820
+----------------------------------------------------------------------
+σοὶ δ̓ αὐτῷ φημὶ σχεδὸν ἔμμεναι ὁππότε φεύγων ἀρήσῃ Διὶ πατρὶ καὶ ἄλλοις ἀθανάτοισι θάσσονας ἰρήκων ἔμεναι καλλίτριχας ἵππους, οἵ σε πόλιν δ̓ οἴσουσι κονίοντες πεδίοιο.[817,820]
+
+########################################################################
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+ START=821 END=NULL
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+======================================================================
+from MILESTONE 821 to MILESTONE 825
+======================================================================
+ 
+ Even as he thus spake, there flew forth a bird upon the right hand, an eagle of lofty flight; and thereat the host of the Achaeans shouted aloud, heartened by the omen; but glorious Hector made answer:
+----------------------------------------------------------------------
+from line 821 to line 823
+----------------------------------------------------------------------
+ὣς ἄρα οἱ εἰπόντι ἐπέπτατο δεξιὸς ὄρνις αἰετὸς ὑψιπέτης·[821,822]
+ἐπὶ δ̓ ἴαχε λαὸς Ἀχαιῶν θάρσυνος οἰωνῷ·[822,823]
+ὃ δ̓ ἀμείβετο φαίδιμος Ἕκτωρ·[823,823]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 821 to MILESTONE 825
+======================================================================
+ "Aias, witless in speech, thou braggart, what a thing hast thou said.
+----------------------------------------------------------------------
+from line 824 to line 824
+----------------------------------------------------------------------
+Αἶαν ἁμαρτοεπὲς βουγάϊε ποῖον ἔειπες·[824,824]
+
+########################################################################
+
+
+
+======================================================================
+from MILESTONE 821 to MILESTONE 830
+======================================================================
+ [825] I would that I mine own self were all my days as surely the son of Zeus, that beareth the aegis, and my mother were the queenly Hera, and that I were honoured even as are Athene and Apollo, as verily this day beareth evil for the Argives, one and all; and among them shalt thou too be slain, if thou have the heart [830]
+----------------------------------------------------------------------
+from line 825 to line 837
+----------------------------------------------------------------------
+εἰ γὰρ ἐγὼν οὕτω γε Διὸς πάϊς αἰγιόχοιο εἴην ἤματα πάντα, τέκοι δέ με πότνια Ἥρη, τιοίμην δ̓ ὡς τίετ̓ Ἀθηναίη καὶ Ἀπόλλων, ὡς νῦν ἡμέρη ἥδε κακὸν φέρει Ἀργείοισι πᾶσι μάλ̓, ἐν δὲ σὺ τοῖσι πεφήσεαι, αἴ κε ταλάσσῃς μεῖναι ἐμὸν δόρυ μακρόν, ὅ τοι χρόα λειριόεντα δάψει·[825,831]
+ἀτὰρ Τρώων κορέεις κύνας ἠδ̓ οἰωνοὺς δημῷ καὶ σάρκεσσι πεσὼν ἐπὶ νηυσὶν Ἀχαιῶν.[831,832]
+ὣς ἄρα φωνήσας ἡγήσατο·[833,833]
+τοὶ δ̓ ἅμ̓ ἕποντο ἠχῇ θεσπεσίῃ, ἐπὶ δ̓ ἴαχε λαὸς ὄπισθεν.[833,834]
+Ἀργεῖοι δ̓ ἑτέρωθεν ἐπίαχον, οὐ δὲ λάθοντο ἀλκῆς, ἀλλ̓ ἔμενον Τρώων ἐπιόντας ἀρίστους.[835,836]
+ἠχὴ δ̓ ἀμφοτέρων ἵκετ̓ αἰθέρα καὶ Διὸς αὐγάς.[837,837]
+
+########################################################################

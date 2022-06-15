@@ -1,0 +1,133 @@
+/*
+-------------------------------------------------------------------------------*/
+
+#leftSide {
+min-height: 500px;
+}
+
+.catNavigation {
+/*min-height: 500px;*/
+color: #000;
+}
+
+.catNavigation ul {
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+margin: 0;
+}
+
+/*riduco rientro*/
+.catNavigation ul.children {
+padding-left: 30px
+}
+
+#num-categories, #order-categories,
+#lemma-categories, #lemma-fillers {
+padding: 0;
+}
+
+.catNavigation li {
+margin:0;
+padding: 0;
+_height: 1%;
+}
+
+.catNavigation a, .catNavigation a:active {
+/*font-size: 1.2em; */
+line-height: 1.4;
+color: #0f67a1;
+/*display: block;*/
+/* padding:0.2em 10px; */
+padding:0.2em 5px;
+margin: 0;
+text-decoration: none;
+position: relative;
+border-bottom:1px solid #EEEEEE;
+}
+
+.catNavigation a:hover {
+background: #eee;
+color: #192839;
+border-bottom: 1px solid #ddd;
+}
+
+span.plus {
+  display: block;
+  float: left;
+/*  width: 15px; */
+padding-top:0.2em;
+padding-bottom:0.2em;
+line-height: 1.4;
+  text-align: center;
+  margin-left: -10px;
+}
+
+
+.jq-box{
+padding: 5px 20px 20px 20px;
+background: #fafafa;
+border: 1px solid #aaa;
+}
+
+.section-title{
+  border: none;
+  color: #fff; 
+  padding: 6px 20px;
+  font-size: 1.4em;
+  margin: 0;
+}
+
+#lemma-catNavigation .section-title{
+  background: #FF8040;
+}
+
+#gen-catNavigation .section-title{
+  background: #8D38C9;
+}
+
+#all a, #all a:active, #all a:hover{
+  color: #8D38C9; 
+  border: none;
+  background: none;
+}
+
+#sel-lemma a, #sel-lemma a:active, #sel-lemma a:hover{
+  color: #FF8040; 
+  border: none;
+  background: none;
+}
+#sel-lemma a .strong{
+  font-weight:bold;
+}
+.catNavigation .roundBottom{
+  margin: 0 0 1em 0;
+}
+
+
+
+
+.round{
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+}
+.roundTop{
+-moz-border-radius-topleft:         6px;
+-moz-border-radius-topright:        6px;
+-webkit-border-top-left-radius:     6px;
+-webkit-border-top-right-radius:    6px;
+border-radius-topleft:              6px;
+border-radius-topright:             6px;
+}  
+                                 
+.roundBottom{
+-moz-border-radius-bottomleft:      6px;
+-moz-border-radius-bottomright:     6px;
+-webkit-border-bottom-left-radius:  6px;
+-webkit-border-bottom-right-radius: 6px;
+border-radius-bottomleft:           6px;
+border-radius-bottomright:          6px;
+border-top: none;
+}
+

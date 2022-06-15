@@ -1,0 +1,190 @@
+[% opere = {
+'urn:cts:greekLit:tlg0012.tlg001.perseus-grc1'   => 'Iliad',
+'urn:cts:greekLit:tlg0012.tlg002.perseus-grc1'   => 'Odyssey'
+}
+%]
+
+
+[% MACRO tokenInfo BLOCK %]
+<script type="text/javascript"> pageTokens['[% token.id %]']={lemma: '[% token.lemma %]',
+posagdt:[% SWITCH token.posagdt %]
+[%   CASE 'l' %]'Article'
+[%   CASE 'n' %]'Noun'
+[%   CASE 'a' %]'Adjective'
+[%   CASE 'p' %]'Pronoun'
+[%   CASE 'v' %]'Verb'
+[%   CASE 'd' %]'Adverb'
+[%   CASE 'r' %]'Adposition'
+[%   CASE 'c' %]'Conjunction'
+[%   CASE 'm' %]'Numeral'
+[%   CASE 'i' %]'Interjection'
+[%   CASE 'g' %]'Particle'
+[%   CASE 'u' %]'Punctuation'
+[%   CASE %]''                       
+[% END %]
+,pers: [% SWITCH token.pers %]
+[%   CASE '1' %]'first person'
+[%   CASE '2' %]'second person'
+[%   CASE '3' %]'third person'
+[%   CASE %]''                       
+[% END %]
+, num: [% SWITCH token.num %]
+[%   CASE 's' %]'singular'
+[%   CASE 'p' %]'plural'
+[%   CASE 'd' %]'dual'
+[%   CASE %]''                       
+[% END %]
+,tense: [% SWITCH token.tense %]
+[%   CASE 'p' %]'present'
+[%   CASE 'i' %]'imperfect'
+[%   CASE 'r' %]'perfect'
+[%   CASE 'l' %]'plusquamperfect'
+[%   CASE 't' %]'future perfect'
+[%   CASE 'f' %]'future'
+[%   CASE 'a' %]'aorist'
+[%   CASE %]''                       
+[% END %]
+,mood: [% SWITCH token.mood %]
+[%   CASE 'i' %]'indicative'
+[%   CASE 's' %]'subjunctive'
+[%   CASE 'n' %]'infinitive'
+[%   CASE 'm' %]'imperative'
+[%   CASE 'p' %]'participle'
+[%   CASE 'o' %]'optative'
+[%   CASE %]''                       
+[% END %]
+,voice: [% SWITCH token.voice %]
+[%   CASE 'a' %]'active'
+[%   CASE 'p' %]'passive'
+[%   CASE 'm' %]'middle'
+[%   CASE 'e' %]'medio-passive'
+[%   CASE %]''                       
+[% END %]
+,gend: [% SWITCH token.gend %]
+[%   CASE 'm' %]'masculine'
+[%   CASE 'f' %]'feminine'
+[%   CASE 'n' %]'neuter'
+[%   CASE %]''                       
+[% END %]
+,_case: [% SWITCH token.case %]
+[%   CASE 'n' %]'nominative'
+[%   CASE 'g' %]'genitive'
+[%   CASE 'd' %]'dative' 
+[%   CASE 'a' %]'accusative'                           
+[%   CASE 'v' %]'vocative'                           
+[%   CASE %]''                       
+[% END %]
+,degree: [% SWITCH token.degree %]
+[%   CASE 'p' %]'positive'
+[%   CASE 'c' %]'comparative'
+[%   CASE 's' %]'superlative'
+[%   CASE %]''                       
+[% END %]
+};</script>
+[% END %]
+
+[% BLOCK sentenceInfo %]
+[% sentParts = sentRef.match('(.+)#(.+)') %]
+[% op = sentParts.1; part = sentParts.0; %]
+<h6 id="[% sentRef %]" class="quiet sentRef">
+<span>[% opere.$op %]</span>
+<span>; [% part %]</span>
+</h6>
+[% END %]
+
+[% INCLUDE query/listHeader.tt2 listType='Occurrences and Contexts' %]
+
+[% IF pager.previous_page %]
+<a href="#" onclick="javascript:showLemmaPage([% pager.previous_page %])">Previous Page</a>
+[% END %]
+[% IF pager.next_page %]
+<a href="#" onclick="javascript:showLemmaPage([% pager.next_page %])">Next Page</a>
+[% END %]
+    <hr/>
+
+[% IF cardinality!=0 -%]
+    [% curFrase='' %]
+<script type="text/javascript"> var pageTokens={}; var pageSentence={};</script>
+    [% FOREACH t IN tokensVerbali -%]
+        [% s=t.get_column('sentence') -%]
+        [% f=t.get_column('forma') -%]
+
+        [% IF s != curFrase -%]
+           [% IF curFrase != '' -%]</p>
+           [% FOREACH st IN sentTree -%]
+              [% IF st.get_column('sentence') == curFrase %]
+                 [% iname = '/src/verbo/trees/' _ st.get_column('root') _ '.png' %]
+                 <img src="[% c.uri_for(iname) %]">        
+                 <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>     
+              [% END -%]
+           [% END -%]
+           <hr>
+           [% END -%]
+           [% PROCESS sentenceInfo sentRef = s %]
+           <p>
+           [% curFrase=s -%]
+        [% END -%]
+
+        [% tokenInfo( token = t ) %]
+        <span id='[% t.id %]' class="token [% IF t.posagdt=='u'%]punct[% ELSE %]wordform[% END %][% IF t.posagdt=='v'%] verb1[% END %]">[% f %]</span>
+    [% END -%]
+
+    [% IF curFrase != '' -%]</p>
+       [% FOREACH st IN sentTree -%]
+          [% IF st.get_column('sentence') == curFrase %]
+            [% iname = '/src/verbo/trees/' _ st.get_column('root') _ '.png' %]
+            <img src="[% c.uri_for(iname) %]">
+            <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>        
+          [% END -%]
+       [% END -%]
+    [% END -%]
+[% ELSE -%]
+    [% curFrase='' %]
+    [% FOREACH t IN tokensVerbali -%]
+      [% s=t.get_column('sentence') -%]
+      [% f=t.get_column('forma') -%]
+      [% IF s != curFrase -%]
+      [% IF curFrase != '' -%]</p>
+      <hr>
+      [% END -%]
+      [% PROCESS sentenceInfo sentRef = s %]
+      <p>
+      [% curFrase=s -%]
+      [% END -%]
+[% tokenInfo( token = t ) %]
+      <span id='[% t.id %]' class="token [% IF t.posagdt=='u'%]punct[% ELSE %]wordform[% END %][% IF t.posagdt=='v'%] verb1[% END %]">[% f %]</span>
+    [% END -%]
+
+      [% IF curFrase != '' -%]</p>
+      [% END -%]
+
+       [% FOREACH st IN sentTree -%]
+            <script type="text/javascript">$("#" + "[% st.get_column('root') %]").addClass("selected")</script>        
+       [% END -%]
+
+[% END -%]
+
+<!---->
+<script type="text/javascript"> 
+$(".token.wordform").tooltip({ 
+    bodyHandler: function() { 
+        return '<b>' + pageTokens[$(this).attr('id')].posagdt + '</b> inflection' + 
+               '<br/>of lemma <b>' + pageTokens[$(this).attr('id')].lemma + '</b>' + 
+               ((pageTokens[$(this).attr('id')].voice != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].voice + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].mood != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].mood + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].tense != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].tense + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')]._case != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')]._case + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].gend != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].gend + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].num != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].num + '</b>':'') + 
+               ((pageTokens[$(this).attr('id')].degree != '') ? '<br/><b>'  + pageTokens[$(this).attr('id')].degree + '</b>':'');
+    }, 
+    showURL: false 
+});
+
+[% FOREACH a IN arguments -%]
+$("#" + "[% a.get_column('arg_id') %]").addClass("argument")
+[% END %]
+
+
+</script>
+<!---->

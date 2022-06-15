@@ -1,0 +1,491 @@
+array(48) {
+  [0] =>
+  string(5) "15026"
+  [1] =>
+  string(5) "15639"
+  [2] =>
+  string(5) "16656"
+  [3] =>
+  string(5) "17902"
+  [4] =>
+  string(5) "19503"
+  [5] =>
+  string(5) "19628"
+  [6] =>
+  string(5) "19722"
+  [7] =>
+  string(5) "19841"
+  [8] =>
+  string(5) "19919"
+  [9] =>
+  string(5) "20015"
+  [10] =>
+  string(5) "20043"
+  [11] =>
+  string(5) "21617"
+  [12] =>
+  string(5) "21692"
+  [13] =>
+  string(5) "22070"
+  [14] =>
+  string(5) "22494"
+  [15] =>
+  string(5) "22525"
+  [16] =>
+  string(5) "22868"
+  [17] =>
+  string(5) "22971"
+  [18] =>
+  string(5) "24125"
+  [19] =>
+  string(5) "24318"
+  [20] =>
+  string(5) "24476"
+  [21] =>
+  string(5) "24623"
+  [22] =>
+  string(5) "24845"
+  [23] =>
+  string(5) "24936"
+  [24] =>
+  string(5) "25168"
+  [25] =>
+  string(5) "25484"
+  [26] =>
+  string(5) "25647"
+  [27] =>
+  string(5) "25939"
+  [28] =>
+  string(5) "26574"
+  [29] =>
+  string(5) "26839"
+  [30] =>
+  string(5) "26843"
+  [31] =>
+  string(5) "27189"
+  [32] =>
+  string(5) "27449"
+  [33] =>
+  string(5) "27665"
+  [34] =>
+  string(5) "28160"
+  [35] =>
+  string(5) "29188"
+  [36] =>
+  string(5) "29486"
+  [37] =>
+  string(5) "33599"
+  [38] =>
+  string(5) "36084"
+  [39] =>
+  string(5) "36999"
+  [40] =>
+  string(5) "38248"
+  [41] =>
+  string(5) "38456"
+  [42] =>
+  string(5) "40408"
+  [43] =>
+  string(5) "40901"
+  [44] =>
+  string(5) "41091"
+  [45] =>
+  string(5) "42136"
+  [46] =>
+  string(5) "42765"
+  [47] =>
+  string(5) "42976"
+}
+array(48) {
+  [0] =>
+  string(7) "9622404"
+  [1] =>
+  string(7) "9753129"
+  [2] =>
+  string(8) "10903204"
+  [3] =>
+  string(8) "13498276"
+  [4] =>
+  string(8) "18147600"
+  [5] =>
+  string(8) "17514225"
+  [6] =>
+  string(8) "16418704"
+  [7] =>
+  string(8) "16613776"
+  [8] =>
+  string(8) "20675209"
+  [9] =>
+  string(8) "14417209"
+  [10] =>
+  string(8) "16605625"
+  [11] =>
+  string(8) "25613721"
+  [12] =>
+  string(8) "19669225"
+  [13] =>
+  string(8) "26245129"
+  [14] =>
+  string(8) "23116864"
+  [15] =>
+  string(8) "28143025"
+  [16] =>
+  string(8) "21659716"
+  [17] =>
+  string(8) "24830289"
+  [18] =>
+  string(8) "37112464"
+  [19] =>
+  string(8) "28408900"
+  [20] =>
+  string(8) "27888961"
+  [21] =>
+  string(8) "37417689"
+  [22] =>
+  string(8) "37859409"
+  [23] =>
+  string(8) "24314761"
+  [24] =>
+  string(8) "29365561"
+  [25] =>
+  string(8) "22638564"
+  [26] =>
+  string(8) "34386496"
+  [27] =>
+  string(8) "41822089"
+  [28] =>
+  string(8) "29506624"
+  [29] =>
+  string(8) "35426304"
+  [30] =>
+  string(8) "46430596"
+  [31] =>
+  string(8) "28504921"
+  [32] =>
+  string(8) "32467204"
+  [33] =>
+  string(8) "31393609"
+  [34] =>
+  string(8) "28676025"
+  [35] =>
+  string(8) "51179716"
+  [36] =>
+  string(8) "52736644"
+  [37] =>
+  string(8) "66080641"
+  [38] =>
+  string(8) "88172100"
+  [39] =>
+  string(8) "95472441"
+  [40] =>
+  string(8) "59752900"
+  [41] =>
+  string(8) "89226916"
+  [42] =>
+  string(8) "99800100"
+  [43] =>
+  string(9) "115734564"
+  [44] =>
+  string(8) "99740169"
+  [45] =>
+  string(9) "119333776"
+  [46] =>
+  string(9) "107246736"
+  [47] =>
+  string(9) "112954384"
+}
+--------STATS PARAMS-----------
+c=0.75705973
+s=0.01427737
+s2=0.00020384
+linear regression: m=(3962.9170327484); b=(-64136551.546905)
+-------------------------------
+=======================================================
+ID=1  FROM: 1  TO: 7
+GREEK:
+μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην , ἣ μυρί̓ Ἀχαιοῖς ἄλγἐ ἔθηκε , πολλὰς δ̓ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων , αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι , Διὸς δ̓ ἐτελείετο βουλή , ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς .
+-------------------------------------------------------
+ENGLISH:
+
+ [1] 
+ [1] The wrath sing,  goddess, of Peleus' son, Achilles, that destructive wrath which brought countless woes upon the Achaeans, and sent forth to Hades many valiant souls of heroes, and made them themselves spoil for dogs and every bird; thus the plan of Zeus came to fulfillment, [5] from the time when first they parted in strife Atreus' son, king of men, and brilliant Achilles.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(ThewrathsinggoddessofPeleussonAchillesthatdestructivewrathwhichbroughtcountlesswoesupontheAchaeansandsentforthtoHadesmanyvaliantsoulsofheroesandmadethemthemselvesspoilfordogsandeverybirdthustheplanofZeuscametofulfillmentfromthetimewhenfirsttheypartedinstrifeAtreussonkingofmenandbrilliantAchilles)
+****GREEK(μῆνινἄειδεθεὰΠηληϊάδεωἈχιλῆοςοὐλομένηνἣμυρί̓Ἀχαιοῖςἄλγἐἔθηκεπολλὰςδ̓ἰφθίμουςψυχὰςἌϊδιπροΐαψενἡρώωναὐτοὺςδὲἑλώριατεῦχεκύνεσσινοἰωνοῖσίτεπᾶσιΔιὸςδ̓ἐτελείετοβουλήἐξοὗδὴτὰπρῶταδιαστήτηνἐρίσαντεἈτρεΐδηςτεἄναξἀνδρῶνκαὶδῖοςἈχιλλεύς)
+****ENG_LENGTH(296)
+****GREEK_LENGTH(221)
+****ENG(PAAHZAA)
+****GREEK(ΠἈἈἌΔἈἈ)
+****ENG_LENGTH(7)
+****GREEK_LENGTH(7)
+z=0.075888093750833
+pnorm=0.53024593532308
+pnorm_1=0.53024598174804
+pd=0.93950812935385
+
+>>>>>MAIN_SCORE(6.23988073147)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=2  FROM: 8  TO: 8
+GREEK:
+τίς τ̓ ἄρ σφωε θεῶν ἔριδι ξυνέηκε μάχεσθαι ;
+-------------------------------------------------------
+ENGLISH:
+Who then of the gods was it that brought these two together to contend?
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(Whothenofthegodswasitthatbroughtthesetwotogethertocontend)
+****GREEK(τίςτ̓ἄρσφωεθεῶνἔριδιξυνέηκεμάχεσθαι)
+****ENG_LENGTH(57)
+****GREEK_LENGTH(34)
+****ENG()
+****GREEK()
+****ENG_LENGTH(0)
+****GREEK_LENGTH(0)
+z=0.51227571700127
+pnorm=0.69577097117623
+pnorm_1=0.69577096931033
+pd=0.60845805764753
+
+>>>>>MAIN_SCORE(49.682729637876)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=3  FROM: 9  TO: 9
+GREEK:
+Λητοῦς καὶ Διὸς υἱός ·
+-------------------------------------------------------
+ENGLISH:
+The son of Leto and Zeus;
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(ThesonofLetoandZeus)
+****GREEK(ΛητοῦςκαὶΔιὸςυἱός)
+****ENG_LENGTH(19)
+****GREEK_LENGTH(17)
+****ENG(LZ)
+****GREEK(ΛΔ)
+****ENG_LENGTH(2)
+****GREEK_LENGTH(2)
+z=0.25359724704006
+pnorm=0.60009663816653
+pnorm_1=0.60009656568759
+pd=0.79980672366693
+
+>>>>>MAIN_SCORE(22.338517591942)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=4  FROM: 9  TO: 12
+GREEK:
+ὃ γὰρ βασιλῆϊ χολωθεὶς νοῦσον ἀνὰ στρατὸν ὄρσε κακήν , ὀλέκοντο δὲ λαοί , οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα Ἀτρεΐδης ·
+-------------------------------------------------------
+ENGLISH:
+for he in anger against the king roused throughout the host an evil pestilence, and the people began to perish, [10] because upon the priest Chryses the son of Atreus had wrought dishonour.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(forheinangeragainstthekingrousedthroughoutthehostanevilpestilenceandthepeoplebegantoperishbecauseuponthepriestChrysesthesonofAtreushadwroughtdishonour)
+****GREEK(ὃγὰρβασιλῆϊχολωθεὶςνοῦσονἀνὰστρατὸνὄρσεκακήνὀλέκοντοδὲλαοίοὕνεκατὸνΧρύσηνἠτίμασενἀρητῆραἈτρεΐδης)
+****ENG_LENGTH(150)
+****GREEK_LENGTH(96)
+****ENG(CA)
+****GREEK(ΧἈ)
+****ENG_LENGTH(2)
+****GREEK_LENGTH(2)
+z=0.60584166044186
+pnorm=0.72769004878441
+pnorm_1=0.72769009063273
+pd=0.54461990243118
+
+>>>>>MAIN_SCORE(60.766715436584)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=5  FROM: 12  TO: 16
+GREEK:
+ὃ γὰρ ἦλθε θοὰς ἐπὶ νῆας Ἀχαιῶν λυσόμενός τε θύγατρα φέρων τ̓ ἀπερείσἰ ἄποινα , στέμματ̓ ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος χρυσέῳ ἀνὰ σκήπτρῳ , καὶ λίσσετο πάντας Ἀχαιούς , Ἀτρεΐδα δὲ μάλιστα δύω , κοσμήτορε λαῶν ·
+-------------------------------------------------------
+ENGLISH:
+For he had come to the swift ships of the Achaeans to free his daughter, bearing ransom past counting; and in his hands he held the wreaths of Apollo who strikes from afar, on a staff of gold; and he implored all the Achaeans, [15] but most of all the two sons of Atreus, the marshallers of the people:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(ForhehadcometotheswiftshipsoftheAchaeanstofreehisdaughterbearingransompastcountingandinhishandsheheldthewreathsofApollowhostrikesfromafaronastaffofgoldandheimploredalltheAchaeansbutmostofallthetwosonsofAtreusthemarshallersofthepeople)
+****GREEK(ὃγὰρἦλθεθοὰςἐπὶνῆαςἈχαιῶνλυσόμενόςτεθύγατραφέρωντ̓ἀπερείσἰἄποιναστέμματ̓ἔχωνἐνχερσὶνἑκηβόλουἈπόλλωνοςχρυσέῳἀνὰσκήπτρῳκαὶλίσσετοπάνταςἈχαιούςἈτρεΐδαδὲμάλισταδύωκοσμήτορελαῶν)
+****ENG_LENGTH(233)
+****GREEK_LENGTH(170)
+****ENG(AAAA)
+****GREEK(ἈἈἈἈ)
+****ENG_LENGTH(4)
+****GREEK_LENGTH(4)
+z=0.17703655266048
+pnorm=0.57026016091994
+pnorm_1=0.57026013630565
+pd=0.85947967816012
+
+>>>>>MAIN_SCORE(15.142809823152)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=6  FROM: 17  TO: 19
+GREEK:
+Ἀτρεΐδαι τε καὶ ἄλλοι ἐϋκνήμιδες Ἀχαιοί , ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματ̓ ἔχοντες ἐκπέρσαι Πριάμοιο πόλιν , εὖ δ̓ οἴκαδ̓ ἱκέσθαι ·
+-------------------------------------------------------
+ENGLISH:
+"Sons of Atreus, and other well-greaved Achaeans, to you may the gods who have homes upon Olympus grant that you sack the city of Priam, and return safe to your homes;
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(SonsofAtreusandotherwellgreavedAchaeanstoyoumaythegodswhohavehomesuponOlympusgrantthatyousackthecityofPriamandreturnsafetoyourhomes)
+****GREEK(ἈτρεΐδαιτεκαὶἄλλοιἐϋκνήμιδεςἈχαιοίὑμῖνμὲνθεοὶδοῖενὈλύμπιαδώματ̓ἔχοντεςἐκπέρσαιΠριάμοιοπόλινεὖδ̓οἴκαδ̓ἱκέσθαι)
+****ENG_LENGTH(131)
+****GREEK_LENGTH(105)
+****ENG(AAOP)
+****GREEK(ἈἈὈΠ)
+****ENG_LENGTH(4)
+****GREEK_LENGTH(4)
+z=0.21506975641497
+pnorm=0.58514353348273
+pnorm_1=0.58514348088728
+pd=0.82971293303455
+
+>>>>>MAIN_SCORE(18.667550182998)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=7  FROM: 20  TO: 21
+GREEK:
+παῖδα δ̓ ἐμοὶ λύσαιτε φίλην , τὰ δ̓ ἄποινα δέχεσθαι , ἁζόμενοι Διὸς υἱὸν ἑκηβόλον Ἀπόλλωνα .
+-------------------------------------------------------
+ENGLISH:
+but my dear child release to me, and accept the ransom [20] out of reverence for the son of Zeus, Apollo who strikes from afar."
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(butmydearchildreleasetomeandaccepttheransomoutofreverenceforthesonofZeusApollowhostrikesfromafar)
+****GREEK(παῖδαδ̓ἐμοὶλύσαιτεφίληντὰδ̓ἄποιναδέχεσθαιἁζόμενοιΔιὸςυἱὸνἑκηβόλονἈπόλλωνα)
+****ENG_LENGTH(96)
+****GREEK_LENGTH(71)
+****ENG(ZA)
+****GREEK(ΔἈ)
+****ENG_LENGTH(2)
+****GREEK_LENGTH(2)
+z=0.072359156646433
+pnorm=0.52884195608629
+pnorm_1=0.52884200317113
+pd=0.94231608782743
+
+>>>>>MAIN_SCORE(5.9414510979343)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=8  FROM: 22  TO: 23
+GREEK:
+ἔνθ̓ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ αἰδεῖσθαί θ̓ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα ·
+-------------------------------------------------------
+ENGLISH:
+Then all the rest of the Achaeans shouted assent, to reverence the priest and accept the glorious ransom, yet the thing did not please the heart of Agamemnon, son of Atreus, but he sent him away harshly, and laid upon him a stern command:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(ThenalltherestoftheAchaeansshoutedassenttoreverencethepriestandacceptthegloriousransomyetthethingdidnotpleasetheheartofAgamemnonsonofAtreusbuthesenthimawayharshlyandlaiduponhimasterncommand)
+****GREEK(ἔνθ̓ἄλλοιμὲνπάντεςἐπευφήμησανἈχαιοὶαἰδεῖσθαίθ̓ἱερῆακαὶἀγλαὰδέχθαιἄποινα)
+****ENG_LENGTH(189)
+****GREEK_LENGTH(69)
+****ENG(AAA)
+****GREEK(Ἀ)
+****ENG_LENGTH(3)
+****GREEK_LENGTH(1)
+z=2.2772001380669
+pnorm=0.98861286154769
+pnorm_1=0.98861289473907
+pd=0.022774276904626
+
+>>>>>MAIN_SCORE(378.21235858626)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=9  FROM: 24  TO: 25
+GREEK:
+ἀλλ̓ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ , ἀλλὰ κακῶς ἀφίει , κρατερὸν δ̓ ἐπὶ μῦθον ἔτελλε ·
+-------------------------------------------------------
+ENGLISH:
+[25] "Let me not find you, old man, by the hollow ships, either tarrying now or coming back later, lest your staff and the wreath of the god not protect you.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(Letmenotfindyouoldmanbythehollowshipseithertarryingnoworcomingbacklaterlestyourstaffandthewreathofthegodnotprotectyou)
+****GREEK(ἀλλ̓οὐκἈτρεΐδῃἈγαμέμνονιἥνδανεθυμῷἀλλὰκακῶςἀφίεικρατερὸνδ̓ἐπὶμῦθονἔτελλε)
+****ENG_LENGTH(117)
+****GREEK_LENGTH(70)
+****ENG()
+****GREEK(ἈἈ)
+****ENG_LENGTH(0)
+****GREEK_LENGTH(2)
+z=0.72571314070314
+pnorm=0.76599267783113
+pnorm_1=0.76599274074671
+pd=0.46801464433775
+
+>>>>>MAIN_SCORE(75.925569223408)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=10  FROM: 26  TO: 28
+GREEK:
+μή σε γέρον κοίλῃσιν ἐγὼ παρὰ νηυσὶ κιχείω ἢ νῦν δηθύνοντ̓ ἢ ὕστερον αὖτις ἰόντα , μή νύ τοι οὐ χραίσμῃ σκῆπτρον καὶ στέμμα θεοῖο ·
+-------------------------------------------------------
+ENGLISH:
+Her I will not set free.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(HerIwillnotsetfree)
+****GREEK(μήσεγέρονκοίλῃσινἐγὼπαρὰνηυσὶκιχείωἢνῦνδηθύνοντ̓ἢὕστεροναὖτιςἰόνταμήνύτοιοὐχραίσμῃσκῆπτρονκαὶστέμμαθεοῖο)
+****ENG_LENGTH(18)
+****GREEK_LENGTH(103)
+****ENG(I)
+****GREEK()
+****ENG_LENGTH(1)
+****GREEK_LENGTH(0)
+z=8.9017563910471
+pnorm=1
+pnorm_1=1
+pd=0
+
+>>>>>MAIN_SCORE(UNDEFINED!!!!)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: ok
+=======================================================
+ID=11  FROM: 29  TO: 29
+GREEK:
+τὴν δ̓ ἐγὼ οὐ λύσω ·
+-------------------------------------------------------
+ENGLISH:
+Sooner shall old age come upon her in our house, in Argos, far from her native land, [30] as she walks to and fro before the loom and serves my bed.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCORES:
+****ENG(SoonershalloldagecomeuponherinourhouseinArgosfarfromhernativelandasshewalkstoandfrobeforetheloomandservesmybed)
+****GREEK(τὴνδ̓ἐγὼοὐλύσω)
+****ENG_LENGTH(110)
+****GREEK_LENGTH(13)
+****ENG(A)
+****GREEK()
+****ENG_LENGTH(1)
+****GREEK_LENGTH(0)
+z=2.8315237090342
+pnorm=0.99768366005436
+pnorm_1=0.99768359709304
+pd=0.0046326798912872
+
+>>>>>MAIN_SCORE(537.46197681168)<<<<<
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+check: NOK!!!! OFFENDING MILESTONE: [30]
+NO CANDIDATE BREAK FOUND!

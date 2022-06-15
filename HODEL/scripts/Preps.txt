@@ -1,0 +1,16 @@
+concat('\'',prep,'\',')
+NULL
+'e',
+'a',
+'ad',
+'in',
+'circa',
+'de',
+'secundum',
+'per',
+'sub',
+'cum',
+'inter',
+'pro',
+'super',
+'supra',

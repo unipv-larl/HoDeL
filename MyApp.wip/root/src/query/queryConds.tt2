@@ -1,0 +1,184 @@
+
+<div id="query-conditions" class="roundBottom jq-box">
+[% anyConstr = 0 %]
+[% IF seq || card; anyConstr = 1; END %]
+[% FOREACH arg IN argsFilter; anyConstr = anyConstr+1; END %]
+[% FOREACH key IN selectFilter.keys; %]
+   [% IF selectFilter.$key; anyConstr = anyConstr+1; END  %]
+[% END %]
+[% IF selectFilter.argsCard == 0; anyConstr = anyConstr+1; END -%]
+[% IF anyConstr %]
+
+<h6>Constraints:</h6>
+<ul id="constraints-list">
+
+[% IF seq %]
+<li class="constr-item">
+<input type="checkbox" class="arg-list-unselector" name="seq" checked="checked" />
+<span class="selectFilter-item">Exact Sequence</span>
+</li>
+[% END %]
+[% IF card %]
+<li class="constr-item">
+<input type="checkbox" class="arg-list-unselector" name="card" checked="checked" />
+<span class="selectFilter-item">Exact Cardinality</span>
+</li>
+[% END %]
+
+
+[% i=0; FOREACH arg IN argsFilter; i=i+1; %]
+<li class="constr-item">
+<input type="checkbox" class="arg-unselector" name="[% i %]" checked="checked" />
+<span class="meta-info">argument </span>
+<span class="selectFilter-item">[% i %] :</span>
+<ul>
+   [% FOREACH key IN arg.keys; %]
+   [% IF arg.$key %]
+   <li class="constr-item">
+   <input type="checkbox" class="arg-field-unselector" name="S[% key %][% i - 1 %]" checked="checked" />
+   <span class="meta-info">
+   [% SWITCH key %]
+   [%   CASE 'fillerLem' %]lemma :</span>
+   <span class="selectFilter-item">[% arg.$key %]</span>
+
+   [%   CASE 'fillerRelPos' %]relative position :</span>
+   <span class="selectFilter-item">[% arg.$key %]</span>
+
+   [%   CASE 'fillerRelation' %]relation :</span>
+   <span class="selectFilter-item">[% arg.$key %]</span>
+
+   [%   CASE 'fillerCase' %]
+   [% IF arg.$key == 'NULL' %]
+   </span><span class="selectFilter-item">INV./UNINFL.</span>
+   [% ELSE %]
+   [% cm = arg.$key %]
+   [% CaseMoodT.$cm -%]: </span>
+   <span class="selectFilter-item">[% CaseMoodV.$cm -%]</span>
+   [% END %]
+
+   [%   CASE 'fillerPrep' %]prep :</span>
+   [% IF arg.$key == 'NULL' %]
+   <span class="selectFilter-item">NONE</span>
+   [% ELSE %]
+   <span class="selectFilter-item">[% arg.$key %]</span>
+   [% END %]
+
+   [%   CASE 'fillerConj' %]conj :</span>
+   [% IF arg.$key == 'NULL' %]
+   <span class="selectFilter-item">NONE</span>
+   [% ELSE %]
+   <span class="selectFilter-item">[% arg.$key %]</span>
+   [% END %]
+
+   [% END %]
+   </li>
+   [% END %]
+   [% END %]
+</ul>
+</li>
+[% END %]
+
+[% IF selectFilter.lemma -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="Slemma" checked="checked" />
+<span class="meta-info">verb: </span>
+<span class="selectFilter-item lemma">[% selectFilter.lemma %],
+[% SWITCH lemmaInfo.voice %]
+[%   CASE 'a' %] active
+[%   CASE 'p' %] passive
+[%   CASE 'm' %] middle
+[%   CASE 'e' %] medio-passive
+[% END %]
+</span>
+[% END -%]
+
+[% IF selectFilter.diatesi -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="Sdiatesi" checked="checked" />
+<span class="meta-info">voice: </span>
+<span class="selectFilter-item diatesi"> 
+[% SWITCH selectFilter.diatesi %][% CASE 'A' %]Active [% CASE 'P' %]Passive [% CASE 'M' %]Middle [% CASE 'E' %]Medio-Passive [% END %]Voice</span>
+</li>
+[% END -%]
+
+[% IF selectFilter.argsCard || selectFilter.argsCard == 0 -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="SargsCard" checked="checked" />
+<span class="meta-info">no. args: </span>
+<span class="selectFilter-item argsCard">[% selectFilter.argsCard %]</span>
+[% IF selectFilter.argsSet -%]
+<ul>
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="SargsSet" checked="checked" />
+<span class="meta-info">args set: </span>
+<span class="selectFilter-item argsSet">[% selectFilter.argsSet %]</span>
+</li>
+</ul>
+[% END -%]
+</li>
+[% END -%]
+
+
+[% RELS=['Sb', 'Obj', 'Pnom', 'OComp'] %]
+
+[% FOREACH rel IN RELS %]
+
+[% relOrderCat = "relOrderCat$rel" %]
+[% SrelOrderCat = "SrelOrderCat$rel" %]
+[% IF selectFilter.$relOrderCat -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name='[% "SrelOrderCat$rel" %]' checked="checked" />
+<span class="meta-info">Partial Order ( [% rel -%] ): </span>
+<span class="loud">[% selectFilter.$relOrderCat -%]</span>
+[% IF selectFilter.relOrderSubCat -%]
+<ul>
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="SrelOrderSubCat" checked="checked" />
+<span class="meta-info"> Order: </span>
+<span class="loud">[% selectFilter.relOrderSubCat -%]</span>
+</li>
+</ul>
+[% END -%]
+</li>
+[% END -%]
+
+[% END %]
+
+
+[% IF selectFilter.curArgLem -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="ScurArgLem" checked="checked" />
+<span class="meta-info">Argument Lemma: </span>
+<span class="strong argument1">[% selectFilter.curArgLem -%]</span>
+</li>
+[% END -%]
+
+[% IF selectFilter.curArgRel -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="ScurArgRel" checked="checked" />
+<span class="meta-info">Argument Releation: </span>
+<span class="loud">[% selectFilter.curArgRel -%]</span>
+</li>
+[% END -%]
+
+[% IF selectFilter.curArgCas -%]
+<li class="constr-item">
+<input type="checkbox" class="cat-unselector" name="ScurArgCas" checked="checked" />
+[% cm = selectFilter.curArgCas%]
+[% IF cm=='NULL' %]
+<span class="meta-info">Argument : </span>
+<span class="loud">INV./UNINFL.</span>
+[% ELSE %]
+<span class="meta-info">Argument [% CaseMoodT.$cm -%]: </span>
+<span class="loud">[% CaseMoodV.$cm -%]</span>
+[% END -%]
+</li>
+[% END -%]
+</ul>
+<a id="unselectall" href="#">drop all</a>
+<a id="unselectsel" href="#">drop unchecked</a>
+
+[% END -%]
+
+</div>
+
