@@ -1,7 +1,7 @@
 # calculate stats
 set -e
 
-MYSQL_CMD="mysql -uroot -pPaShalom hodel_test "
+MYSQL_CMD="mysql -uroot -phodel_db_PaSsWoRd hodel_test "
 
 queryStat_C="DROP TABLE IF EXISTS Book_stats; \
        CREATE TABLE Book_stats ( \

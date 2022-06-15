@@ -16,7 +16,7 @@ print "$text\n";
 
 $db ="hodel_test";
 $user = "root"; 
-$pass = "PaShalom";
+$pass = "hodel_db_PaSsWoRd";
 $host="localhost";
  
 ## SQL query

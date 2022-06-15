@@ -1,5 +1,5 @@
 
-MYSQL_CMD="mysql -uroot -pPaShalom hodel_test "
+MYSQL_CMD="mysql -uroot -phodel_db_PaSsWoRd hodel_test "
 
 #queryCreateMap="DROP TABLE IF EXISTS trans_map; \
        #CREATE TABLE trans_map ( \

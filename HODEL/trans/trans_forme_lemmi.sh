@@ -2,7 +2,7 @@
 
 ## correzione get_hodel_string: alcune forme hanno posAGDT = '-'
 
-MYSQL_CMD="mysql -uroot -pPaShalom hodel_test "
+MYSQL_CMD="mysql -uroot -phodel_db_PaSsWoRd hodel_test "
 
 query="SELECT DISTINCT forma COLLATE utf8_bin AS str \
        FROM Forma \

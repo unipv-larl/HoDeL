@@ -9,7 +9,7 @@ __PACKAGE__->config(
     connect_info => [
         'dbi:mysql:hodel_test',
         'root',
-        'PaShalom',
+        'hodel_db_PaSsWoRd',
         { AutoCommit => 1 },
         
     ],
@@ -22,7 +22,7 @@ __PACKAGE__->config(
  connect_info => {
      dsn               => 'dbi:mysql:hodel_test',
      user              => 'root',
-     password          => 'PaShalom',
+     password          => 'hodel_db_PaSsWoRd',
      AutoCommit        => 1,
      RaiseError        => 1,
      mysql_enable_utf8 => 1,

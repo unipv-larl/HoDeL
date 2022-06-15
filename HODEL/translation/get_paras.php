@@ -1,7 +1,7 @@
 <?php
 
 //CONNECTION
-$mysqli = new mysqli("localhost", "root", "PaShalom", "hodel_test");
+$mysqli = new mysqli("localhost", "root", "hodel_db_PaSsWoRd", "hodel_test");
 if ($mysqli->connect_errno) {
     echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 }

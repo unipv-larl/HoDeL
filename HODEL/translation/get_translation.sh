@@ -1,5 +1,5 @@
 
-MYSQL_CMD="mysql -uroot -pPaShalom hodel_test "
+MYSQL_CMD="mysql -uroot -phodel_db_PaSsWoRd hodel_test "
 
 querySents_eng="DROP TABLE IF EXISTS Sentence_eng; \
        CREATE TABLE Sentence_eng ( \
